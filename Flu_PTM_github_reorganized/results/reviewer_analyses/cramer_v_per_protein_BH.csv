@@ -1,0 +1,14 @@
+protein,n_sites,n_fast_sites,n_slow_sites,n_taxa,cramers_v_all,se_all,cramers_v_fast,se_fast,cramers_v_slow,se_slow,n_sites_tested_strain_perm,n_sites_sig_strain_perm,n_fast_tested_strain_perm,n_fast_sig_strain_perm,n_slow_tested_strain_perm,n_slow_sig_strain_perm,n_sites_sig_bh,n_fast_sig_bh,n_slow_sig_bh
+PB2_polymerase,40,3,0,262,0.1706,0.0232,0.1248,0.0139,,,34,7,3,0,0,0,6,0,0
+PB1_polymerase,24,0,5,244,0.1392,0.0217,,,0.0867,0.0104,16,0,0,0,3,0,0,0,0
+PB1-F2_protein,14,0,3,70,0.3031,0.0465,,,0.177,0.0236,13,3,0,0,2,0,1,0,0
+PA_polymerase,37,2,0,255,0.1804,0.0269,0.1144,0.0,,,29,6,2,0,0,0,6,0,0
+PA-X_protein,14,0,3,90,0.2643,0.063,,,0.1701,0.0091,12,4,0,0,2,0,1,0,0
+NP_protein,28,2,0,286,0.2327,0.0365,0.2849,0.1592,,,24,7,2,1,0,0,6,1,0
+NA_neuraminidase,59,2,0,484,0.1894,0.0223,0.0504,0.0061,,,55,9,2,0,0,0,3,0,0
+M1_matrix_protein,9,0,1,370,0.211,0.0733,,,0.2193,0.0,8,1,0,0,1,0,1,0,0
+M2_ion_channel,12,0,2,321,0.1729,0.0332,,,0.3162,0.0785,12,3,0,0,2,1,2,0,0
+NS1_protein,24,0,5,288,0.2387,0.036,,,0.1673,0.0505,23,8,0,0,5,1,8,0,1
+NS2_protein,2,0,0,14,1.0,0.0,,,,,1,0,0,0,0,0,0,0,0
+NEP_protein,2,0,0,271,0.5482,0.0,,,,,1,1,0,0,0,0,1,0,0
+HA_full,80,2,4,620,0.2158,0.0262,0.1668,0.0,0.1695,0.0499,73,18,1,0,3,2,13,0,2
