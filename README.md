@@ -1,6 +1,6 @@
 # Evolutionary Rate Variation at Predicted PTM Sites Highlights Localized Host-Associated Signals in Influenza A Virus
 
-**Teufel AI, Hasan MI, Smyth DS** — *Genome Biology and Evolution*, 2026
+**Teufel AI, Hasan MI, Smyth DS** — *Genome Biology and Evolution*, 2026 (under review)
 
 This repository contains all scripts, input data, and results for the analysis described in the manuscript. 
 
