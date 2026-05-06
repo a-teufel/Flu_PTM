@@ -1,0 +1,37 @@
+host_raw,host_broad,n_records
+Homo sapiens,Human,2127
+Sus scrofa,Swine,1203
+,,701
+Gallus gallus,Avian,367
+Anatidae,Avian,174
+Aves,Avian,109
+Meleagris gallopavo,Avian,68
+Anas platyrhynchos,Avian,55
+Panthera tigris,Mammalian_Other,36
+Mareca americana,Avian,24
+Numididae,Avian,24
+Phasianinae,Avian,24
+Anas carolinensis,Avian,23
+Spatula clypeata,Avian,23
+Cygnus olor,Avian,22
+Mus musculus,Mammalian_Other,20
+Mustela lutreola,Mammalian_Other,20
+Columbidae,Avian,19
+Anas cyanoptera,Avian,12
+Arenaria interpres,Avian,12
+Cairina moschata,Avian,12
+Numididae sp.,Avian,12
+Spatula discors,Avian,12
+Accipitriformes,Avian,10
+Mustela putorius furo,Mammalian_Other,10
+Parus major,Avian,10
+Passer montanus,Avian,10
+Psittacidae,Avian,10
+Suricata suricatta,Mammalian_Other,10
+Felis catus,Mammalian_Other,4
+Accipitridae,Avian,2
+Aythya ferina,Avian,1
+Galliformes,Avian,1
+Hirundo rustica,Avian,1
+Tachybaptus ruficollis,Avian,1
+Tadorna,Avian,1
