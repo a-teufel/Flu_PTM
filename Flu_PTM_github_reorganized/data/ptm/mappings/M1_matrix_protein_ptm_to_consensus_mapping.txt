@@ -1,0 +1,11 @@
+# Mapping between PTM positions and consensus sequence positions
+# Format: PTM_Index	Alignment_Position	Consensus_Position	Consensus_AA
+1	21	21	A
+2	85	85	G
+3	101	101	K
+4	102	102	L
+5	104	104	R
+6	158	158	H
+7	195	195	S
+8	207	207	Q
+9	224	224	S

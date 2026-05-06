@@ -1,0 +1,23 @@
+parent_state,child_state,n,transition
+Homo sapiens,Sus scrofa,4,Homo sapiens → Sus scrofa
+Anatidae,Columbidae,2,Anatidae → Columbidae
+Sus scrofa,Homo sapiens,2,Sus scrofa → Homo sapiens
+Anas platyrhynchos,Cairina moschata,1,Anas platyrhynchos → Cairina moschata
+Anas platyrhynchos,Gallus gallus,1,Anas platyrhynchos → Gallus gallus
+Anas platyrhynchos,Mustela lutreola,1,Anas platyrhynchos → Mustela lutreola
+Anatidae,Gallus gallus,1,Anatidae → Gallus gallus
+Anatidae,Phasianinae,1,Anatidae → Phasianinae
+Cygnus olor,Anatidae,1,Cygnus olor → Anatidae
+Gallus gallus,Numididae sp.,1,Gallus gallus → Numididae sp.
+Gallus gallus,Suricata suricatta,1,Gallus gallus → Suricata suricatta
+Gallus gallus,Sus scrofa,1,Gallus gallus → Sus scrofa
+Homo sapiens,Gallus gallus,1,Homo sapiens → Gallus gallus
+Homo sapiens,Meleagris gallopavo,1,Homo sapiens → Meleagris gallopavo
+Mareca americana,Anas carolinensis,1,Mareca americana → Anas carolinensis
+Mareca americana,Meleagris gallopavo,1,Mareca americana → Meleagris gallopavo
+Mustela lutreola,Panthera tigris,1,Mustela lutreola → Panthera tigris
+Phasianinae,Mustela lutreola,1,Phasianinae → Mustela lutreola
+Spatula clypeata,Anas carolinensis,1,Spatula clypeata → Anas carolinensis
+Spatula clypeata,Anas cyanoptera,1,Spatula clypeata → Anas cyanoptera
+Spatula clypeata,Gallus gallus,1,Spatula clypeata → Gallus gallus
+Spatula clypeata,Spatula discors,1,Spatula clypeata → Spatula discors

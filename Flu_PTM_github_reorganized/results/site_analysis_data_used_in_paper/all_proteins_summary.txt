@@ -1,0 +1,71 @@
+Paper-consistent site-rate summary (canonical source: data/ptm/mappings/paper_site_rate_annotations.csv)
+Classification rule in manuscript: fast > mean + 2 SD; slow < mean - 1 SD
+
+Protein: PB2_polymerase
+Fast-evolving sites: 3
+Slow-evolving sites: 0
+Fast site indices: 4,20,38
+
+Protein: PB1-F2_protein
+Fast-evolving sites: 0
+Slow-evolving sites: 3
+Slow site indices: 7,8,12
+
+Protein: PB1_polymerase
+Fast-evolving sites: 0
+Slow-evolving sites: 5
+Slow site indices: 1,8,13,14,23
+
+Protein: PA_polymerase
+Fast-evolving sites: 2
+Slow-evolving sites: 0
+Fast site indices: 13,25
+
+Protein: PA-X_protein
+Fast-evolving sites: 0
+Slow-evolving sites: 3
+Slow site indices: 2,4,11
+
+Protein: HA_full
+Fast-evolving sites: 2
+Slow-evolving sites: 4
+Fast site indices: 36,77
+Slow site indices: 9,24,51,73
+
+Protein: NP_protein
+Fast-evolving sites: 2
+Slow-evolving sites: 0
+Fast site indices: 13,15
+
+Protein: NA_neuraminidase
+Fast-evolving sites: 2
+Slow-evolving sites: 0
+Fast site indices: 33,53
+
+Protein: M1_matrix_protein
+Fast-evolving sites: 0
+Slow-evolving sites: 1
+Slow site indices: 6
+
+Protein: M2_ion_channel
+Fast-evolving sites: 0
+Slow-evolving sites: 2
+Slow site indices: 4,8
+
+Protein: NEP_protein
+Fast-evolving sites: 0
+Slow-evolving sites: 0
+
+Protein: NS1_protein
+Fast-evolving sites: 0
+Slow-evolving sites: 5
+Slow site indices: 5,13,15,17,18
+
+Protein: NS2_protein
+Fast-evolving sites: 0
+Slow-evolving sites: 0
+
+===== OVERALL ANALYSIS =====
+Total fast-evolving sites: 11
+Total slow-evolving sites: 23
+Total classified sites: 34

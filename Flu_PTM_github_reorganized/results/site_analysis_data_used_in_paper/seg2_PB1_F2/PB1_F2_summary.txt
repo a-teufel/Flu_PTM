@@ -1,0 +1,41 @@
+=============================================
+seg2 - PB1-F2 PROTEIN EVOLUTIONARY ANALYSIS
+=============================================
+
+ANALYSIS OVERVIEW:
+- Sites analyzed: 14 
+- Non-zero branches: 86 
+- Zero branches excluded: 126 
+- Host shifts identified: 26  ( 30.2 %)
+- Fast-evolving sites: 0
+- Slow-evolving sites: 3
+
+HOST SHIFT SUMMARY:
+  * Homo sapiens → Gallus gallus: 8 occurrences
+  * Homo sapiens → Anatidae: 5 occurrences
+  * Homo sapiens → Meleagris gallopavo: 4 occurrences
+  * Homo sapiens → Anas carolinensis: 1 occurrences
+  * Homo sapiens → Anas cyanoptera: 1 occurrences
+
+BRANCH RATE ANALYSIS:
+- Host shift branches (n = 26 ): median rate = 0.008608721 
+- Non-host shift branches (n = 60 ): median rate = 0.009135312 
+- Wilcoxon test p-value: 0.07028231 
+- KS test p-value: 0.2156736 
+
+SITE RATE ANALYSIS:
+- Mean site rate: 0.07142857 
+- SD: 0.01027553 
+- Median site rate: 0.07085098 
+- MAD: 0.01060778 
+- Coefficient of variation: 14.4 %
+- Range: 0.05580624 to 0.08808029 
+
+FILES GENERATED:
+- Site rate plot: site_specific_analysis_results/seg2_PB1_F2/PB1_F2_site_rates.pdf 
+- Quartile plot: site_specific_analysis_results/seg2_PB1_F2/PB1_F2_rate_quartiles.pdf 
+- Site significance plot: site_specific_analysis_results/seg2_PB1_F2/PB1_F2_significant_sites.pdf 
+- Branch rate density plot: site_specific_analysis_results/seg2_PB1_F2/PB1_F2_branch_rates.pdf 
+- Branch rate violin plot: site_specific_analysis_results/seg2_PB1_F2/PB1_F2_branch_rates_violin.pdf 
+- Host transitions table: site_specific_analysis_results/seg2_PB1_F2/PB1_F2_host_transitions.csv 
+- Zero branch list: site_specific_analysis_results/seg2_PB1_F2/PB1_F2_zero_branches.csv 

@@ -1,0 +1,40 @@
+=============================================
+seg8 - NS2 PROTEIN EVOLUTIONARY ANALYSIS
+=============================================
+
+ANALYSIS OVERVIEW:
+- Sites analyzed: 2 
+- Non-zero branches: 44 
+- Zero branches excluded: 68 
+- Host shifts identified: 5  ( 11.4 %)
+- Fast-evolving sites: 0
+- Slow-evolving sites: 0
+
+HOST SHIFT SUMMARY:
+  * Gallus gallus → Mus musculus: 2 occurrences
+  * Gallus gallus → Anatidae: 1 occurrences
+  * Gallus gallus → Homo sapiens: 1 occurrences
+  * Gallus gallus → Sus scrofa: 1 occurrences
+
+BRANCH RATE ANALYSIS:
+- Host shift branches (n = 5 ): median rate = 0.0221516 
+- Non-host shift branches (n = 39 ): median rate = 0.02161085 
+- Wilcoxon test p-value: 0.8297324 
+- KS test p-value: 0.3823397 
+
+SITE RATE ANALYSIS:
+- Mean site rate: 0.5 
+- SD: 0.004933629 
+- Median site rate: 0.5 
+- MAD: 0.005172202 
+- Coefficient of variation: 1 %
+- Range: 0.4965114 to 0.5034886 
+
+FILES GENERATED:
+- Site rate plot: site_specific_analysis_results/seg8_NS2/NS2_site_rates.pdf 
+- Quartile plot: site_specific_analysis_results/seg8_NS2/NS2_rate_quartiles.pdf 
+- Site significance plot: site_specific_analysis_results/seg8_NS2/NS2_significant_sites.pdf 
+- Branch rate density plot: site_specific_analysis_results/seg8_NS2/NS2_branch_rates.pdf 
+- Branch rate violin plot: site_specific_analysis_results/seg8_NS2/NS2_branch_rates_violin.pdf 
+- Host transitions table: site_specific_analysis_results/seg8_NS2/NS2_host_transitions.csv 
+- Zero branch list: site_specific_analysis_results/seg8_NS2/NS2_zero_branches.csv 

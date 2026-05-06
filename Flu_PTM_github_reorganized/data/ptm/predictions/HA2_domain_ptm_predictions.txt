@@ -1,0 +1,1056 @@
+PTM predictions for processed_segments_fixed_final\seg4\HA2_domain_aligned.fasta
+==================================================
+
+Sequence: YP_009118483
+Original length: 221, Aligned length: 222
+
+  Unaligned Position: 12, Aligned Position: 12, AA: N, PTM: N-linked_glycosylation, Score: 0.036
+
+  Unaligned Position: 22, Aligned Position: 22, AA: Y, PTM: Phosphotyrosine, Score: 0.06
+
+  Unaligned Position: 25, Aligned Position: 25, AA: R, PTM: Methylarginine, Score: 0.057
+
+  Unaligned Position: 27, Aligned Position: 27, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.051
+
+  Unaligned Position: 28, Aligned Position: 28, AA: N, PTM: N-linked_glycosylation, Score: 0.033
+
+  Unaligned Position: 30, Aligned Position: 30, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.039
+
+  Unaligned Position: 34, Aligned Position: 34, AA: T, PTM: Phosphothreonine, Score: 0.151
+  Unaligned Position: 34, Aligned Position: 34, AA: T, PTM: O-linked_glycosylation, Score: 0.161
+
+  Unaligned Position: 38, Aligned Position: 38, AA: Y, PTM: Phosphotyrosine, Score: 0.644
+
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: Ubiquitination, Score: 0.53
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: SUMOylation, Score: 0.034
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: N6-acetyllysine, Score: 0.226
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: Methyllysine, Score: 0.155
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: Hydroxylysine, Score: 0.022
+
+  Unaligned Position: 40, Aligned Position: 40, AA: S, PTM: Phosphoserine, Score: 0.302
+  Unaligned Position: 40, Aligned Position: 40, AA: S, PTM: O-linked_glycosylation, Score: 0.122
+
+  Unaligned Position: 41, Aligned Position: 41, AA: T, PTM: Phosphothreonine, Score: 0.152
+  Unaligned Position: 41, Aligned Position: 41, AA: T, PTM: O-linked_glycosylation, Score: 0.103
+
+  Unaligned Position: 42, Aligned Position: 42, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.042
+
+  Unaligned Position: 43, Aligned Position: 43, AA: S, PTM: Phosphoserine, Score: 0.551
+  Unaligned Position: 43, Aligned Position: 43, AA: S, PTM: O-linked_glycosylation, Score: 0.074
+
+  Unaligned Position: 47, Aligned Position: 47, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.034
+
+  Unaligned Position: 49, Aligned Position: 49, AA: T, PTM: Phosphothreonine, Score: 0.12
+  Unaligned Position: 49, Aligned Position: 49, AA: T, PTM: O-linked_glycosylation, Score: 0.068
+
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: Ubiquitination, Score: 0.388
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: SUMOylation, Score: 0.033
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: N6-acetyllysine, Score: 0.438
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: Methyllysine, Score: 0.073
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: Hydroxylysine, Score: 0.028
+
+  Unaligned Position: 53, Aligned Position: 53, AA: N, PTM: N-linked_glycosylation, Score: 0.034
+
+  Unaligned Position: 54, Aligned Position: 54, AA: R, PTM: Methylarginine, Score: 0.033
+
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: Ubiquitination, Score: 0.394
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: SUMOylation, Score: 0.039
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: N6-acetyllysine, Score: 0.195
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: Methyllysine, Score: 0.142
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: Hydroxylysine, Score: 0.234
+
+  Unaligned Position: 59, Aligned Position: 59, AA: T, PTM: Phosphothreonine, Score: 0.103
+  Unaligned Position: 59, Aligned Position: 59, AA: T, PTM: O-linked_glycosylation, Score: 0.065
+
+  Unaligned Position: 60, Aligned Position: 60, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 61, Aligned Position: 61, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.059
+
+  Unaligned Position: 62, Aligned Position: 62, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.04
+
+  Unaligned Position: 68, Aligned Position: 68, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 71, Aligned Position: 71, AA: N, PTM: N-linked_glycosylation, Score: 0.033
+
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: Ubiquitination, Score: 0.29
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: SUMOylation, Score: 0.045
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: N6-acetyllysine, Score: 0.132
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: Methyllysine, Score: 0.176
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: Hydroxylysine, Score: 0.063
+
+  Unaligned Position: 76, Aligned Position: 76, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.05
+
+  Unaligned Position: 79, Aligned Position: 79, AA: N, PTM: N-linked_glycosylation, Score: 0.035
+
+  Unaligned Position: 82, Aligned Position: 82, AA: N, PTM: N-linked_glycosylation, Score: 0.912
+
+  Unaligned Position: 84, Aligned Position: 84, AA: T, PTM: Phosphothreonine, Score: 0.069
+  Unaligned Position: 84, Aligned Position: 84, AA: T, PTM: O-linked_glycosylation, Score: 0.046
+
+  Unaligned Position: 85, Aligned Position: 85, AA: R, PTM: Methylarginine, Score: 0.014
+
+  Unaligned Position: 87, Aligned Position: 87, AA: S, PTM: Phosphoserine, Score: 0.074
+  Unaligned Position: 87, Aligned Position: 87, AA: S, PTM: O-linked_glycosylation, Score: 0.044
+
+  Unaligned Position: 89, Aligned Position: 89, AA: T, PTM: Phosphothreonine, Score: 0.055
+  Unaligned Position: 89, Aligned Position: 89, AA: T, PTM: O-linked_glycosylation, Score: 0.044
+
+  Unaligned Position: 93, Aligned Position: 93, AA: S, PTM: Phosphoserine, Score: 0.068
+  Unaligned Position: 93, Aligned Position: 93, AA: S, PTM: O-linked_glycosylation, Score: 0.048
+
+  Unaligned Position: 94, Aligned Position: 94, AA: Y, PTM: Phosphotyrosine, Score: 0.022
+
+  Unaligned Position: 95, Aligned Position: 95, AA: N, PTM: N-linked_glycosylation, Score: 0.034
+
+  Unaligned Position: 104, Aligned Position: 104, AA: N, PTM: N-linked_glycosylation, Score: 0.036
+
+  Unaligned Position: 105, Aligned Position: 105, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.037
+
+  Unaligned Position: 107, Aligned Position: 107, AA: T, PTM: Phosphothreonine, Score: 0.118
+  Unaligned Position: 107, Aligned Position: 107, AA: T, PTM: O-linked_glycosylation, Score: 0.085
+
+  Unaligned Position: 113, Aligned Position: 113, AA: S, PTM: Phosphoserine, Score: 0.312
+  Unaligned Position: 113, Aligned Position: 113, AA: S, PTM: O-linked_glycosylation, Score: 0.111
+
+  Unaligned Position: 117, Aligned Position: 117, AA: K, PTM: Ubiquitination, Score: 0.487
+  Unaligned Position: 117, Aligned Position: 117, AA: K, PTM: SUMOylation, Score: 0.069
+  Unaligned Position: 117, Aligned Position: 117, AA: K, PTM: N6-acetyllysine, Score: 0.151
+  Unaligned Position: 117, Aligned Position: 117, AA: K, PTM: Methyllysine, Score: 0.043
+  Unaligned Position: 117, Aligned Position: 117, AA: K, PTM: Hydroxylysine, Score: 0.072
+
+  Unaligned Position: 119, Aligned Position: 119, AA: Y, PTM: Phosphotyrosine, Score: 0.357
+
+  Unaligned Position: 121, Aligned Position: 121, AA: R, PTM: Methylarginine, Score: 0.021
+
+  Unaligned Position: 123, Aligned Position: 123, AA: K, PTM: Ubiquitination, Score: 0.254
+  Unaligned Position: 123, Aligned Position: 123, AA: K, PTM: SUMOylation, Score: 0.054
+  Unaligned Position: 123, Aligned Position: 123, AA: K, PTM: N6-acetyllysine, Score: 0.162
+  Unaligned Position: 123, Aligned Position: 123, AA: K, PTM: Methyllysine, Score: 0.037
+  Unaligned Position: 123, Aligned Position: 123, AA: K, PTM: Hydroxylysine, Score: 0.037
+
+  Unaligned Position: 124, Aligned Position: 124, AA: R, PTM: Methylarginine, Score: 0.015
+
+  Unaligned Position: 125, Aligned Position: 125, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.882
+
+  Unaligned Position: 127, Aligned Position: 127, AA: R, PTM: Methylarginine, Score: 0.015
+
+  Unaligned Position: 129, Aligned Position: 129, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 135, Aligned Position: 135, AA: T, PTM: Phosphothreonine, Score: 0.15
+  Unaligned Position: 135, Aligned Position: 135, AA: T, PTM: O-linked_glycosylation, Score: 0.46
+
+  Unaligned Position: 137, Aligned Position: 137, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.024
+
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: Ubiquitination, Score: 0.169
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: SUMOylation, Score: 0.146
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: N6-acetyllysine, Score: 0.135
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: Methyllysine, Score: 0.077
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: Hydroxylysine, Score: 0.063
+
+  Unaligned Position: 144, Aligned Position: 144, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.029
+
+  Unaligned Position: 148, Aligned Position: 148, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.026
+
+  Unaligned Position: 151, Aligned Position: 151, AA: S, PTM: Phosphoserine, Score: 0.244
+  Unaligned Position: 151, Aligned Position: 151, AA: S, PTM: O-linked_glycosylation, Score: 0.133
+
+  Unaligned Position: 153, Aligned Position: 153, AA: R, PTM: Methylarginine, Score: 0.046
+
+  Unaligned Position: 154, Aligned Position: 154, AA: N, PTM: N-linked_glycosylation, Score: 0.905
+
+  Unaligned Position: 155, Aligned Position: 155, AA: N, PTM: N-linked_glycosylation, Score: 0.039
+
+  Unaligned Position: 156, Aligned Position: 156, AA: T, PTM: Phosphothreonine, Score: 0.152
+  Unaligned Position: 156, Aligned Position: 156, AA: T, PTM: O-linked_glycosylation, Score: 0.063
+
+  Unaligned Position: 157, Aligned Position: 157, AA: Y, PTM: Phosphotyrosine, Score: 0.083
+
+  Unaligned Position: 160, Aligned Position: 160, AA: S, PTM: Phosphoserine, Score: 0.118
+  Unaligned Position: 160, Aligned Position: 160, AA: S, PTM: O-linked_glycosylation, Score: 0.064
+
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: Ubiquitination, Score: 0.437
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: SUMOylation, Score: 0.04
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: N6-acetyllysine, Score: 0.653
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: Methyllysine, Score: 0.238
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: Hydroxylysine, Score: 0.05
+
+  Unaligned Position: 162, Aligned Position: 162, AA: Y, PTM: Phosphotyrosine, Score: 0.045
+
+  Unaligned Position: 163, Aligned Position: 163, AA: R, PTM: Methylarginine, Score: 0.083
+
+  Unaligned Position: 168, Aligned Position: 168, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.085
+
+  Unaligned Position: 169, Aligned Position: 169, AA: N, PTM: N-linked_glycosylation, Score: 0.034
+
+  Unaligned Position: 170, Aligned Position: 170, AA: R, PTM: Methylarginine, Score: 0.032
+
+  Unaligned Position: 172, Aligned Position: 172, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.118
+
+  Unaligned Position: 175, Aligned Position: 175, AA: P, PTM: Hydroxyproline, Score: 0.085
+
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: Ubiquitination, Score: 0.338
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: SUMOylation, Score: 0.045
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: N6-acetyllysine, Score: 0.425
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: Methyllysine, Score: 0.116
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: Hydroxylysine, Score: 0.064
+
+  Unaligned Position: 179, Aligned Position: 179, AA: S, PTM: Phosphoserine, Score: 0.115
+  Unaligned Position: 179, Aligned Position: 179, AA: S, PTM: O-linked_glycosylation, Score: 0.079
+
+  Unaligned Position: 180, Aligned Position: 181, AA: S, PTM: Phosphoserine, Score: 0.086
+  Unaligned Position: 180, Aligned Position: 181, AA: S, PTM: O-linked_glycosylation, Score: 0.064
+
+  Unaligned Position: 182, Aligned Position: 183, AA: Y, PTM: Phosphotyrosine, Score: 0.046
+
+  Unaligned Position: 183, Aligned Position: 184, AA: K, PTM: Ubiquitination, Score: 0.238
+  Unaligned Position: 183, Aligned Position: 184, AA: K, PTM: SUMOylation, Score: 0.066
+  Unaligned Position: 183, Aligned Position: 184, AA: K, PTM: N6-acetyllysine, Score: 0.205
+  Unaligned Position: 183, Aligned Position: 184, AA: K, PTM: Methyllysine, Score: 0.083
+  Unaligned Position: 183, Aligned Position: 184, AA: K, PTM: Hydroxylysine, Score: 0.058
+
+  Unaligned Position: 190, Aligned Position: 191, AA: S, PTM: Phosphoserine, Score: 0.055
+  Unaligned Position: 190, Aligned Position: 191, AA: S, PTM: O-linked_glycosylation, Score: 0.05
+
+  Unaligned Position: 194, Aligned Position: 195, AA: S, PTM: Phosphoserine, Score: 0.046
+  Unaligned Position: 194, Aligned Position: 195, AA: S, PTM: O-linked_glycosylation, Score: 0.063
+
+  Unaligned Position: 195, Aligned Position: 196, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.046
+
+  Unaligned Position: 209, Aligned Position: 210, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.135
+
+  Unaligned Position: 211, Aligned Position: 212, AA: K, PTM: Ubiquitination, Score: 0.192
+  Unaligned Position: 211, Aligned Position: 212, AA: K, PTM: SUMOylation, Score: 0.039
+  Unaligned Position: 211, Aligned Position: 212, AA: K, PTM: N6-acetyllysine, Score: 0.147
+  Unaligned Position: 211, Aligned Position: 212, AA: K, PTM: Methyllysine, Score: 0.054
+  Unaligned Position: 211, Aligned Position: 212, AA: K, PTM: Hydroxylysine, Score: 0.046
+
+  Unaligned Position: 212, Aligned Position: 213, AA: N, PTM: N-linked_glycosylation, Score: 0.037
+
+  Unaligned Position: 214, Aligned Position: 215, AA: N, PTM: N-linked_glycosylation, Score: 0.033
+
+  Unaligned Position: 216, Aligned Position: 217, AA: R, PTM: Methylarginine, Score: 0.025
+
+  Unaligned Position: 217, Aligned Position: 218, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.964
+
+  Unaligned Position: 218, Aligned Position: 219, AA: T, PTM: Phosphothreonine, Score: 0.299
+  Unaligned Position: 218, Aligned Position: 219, AA: T, PTM: O-linked_glycosylation, Score: 0.055
+
+  Unaligned Position: 220, Aligned Position: 221, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.95
+
+
+Sequence: YP_529487
+Original length: 222, Aligned length: 222
+
+  Unaligned Position: 15, Aligned Position: 15, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.292
+
+  Unaligned Position: 22, Aligned Position: 22, AA: Y, PTM: Phosphotyrosine, Score: 0.029
+
+  Unaligned Position: 24, Aligned Position: 24, AA: Y, PTM: Phosphotyrosine, Score: 0.031
+
+  Unaligned Position: 27, Aligned Position: 27, AA: S, PTM: Phosphoserine, Score: 0.186
+  Unaligned Position: 27, Aligned Position: 27, AA: S, PTM: O-linked_glycosylation, Score: 0.149
+
+  Unaligned Position: 28, Aligned Position: 28, AA: N, PTM: N-linked_glycosylation, Score: 0.031
+
+  Unaligned Position: 30, Aligned Position: 30, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.057
+
+  Unaligned Position: 32, Aligned Position: 32, AA: S, PTM: Phosphoserine, Score: 0.205
+  Unaligned Position: 32, Aligned Position: 32, AA: S, PTM: O-linked_glycosylation, Score: 0.677
+
+  Unaligned Position: 34, Aligned Position: 34, AA: Y, PTM: Phosphotyrosine, Score: 0.165
+
+  Unaligned Position: 38, Aligned Position: 38, AA: K, PTM: Ubiquitination, Score: 0.578
+  Unaligned Position: 38, Aligned Position: 38, AA: K, PTM: SUMOylation, Score: 0.04
+  Unaligned Position: 38, Aligned Position: 38, AA: K, PTM: N6-acetyllysine, Score: 0.21
+  Unaligned Position: 38, Aligned Position: 38, AA: K, PTM: Methyllysine, Score: 0.13
+  Unaligned Position: 38, Aligned Position: 38, AA: K, PTM: Hydroxylysine, Score: 0.048
+
+  Unaligned Position: 40, Aligned Position: 40, AA: S, PTM: Phosphoserine, Score: 0.219
+  Unaligned Position: 40, Aligned Position: 40, AA: S, PTM: O-linked_glycosylation, Score: 0.119
+
+  Unaligned Position: 41, Aligned Position: 41, AA: T, PTM: Phosphothreonine, Score: 0.129
+  Unaligned Position: 41, Aligned Position: 41, AA: T, PTM: O-linked_glycosylation, Score: 0.097
+
+  Unaligned Position: 42, Aligned Position: 42, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.027
+
+  Unaligned Position: 43, Aligned Position: 43, AA: K, PTM: Ubiquitination, Score: 0.286
+  Unaligned Position: 43, Aligned Position: 43, AA: K, PTM: SUMOylation, Score: 0.037
+  Unaligned Position: 43, Aligned Position: 43, AA: K, PTM: N6-acetyllysine, Score: 0.284
+  Unaligned Position: 43, Aligned Position: 43, AA: K, PTM: Methyllysine, Score: 0.172
+  Unaligned Position: 43, Aligned Position: 43, AA: K, PTM: Hydroxylysine, Score: 0.043
+
+  Unaligned Position: 49, Aligned Position: 49, AA: T, PTM: Phosphothreonine, Score: 0.12
+  Unaligned Position: 49, Aligned Position: 49, AA: T, PTM: O-linked_glycosylation, Score: 0.085
+
+  Unaligned Position: 50, Aligned Position: 50, AA: N, PTM: N-linked_glycosylation, Score: 0.031
+
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: Ubiquitination, Score: 0.311
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: SUMOylation, Score: 0.036
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: N6-acetyllysine, Score: 0.213
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: Methyllysine, Score: 0.051
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: Hydroxylysine, Score: 0.065
+
+  Unaligned Position: 53, Aligned Position: 53, AA: N, PTM: N-linked_glycosylation, Score: 0.037
+
+  Unaligned Position: 54, Aligned Position: 54, AA: S, PTM: Phosphoserine, Score: 0.466
+  Unaligned Position: 54, Aligned Position: 54, AA: S, PTM: O-linked_glycosylation, Score: 0.06
+
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: Ubiquitination, Score: 0.361
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: SUMOylation, Score: 0.039
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: N6-acetyllysine, Score: 0.595
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: Methyllysine, Score: 0.053
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: Hydroxylysine, Score: 0.206
+
+  Unaligned Position: 60, Aligned Position: 60, AA: N, PTM: N-linked_glycosylation, Score: 0.033
+
+  Unaligned Position: 61, Aligned Position: 61, AA: T, PTM: Phosphothreonine, Score: 0.172
+  Unaligned Position: 61, Aligned Position: 61, AA: T, PTM: O-linked_glycosylation, Score: 0.053
+
+  Unaligned Position: 62, Aligned Position: 62, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.048
+
+  Unaligned Position: 68, Aligned Position: 68, AA: R, PTM: Methylarginine, Score: 0.037
+
+  Unaligned Position: 71, Aligned Position: 71, AA: N, PTM: N-linked_glycosylation, Score: 0.034
+
+  Unaligned Position: 72, Aligned Position: 72, AA: N, PTM: N-linked_glycosylation, Score: 0.031
+
+  Unaligned Position: 75, Aligned Position: 75, AA: R, PTM: Methylarginine, Score: 0.018
+
+  Unaligned Position: 76, Aligned Position: 76, AA: R, PTM: Methylarginine, Score: 0.021
+
+  Unaligned Position: 79, Aligned Position: 79, AA: N, PTM: N-linked_glycosylation, Score: 0.031
+
+  Unaligned Position: 81, Aligned Position: 81, AA: N, PTM: N-linked_glycosylation, Score: 0.031
+
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: Ubiquitination, Score: 0.403
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: SUMOylation, Score: 0.053
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: N6-acetyllysine, Score: 0.131
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: Methyllysine, Score: 0.05
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: Hydroxylysine, Score: 0.043
+
+  Unaligned Position: 83, Aligned Position: 83, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.153
+
+  Unaligned Position: 93, Aligned Position: 93, AA: T, PTM: Phosphothreonine, Score: 0.046
+  Unaligned Position: 93, Aligned Position: 93, AA: T, PTM: O-linked_glycosylation, Score: 0.055
+
+  Unaligned Position: 94, Aligned Position: 94, AA: Y, PTM: Phosphotyrosine, Score: 0.017
+
+  Unaligned Position: 95, Aligned Position: 95, AA: N, PTM: N-linked_glycosylation, Score: 0.035
+
+  Unaligned Position: 104, Aligned Position: 104, AA: N, PTM: N-linked_glycosylation, Score: 0.037
+
+  Unaligned Position: 106, Aligned Position: 106, AA: R, PTM: Methylarginine, Score: 0.016
+
+  Unaligned Position: 107, Aligned Position: 107, AA: T, PTM: Phosphothreonine, Score: 0.107
+  Unaligned Position: 107, Aligned Position: 107, AA: T, PTM: O-linked_glycosylation, Score: 0.083
+
+  Unaligned Position: 113, Aligned Position: 113, AA: S, PTM: Phosphoserine, Score: 0.206
+  Unaligned Position: 113, Aligned Position: 113, AA: S, PTM: O-linked_glycosylation, Score: 0.084
+
+  Unaligned Position: 114, Aligned Position: 114, AA: N, PTM: N-linked_glycosylation, Score: 0.031
+
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: Ubiquitination, Score: 0.519
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: SUMOylation, Score: 0.044
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: N6-acetyllysine, Score: 0.202
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: Methyllysine, Score: 0.09
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: Hydroxylysine, Score: 0.062
+
+  Unaligned Position: 117, Aligned Position: 117, AA: N, PTM: N-linked_glycosylation, Score: 0.034
+
+  Unaligned Position: 119, Aligned Position: 119, AA: Y, PTM: Phosphotyrosine, Score: 0.333
+
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: Ubiquitination, Score: 0.434
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: SUMOylation, Score: 0.045
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: N6-acetyllysine, Score: 0.717
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: Methyllysine, Score: 0.024
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: Hydroxylysine, Score: 0.103
+
+  Unaligned Position: 123, Aligned Position: 123, AA: R, PTM: Methylarginine, Score: 0.024
+
+  Unaligned Position: 125, Aligned Position: 125, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.072
+
+  Unaligned Position: 127, Aligned Position: 127, AA: R, PTM: Methylarginine, Score: 0.013
+
+  Unaligned Position: 129, Aligned Position: 129, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: Ubiquitination, Score: 0.29
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: SUMOylation, Score: 0.039
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: N6-acetyllysine, Score: 0.201
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: Methyllysine, Score: 0.04
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: Hydroxylysine, Score: 0.065
+
+  Unaligned Position: 135, Aligned Position: 135, AA: N, PTM: N-linked_glycosylation, Score: 0.04
+
+  Unaligned Position: 137, Aligned Position: 137, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.017
+
+  Unaligned Position: 141, Aligned Position: 141, AA: Y, PTM: Phosphotyrosine, Score: 0.05
+
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: Ubiquitination, Score: 0.203
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: SUMOylation, Score: 0.057
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: N6-acetyllysine, Score: 0.146
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: Methyllysine, Score: 0.053
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: Hydroxylysine, Score: 0.098
+
+  Unaligned Position: 144, Aligned Position: 144, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.027
+
+  Unaligned Position: 146, Aligned Position: 146, AA: N, PTM: N-linked_glycosylation, Score: 0.035
+
+  Unaligned Position: 148, Aligned Position: 148, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.023
+
+  Unaligned Position: 151, Aligned Position: 151, AA: S, PTM: Phosphoserine, Score: 0.189
+  Unaligned Position: 151, Aligned Position: 151, AA: S, PTM: O-linked_glycosylation, Score: 0.204
+
+  Unaligned Position: 153, Aligned Position: 153, AA: K, PTM: Ubiquitination, Score: 0.356
+  Unaligned Position: 153, Aligned Position: 153, AA: K, PTM: SUMOylation, Score: 0.039
+  Unaligned Position: 153, Aligned Position: 153, AA: K, PTM: N6-acetyllysine, Score: 0.155
+  Unaligned Position: 153, Aligned Position: 153, AA: K, PTM: Methyllysine, Score: 0.053
+  Unaligned Position: 153, Aligned Position: 153, AA: K, PTM: Hydroxylysine, Score: 0.042
+
+  Unaligned Position: 154, Aligned Position: 154, AA: N, PTM: N-linked_glycosylation, Score: 0.915
+
+  Unaligned Position: 156, Aligned Position: 156, AA: T, PTM: Phosphothreonine, Score: 0.298
+  Unaligned Position: 156, Aligned Position: 156, AA: T, PTM: O-linked_glycosylation, Score: 0.163
+
+  Unaligned Position: 157, Aligned Position: 157, AA: Y, PTM: Phosphotyrosine, Score: 0.551
+
+  Unaligned Position: 159, Aligned Position: 159, AA: Y, PTM: Phosphotyrosine, Score: 0.226
+
+  Unaligned Position: 160, Aligned Position: 160, AA: P, PTM: Hydroxyproline, Score: 0.09
+
+  Unaligned Position: 161, Aligned Position: 161, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.105
+
+  Unaligned Position: 162, Aligned Position: 162, AA: Y, PTM: Phosphotyrosine, Score: 0.155
+
+  Unaligned Position: 163, Aligned Position: 163, AA: S, PTM: Phosphoserine, Score: 0.444
+  Unaligned Position: 163, Aligned Position: 163, AA: S, PTM: O-linked_glycosylation, Score: 0.112
+
+  Unaligned Position: 167, Aligned Position: 167, AA: R, PTM: Methylarginine, Score: 0.046
+
+  Unaligned Position: 169, Aligned Position: 169, AA: N, PTM: N-linked_glycosylation, Score: 0.034
+
+  Unaligned Position: 170, Aligned Position: 170, AA: R, PTM: Methylarginine, Score: 0.035
+
+  Unaligned Position: 174, Aligned Position: 174, AA: S, PTM: Phosphoserine, Score: 0.135
+  Unaligned Position: 174, Aligned Position: 174, AA: S, PTM: O-linked_glycosylation, Score: 0.192
+
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: Ubiquitination, Score: 0.355
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: SUMOylation, Score: 0.929
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: N6-acetyllysine, Score: 0.148
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: Methyllysine, Score: 0.243
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: Hydroxylysine, Score: 0.064
+
+  Unaligned Position: 180, Aligned Position: 180, AA: S, PTM: Phosphoserine, Score: 0.07
+  Unaligned Position: 180, Aligned Position: 180, AA: S, PTM: O-linked_glycosylation, Score: 0.08
+
+  Unaligned Position: 183, Aligned Position: 183, AA: T, PTM: Phosphothreonine, Score: 0.047
+  Unaligned Position: 183, Aligned Position: 183, AA: T, PTM: O-linked_glycosylation, Score: 0.059
+
+  Unaligned Position: 184, Aligned Position: 184, AA: Y, PTM: Phosphotyrosine, Score: 0.103
+
+  Unaligned Position: 185, Aligned Position: 185, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.034
+
+  Unaligned Position: 188, Aligned Position: 188, AA: S, PTM: Phosphoserine, Score: 0.049
+  Unaligned Position: 188, Aligned Position: 188, AA: S, PTM: O-linked_glycosylation, Score: 0.055
+
+  Unaligned Position: 190, Aligned Position: 190, AA: Y, PTM: Phosphotyrosine, Score: 0.025
+
+  Unaligned Position: 191, Aligned Position: 191, AA: S, PTM: Phosphoserine, Score: 0.056
+  Unaligned Position: 191, Aligned Position: 191, AA: S, PTM: O-linked_glycosylation, Score: 0.058
+
+  Unaligned Position: 192, Aligned Position: 192, AA: T, PTM: Phosphothreonine, Score: 0.048
+  Unaligned Position: 192, Aligned Position: 192, AA: T, PTM: O-linked_glycosylation, Score: 0.055
+
+  Unaligned Position: 195, Aligned Position: 195, AA: S, PTM: Phosphoserine, Score: 0.056
+  Unaligned Position: 195, Aligned Position: 195, AA: S, PTM: O-linked_glycosylation, Score: 0.056
+
+  Unaligned Position: 196, Aligned Position: 196, AA: S, PTM: Phosphoserine, Score: 0.046
+  Unaligned Position: 196, Aligned Position: 196, AA: S, PTM: O-linked_glycosylation, Score: 0.045
+
+  Unaligned Position: 207, Aligned Position: 207, AA: S, PTM: Phosphoserine, Score: 0.043
+  Unaligned Position: 207, Aligned Position: 207, AA: S, PTM: O-linked_glycosylation, Score: 0.05
+
+  Unaligned Position: 211, Aligned Position: 211, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.972
+
+  Unaligned Position: 212, Aligned Position: 212, AA: S, PTM: Phosphoserine, Score: 0.063
+  Unaligned Position: 212, Aligned Position: 212, AA: S, PTM: O-linked_glycosylation, Score: 0.049
+
+  Unaligned Position: 213, Aligned Position: 213, AA: N, PTM: N-linked_glycosylation, Score: 0.523
+
+  Unaligned Position: 215, Aligned Position: 215, AA: S, PTM: Phosphoserine, Score: 0.077
+  Unaligned Position: 215, Aligned Position: 215, AA: S, PTM: O-linked_glycosylation, Score: 0.055
+
+  Unaligned Position: 217, Aligned Position: 217, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.087
+
+  Unaligned Position: 218, Aligned Position: 218, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.971
+
+  Unaligned Position: 219, Aligned Position: 219, AA: R, PTM: Methylarginine, Score: 0.048
+
+  Unaligned Position: 221, Aligned Position: 221, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.967
+
+
+Sequence: YP_163736
+Original length: 222, Aligned length: 222
+
+  Unaligned Position: 15, Aligned Position: 15, AA: T, PTM: Phosphothreonine, Score: 0.046
+  Unaligned Position: 15, Aligned Position: 15, AA: T, PTM: O-linked_glycosylation, Score: 0.07
+
+  Unaligned Position: 22, Aligned Position: 22, AA: Y, PTM: Phosphotyrosine, Score: 0.033
+
+  Unaligned Position: 24, Aligned Position: 24, AA: Y, PTM: Phosphotyrosine, Score: 0.026
+
+  Unaligned Position: 27, Aligned Position: 27, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.048
+
+  Unaligned Position: 28, Aligned Position: 28, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 30, Aligned Position: 30, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.04
+
+  Unaligned Position: 32, Aligned Position: 32, AA: S, PTM: Phosphoserine, Score: 0.167
+  Unaligned Position: 32, Aligned Position: 32, AA: S, PTM: O-linked_glycosylation, Score: 0.675
+
+  Unaligned Position: 34, Aligned Position: 34, AA: Y, PTM: Phosphotyrosine, Score: 0.093
+
+  Unaligned Position: 38, Aligned Position: 38, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.026
+
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: Ubiquitination, Score: 0.37
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: SUMOylation, Score: 0.041
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: N6-acetyllysine, Score: 0.184
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: Methyllysine, Score: 0.304
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: Hydroxylysine, Score: 0.028
+
+  Unaligned Position: 40, Aligned Position: 40, AA: S, PTM: Phosphoserine, Score: 0.239
+  Unaligned Position: 40, Aligned Position: 40, AA: S, PTM: O-linked_glycosylation, Score: 0.085
+
+  Unaligned Position: 41, Aligned Position: 41, AA: T, PTM: Phosphothreonine, Score: 0.127
+  Unaligned Position: 41, Aligned Position: 41, AA: T, PTM: O-linked_glycosylation, Score: 0.072
+
+  Unaligned Position: 42, Aligned Position: 42, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.035
+
+  Unaligned Position: 43, Aligned Position: 43, AA: N, PTM: N-linked_glycosylation, Score: 0.035
+
+  Unaligned Position: 46, Aligned Position: 46, AA: N, PTM: N-linked_glycosylation, Score: 0.037
+
+  Unaligned Position: 49, Aligned Position: 49, AA: T, PTM: Phosphothreonine, Score: 0.117
+  Unaligned Position: 49, Aligned Position: 49, AA: T, PTM: O-linked_glycosylation, Score: 0.05
+
+  Unaligned Position: 50, Aligned Position: 50, AA: N, PTM: N-linked_glycosylation, Score: 0.031
+
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: Ubiquitination, Score: 0.253
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: SUMOylation, Score: 0.043
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: N6-acetyllysine, Score: 0.272
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: Methyllysine, Score: 0.049
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: Hydroxylysine, Score: 0.055
+
+  Unaligned Position: 53, Aligned Position: 53, AA: N, PTM: N-linked_glycosylation, Score: 0.038
+
+  Unaligned Position: 54, Aligned Position: 54, AA: S, PTM: Phosphoserine, Score: 0.269
+  Unaligned Position: 54, Aligned Position: 54, AA: S, PTM: O-linked_glycosylation, Score: 0.05
+
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: Ubiquitination, Score: 0.205
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: SUMOylation, Score: 0.045
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: N6-acetyllysine, Score: 0.415
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: Methyllysine, Score: 0.067
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: Hydroxylysine, Score: 0.22
+
+  Unaligned Position: 60, Aligned Position: 60, AA: N, PTM: N-linked_glycosylation, Score: 0.033
+
+  Unaligned Position: 62, Aligned Position: 62, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.048
+
+  Unaligned Position: 64, Aligned Position: 64, AA: T, PTM: Phosphothreonine, Score: 0.098
+  Unaligned Position: 64, Aligned Position: 64, AA: T, PTM: O-linked_glycosylation, Score: 0.049
+
+  Unaligned Position: 68, Aligned Position: 68, AA: K, PTM: Ubiquitination, Score: 0.182
+  Unaligned Position: 68, Aligned Position: 68, AA: K, PTM: SUMOylation, Score: 0.037
+  Unaligned Position: 68, Aligned Position: 68, AA: K, PTM: N6-acetyllysine, Score: 0.273
+  Unaligned Position: 68, Aligned Position: 68, AA: K, PTM: Methyllysine, Score: 0.041
+  Unaligned Position: 68, Aligned Position: 68, AA: K, PTM: Hydroxylysine, Score: 0.038
+
+  Unaligned Position: 71, Aligned Position: 71, AA: N, PTM: N-linked_glycosylation, Score: 0.034
+
+  Unaligned Position: 72, Aligned Position: 72, AA: K, PTM: Ubiquitination, Score: 0.223
+  Unaligned Position: 72, Aligned Position: 72, AA: K, PTM: SUMOylation, Score: 0.066
+  Unaligned Position: 72, Aligned Position: 72, AA: K, PTM: N6-acetyllysine, Score: 0.502
+  Unaligned Position: 72, Aligned Position: 72, AA: K, PTM: Methyllysine, Score: 0.041
+  Unaligned Position: 72, Aligned Position: 72, AA: K, PTM: Hydroxylysine, Score: 0.028
+
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: Ubiquitination, Score: 0.189
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: SUMOylation, Score: 0.048
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: N6-acetyllysine, Score: 0.278
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: Methyllysine, Score: 0.038
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: Hydroxylysine, Score: 0.054
+
+  Unaligned Position: 76, Aligned Position: 76, AA: R, PTM: Methylarginine, Score: 0.028
+
+  Unaligned Position: 79, Aligned Position: 79, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 81, Aligned Position: 81, AA: N, PTM: N-linked_glycosylation, Score: 0.031
+
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: Ubiquitination, Score: 0.266
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: SUMOylation, Score: 0.062
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: N6-acetyllysine, Score: 0.136
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: Methyllysine, Score: 0.044
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: Hydroxylysine, Score: 0.017
+
+  Unaligned Position: 83, Aligned Position: 83, AA: K, PTM: Ubiquitination, Score: 0.217
+  Unaligned Position: 83, Aligned Position: 83, AA: K, PTM: SUMOylation, Score: 0.423
+  Unaligned Position: 83, Aligned Position: 83, AA: K, PTM: N6-acetyllysine, Score: 0.196
+  Unaligned Position: 83, Aligned Position: 83, AA: K, PTM: Methyllysine, Score: 0.04
+  Unaligned Position: 83, Aligned Position: 83, AA: K, PTM: Hydroxylysine, Score: 0.041
+
+  Unaligned Position: 93, Aligned Position: 93, AA: T, PTM: Phosphothreonine, Score: 0.048
+  Unaligned Position: 93, Aligned Position: 93, AA: T, PTM: O-linked_glycosylation, Score: 0.046
+
+  Unaligned Position: 94, Aligned Position: 94, AA: Y, PTM: Phosphotyrosine, Score: 0.02
+
+  Unaligned Position: 95, Aligned Position: 95, AA: N, PTM: N-linked_glycosylation, Score: 0.034
+
+  Unaligned Position: 104, Aligned Position: 104, AA: N, PTM: N-linked_glycosylation, Score: 0.037
+
+  Unaligned Position: 106, Aligned Position: 106, AA: R, PTM: Methylarginine, Score: 0.014
+
+  Unaligned Position: 107, Aligned Position: 107, AA: T, PTM: Phosphothreonine, Score: 0.105
+  Unaligned Position: 107, Aligned Position: 107, AA: T, PTM: O-linked_glycosylation, Score: 0.074
+
+  Unaligned Position: 113, Aligned Position: 113, AA: S, PTM: Phosphoserine, Score: 0.208
+  Unaligned Position: 113, Aligned Position: 113, AA: S, PTM: O-linked_glycosylation, Score: 0.1
+
+  Unaligned Position: 114, Aligned Position: 114, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: Ubiquitination, Score: 0.309
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: SUMOylation, Score: 0.038
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: N6-acetyllysine, Score: 0.228
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: Methyllysine, Score: 0.083
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: Hydroxylysine, Score: 0.043
+
+  Unaligned Position: 117, Aligned Position: 117, AA: N, PTM: N-linked_glycosylation, Score: 0.033
+
+  Unaligned Position: 119, Aligned Position: 119, AA: Y, PTM: Phosphotyrosine, Score: 0.408
+
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: Ubiquitination, Score: 0.358
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: SUMOylation, Score: 0.05
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: N6-acetyllysine, Score: 0.601
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: Methyllysine, Score: 0.038
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: Hydroxylysine, Score: 0.126
+
+  Unaligned Position: 123, Aligned Position: 123, AA: K, PTM: Ubiquitination, Score: 0.273
+  Unaligned Position: 123, Aligned Position: 123, AA: K, PTM: SUMOylation, Score: 0.037
+  Unaligned Position: 123, Aligned Position: 123, AA: K, PTM: N6-acetyllysine, Score: 0.182
+  Unaligned Position: 123, Aligned Position: 123, AA: K, PTM: Methyllysine, Score: 0.045
+  Unaligned Position: 123, Aligned Position: 123, AA: K, PTM: Hydroxylysine, Score: 0.03
+
+  Unaligned Position: 124, Aligned Position: 124, AA: S, PTM: Phosphoserine, Score: 0.145
+  Unaligned Position: 124, Aligned Position: 124, AA: S, PTM: O-linked_glycosylation, Score: 0.067
+
+  Unaligned Position: 125, Aligned Position: 125, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.06
+
+  Unaligned Position: 127, Aligned Position: 127, AA: K, PTM: Ubiquitination, Score: 0.255
+  Unaligned Position: 127, Aligned Position: 127, AA: K, PTM: SUMOylation, Score: 0.062
+  Unaligned Position: 127, Aligned Position: 127, AA: K, PTM: N6-acetyllysine, Score: 0.166
+  Unaligned Position: 127, Aligned Position: 127, AA: K, PTM: Methyllysine, Score: 0.085
+  Unaligned Position: 127, Aligned Position: 127, AA: K, PTM: Hydroxylysine, Score: 0.06
+
+  Unaligned Position: 128, Aligned Position: 128, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 129, Aligned Position: 129, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: Ubiquitination, Score: 0.245
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: SUMOylation, Score: 0.041
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: N6-acetyllysine, Score: 0.193
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: Methyllysine, Score: 0.078
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: Hydroxylysine, Score: 0.07
+
+  Unaligned Position: 135, Aligned Position: 135, AA: N, PTM: N-linked_glycosylation, Score: 0.038
+
+  Unaligned Position: 137, Aligned Position: 137, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.02
+
+  Unaligned Position: 141, Aligned Position: 141, AA: Y, PTM: Phosphotyrosine, Score: 0.054
+
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: Ubiquitination, Score: 0.173
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: SUMOylation, Score: 0.054
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: N6-acetyllysine, Score: 0.17
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: Methyllysine, Score: 0.092
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: Hydroxylysine, Score: 0.109
+
+  Unaligned Position: 144, Aligned Position: 144, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.024
+
+  Unaligned Position: 146, Aligned Position: 146, AA: N, PTM: N-linked_glycosylation, Score: 0.035
+
+  Unaligned Position: 148, Aligned Position: 148, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.023
+
+  Unaligned Position: 151, Aligned Position: 151, AA: S, PTM: Phosphoserine, Score: 0.155
+  Unaligned Position: 151, Aligned Position: 151, AA: S, PTM: O-linked_glycosylation, Score: 0.21
+
+  Unaligned Position: 153, Aligned Position: 153, AA: R, PTM: Methylarginine, Score: 0.046
+
+  Unaligned Position: 154, Aligned Position: 154, AA: N, PTM: N-linked_glycosylation, Score: 0.912
+
+  Unaligned Position: 156, Aligned Position: 156, AA: T, PTM: Phosphothreonine, Score: 0.262
+  Unaligned Position: 156, Aligned Position: 156, AA: T, PTM: O-linked_glycosylation, Score: 0.181
+
+  Unaligned Position: 157, Aligned Position: 157, AA: Y, PTM: Phosphotyrosine, Score: 0.443
+
+  Unaligned Position: 159, Aligned Position: 159, AA: Y, PTM: Phosphotyrosine, Score: 0.219
+
+  Unaligned Position: 160, Aligned Position: 160, AA: P, PTM: Hydroxyproline, Score: 0.179
+
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: Ubiquitination, Score: 0.301
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: SUMOylation, Score: 0.049
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: N6-acetyllysine, Score: 0.727
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: Methyllysine, Score: 0.188
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: Hydroxylysine, Score: 0.037
+
+  Unaligned Position: 162, Aligned Position: 162, AA: Y, PTM: Phosphotyrosine, Score: 0.107
+
+  Unaligned Position: 163, Aligned Position: 163, AA: S, PTM: Phosphoserine, Score: 0.397
+  Unaligned Position: 163, Aligned Position: 163, AA: S, PTM: O-linked_glycosylation, Score: 0.089
+
+  Unaligned Position: 166, Aligned Position: 166, AA: S, PTM: Phosphoserine, Score: 0.152
+  Unaligned Position: 166, Aligned Position: 166, AA: S, PTM: O-linked_glycosylation, Score: 0.066
+
+  Unaligned Position: 167, Aligned Position: 167, AA: K, PTM: Ubiquitination, Score: 0.254
+  Unaligned Position: 167, Aligned Position: 167, AA: K, PTM: SUMOylation, Score: 0.067
+  Unaligned Position: 167, Aligned Position: 167, AA: K, PTM: N6-acetyllysine, Score: 0.296
+  Unaligned Position: 167, Aligned Position: 167, AA: K, PTM: Methyllysine, Score: 0.123
+  Unaligned Position: 167, Aligned Position: 167, AA: K, PTM: Hydroxylysine, Score: 0.053
+
+  Unaligned Position: 169, Aligned Position: 169, AA: N, PTM: N-linked_glycosylation, Score: 0.033
+
+  Unaligned Position: 170, Aligned Position: 170, AA: R, PTM: Methylarginine, Score: 0.024
+
+  Unaligned Position: 172, Aligned Position: 172, AA: K, PTM: Ubiquitination, Score: 0.204
+  Unaligned Position: 172, Aligned Position: 172, AA: K, PTM: SUMOylation, Score: 0.081
+  Unaligned Position: 172, Aligned Position: 172, AA: K, PTM: N6-acetyllysine, Score: 0.191
+  Unaligned Position: 172, Aligned Position: 172, AA: K, PTM: Methyllysine, Score: 0.045
+  Unaligned Position: 172, Aligned Position: 172, AA: K, PTM: Hydroxylysine, Score: 0.118
+
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: Ubiquitination, Score: 0.346
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: SUMOylation, Score: 0.892
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: N6-acetyllysine, Score: 0.129
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: Methyllysine, Score: 0.237
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: Hydroxylysine, Score: 0.104
+
+  Unaligned Position: 180, Aligned Position: 180, AA: S, PTM: Phosphoserine, Score: 0.057
+  Unaligned Position: 180, Aligned Position: 180, AA: S, PTM: O-linked_glycosylation, Score: 0.067
+
+  Unaligned Position: 184, Aligned Position: 184, AA: Y, PTM: Phosphotyrosine, Score: 0.046
+
+  Unaligned Position: 185, Aligned Position: 185, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.044
+
+  Unaligned Position: 190, Aligned Position: 190, AA: Y, PTM: Phosphotyrosine, Score: 0.028
+
+  Unaligned Position: 191, Aligned Position: 191, AA: S, PTM: Phosphoserine, Score: 0.049
+  Unaligned Position: 191, Aligned Position: 191, AA: S, PTM: O-linked_glycosylation, Score: 0.049
+
+  Unaligned Position: 192, Aligned Position: 192, AA: T, PTM: Phosphothreonine, Score: 0.044
+  Unaligned Position: 192, Aligned Position: 192, AA: T, PTM: O-linked_glycosylation, Score: 0.043
+
+  Unaligned Position: 195, Aligned Position: 195, AA: S, PTM: Phosphoserine, Score: 0.055
+  Unaligned Position: 195, Aligned Position: 195, AA: S, PTM: O-linked_glycosylation, Score: 0.048
+
+  Unaligned Position: 196, Aligned Position: 196, AA: S, PTM: Phosphoserine, Score: 0.049
+  Unaligned Position: 196, Aligned Position: 196, AA: S, PTM: O-linked_glycosylation, Score: 0.041
+
+  Unaligned Position: 202, Aligned Position: 202, AA: S, PTM: Phosphoserine, Score: 0.047
+  Unaligned Position: 202, Aligned Position: 202, AA: S, PTM: O-linked_glycosylation, Score: 0.043
+
+  Unaligned Position: 207, Aligned Position: 207, AA: S, PTM: Phosphoserine, Score: 0.046
+  Unaligned Position: 207, Aligned Position: 207, AA: S, PTM: O-linked_glycosylation, Score: 0.048
+
+  Unaligned Position: 211, Aligned Position: 211, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.973
+
+  Unaligned Position: 212, Aligned Position: 212, AA: S, PTM: Phosphoserine, Score: 0.065
+  Unaligned Position: 212, Aligned Position: 212, AA: S, PTM: O-linked_glycosylation, Score: 0.065
+
+  Unaligned Position: 213, Aligned Position: 213, AA: N, PTM: N-linked_glycosylation, Score: 0.533
+
+  Unaligned Position: 215, Aligned Position: 215, AA: S, PTM: Phosphoserine, Score: 0.071
+  Unaligned Position: 215, Aligned Position: 215, AA: S, PTM: O-linked_glycosylation, Score: 0.066
+
+  Unaligned Position: 217, Aligned Position: 217, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.023
+
+  Unaligned Position: 218, Aligned Position: 218, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.97
+
+  Unaligned Position: 219, Aligned Position: 219, AA: R, PTM: Methylarginine, Score: 0.04
+
+  Unaligned Position: 221, Aligned Position: 221, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.967
+
+
+Sequence: YP_009121767
+Original length: 222, Aligned length: 222
+
+  Unaligned Position: 15, Aligned Position: 15, AA: T, PTM: Phosphothreonine, Score: 0.046
+  Unaligned Position: 15, Aligned Position: 15, AA: T, PTM: O-linked_glycosylation, Score: 0.075
+
+  Unaligned Position: 22, Aligned Position: 22, AA: Y, PTM: Phosphotyrosine, Score: 0.035
+
+  Unaligned Position: 24, Aligned Position: 24, AA: Y, PTM: Phosphotyrosine, Score: 0.024
+
+  Unaligned Position: 27, Aligned Position: 27, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.044
+
+  Unaligned Position: 28, Aligned Position: 28, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 30, Aligned Position: 30, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.037
+
+  Unaligned Position: 32, Aligned Position: 32, AA: S, PTM: Phosphoserine, Score: 0.227
+  Unaligned Position: 32, Aligned Position: 32, AA: S, PTM: O-linked_glycosylation, Score: 0.571
+
+  Unaligned Position: 34, Aligned Position: 34, AA: Y, PTM: Phosphotyrosine, Score: 0.137
+
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: Ubiquitination, Score: 0.418
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: SUMOylation, Score: 0.064
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: N6-acetyllysine, Score: 0.185
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: Methyllysine, Score: 0.489
+  Unaligned Position: 39, Aligned Position: 39, AA: K, PTM: Hydroxylysine, Score: 0.034
+
+  Unaligned Position: 40, Aligned Position: 40, AA: S, PTM: Phosphoserine, Score: 0.26
+  Unaligned Position: 40, Aligned Position: 40, AA: S, PTM: O-linked_glycosylation, Score: 0.092
+
+  Unaligned Position: 41, Aligned Position: 41, AA: T, PTM: Phosphothreonine, Score: 0.177
+  Unaligned Position: 41, Aligned Position: 41, AA: T, PTM: O-linked_glycosylation, Score: 0.085
+
+  Unaligned Position: 42, Aligned Position: 42, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.04
+
+  Unaligned Position: 43, Aligned Position: 43, AA: N, PTM: N-linked_glycosylation, Score: 0.035
+
+  Unaligned Position: 49, Aligned Position: 49, AA: T, PTM: Phosphothreonine, Score: 0.134
+  Unaligned Position: 49, Aligned Position: 49, AA: T, PTM: O-linked_glycosylation, Score: 0.057
+
+  Unaligned Position: 50, Aligned Position: 50, AA: N, PTM: N-linked_glycosylation, Score: 0.031
+
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: Ubiquitination, Score: 0.309
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: SUMOylation, Score: 0.037
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: N6-acetyllysine, Score: 0.193
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: Methyllysine, Score: 0.059
+  Unaligned Position: 51, Aligned Position: 51, AA: K, PTM: Hydroxylysine, Score: 0.049
+
+  Unaligned Position: 53, Aligned Position: 53, AA: N, PTM: N-linked_glycosylation, Score: 0.038
+
+  Unaligned Position: 54, Aligned Position: 54, AA: S, PTM: Phosphoserine, Score: 0.265
+  Unaligned Position: 54, Aligned Position: 54, AA: S, PTM: O-linked_glycosylation, Score: 0.062
+
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: Ubiquitination, Score: 0.243
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: SUMOylation, Score: 0.044
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: N6-acetyllysine, Score: 0.442
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: Methyllysine, Score: 0.058
+  Unaligned Position: 58, Aligned Position: 58, AA: K, PTM: Hydroxylysine, Score: 0.124
+
+  Unaligned Position: 60, Aligned Position: 60, AA: N, PTM: N-linked_glycosylation, Score: 0.034
+
+  Unaligned Position: 61, Aligned Position: 61, AA: T, PTM: Phosphothreonine, Score: 0.139
+  Unaligned Position: 61, Aligned Position: 61, AA: T, PTM: O-linked_glycosylation, Score: 0.048
+
+  Unaligned Position: 62, Aligned Position: 62, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.069
+
+  Unaligned Position: 64, Aligned Position: 64, AA: T, PTM: Phosphothreonine, Score: 0.094
+  Unaligned Position: 64, Aligned Position: 64, AA: T, PTM: O-linked_glycosylation, Score: 0.053
+
+  Unaligned Position: 68, Aligned Position: 68, AA: K, PTM: Ubiquitination, Score: 0.178
+  Unaligned Position: 68, Aligned Position: 68, AA: K, PTM: SUMOylation, Score: 0.034
+  Unaligned Position: 68, Aligned Position: 68, AA: K, PTM: N6-acetyllysine, Score: 0.232
+  Unaligned Position: 68, Aligned Position: 68, AA: K, PTM: Methyllysine, Score: 0.054
+  Unaligned Position: 68, Aligned Position: 68, AA: K, PTM: Hydroxylysine, Score: 0.044
+
+  Unaligned Position: 71, Aligned Position: 71, AA: N, PTM: N-linked_glycosylation, Score: 0.034
+
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: Ubiquitination, Score: 0.186
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: SUMOylation, Score: 0.043
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: N6-acetyllysine, Score: 0.57
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: Methyllysine, Score: 0.041
+  Unaligned Position: 75, Aligned Position: 75, AA: K, PTM: Hydroxylysine, Score: 0.041
+
+  Unaligned Position: 76, Aligned Position: 76, AA: R, PTM: Methylarginine, Score: 0.025
+
+  Unaligned Position: 79, Aligned Position: 79, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 81, Aligned Position: 81, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: Ubiquitination, Score: 0.241
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: SUMOylation, Score: 0.059
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: N6-acetyllysine, Score: 0.143
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: Methyllysine, Score: 0.052
+  Unaligned Position: 82, Aligned Position: 82, AA: K, PTM: Hydroxylysine, Score: 0.015
+
+  Unaligned Position: 83, Aligned Position: 83, AA: K, PTM: Ubiquitination, Score: 0.202
+  Unaligned Position: 83, Aligned Position: 83, AA: K, PTM: SUMOylation, Score: 0.445
+  Unaligned Position: 83, Aligned Position: 83, AA: K, PTM: N6-acetyllysine, Score: 0.173
+  Unaligned Position: 83, Aligned Position: 83, AA: K, PTM: Methyllysine, Score: 0.052
+  Unaligned Position: 83, Aligned Position: 83, AA: K, PTM: Hydroxylysine, Score: 0.048
+
+  Unaligned Position: 93, Aligned Position: 93, AA: T, PTM: Phosphothreonine, Score: 0.048
+  Unaligned Position: 93, Aligned Position: 93, AA: T, PTM: O-linked_glycosylation, Score: 0.046
+
+  Unaligned Position: 94, Aligned Position: 94, AA: Y, PTM: Phosphotyrosine, Score: 0.02
+
+  Unaligned Position: 95, Aligned Position: 95, AA: N, PTM: N-linked_glycosylation, Score: 0.035
+
+  Unaligned Position: 104, Aligned Position: 104, AA: N, PTM: N-linked_glycosylation, Score: 0.037
+
+  Unaligned Position: 106, Aligned Position: 106, AA: R, PTM: Methylarginine, Score: 0.013
+
+  Unaligned Position: 107, Aligned Position: 107, AA: T, PTM: Phosphothreonine, Score: 0.104
+  Unaligned Position: 107, Aligned Position: 107, AA: T, PTM: O-linked_glycosylation, Score: 0.078
+
+  Unaligned Position: 110, Aligned Position: 110, AA: Y, PTM: Phosphotyrosine, Score: 0.091
+
+  Unaligned Position: 113, Aligned Position: 113, AA: S, PTM: Phosphoserine, Score: 0.188
+  Unaligned Position: 113, Aligned Position: 113, AA: S, PTM: O-linked_glycosylation, Score: 0.064
+
+  Unaligned Position: 114, Aligned Position: 114, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: Ubiquitination, Score: 0.35
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: SUMOylation, Score: 0.04
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: N6-acetyllysine, Score: 0.277
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: Methyllysine, Score: 0.128
+  Unaligned Position: 116, Aligned Position: 116, AA: K, PTM: Hydroxylysine, Score: 0.035
+
+  Unaligned Position: 117, Aligned Position: 117, AA: N, PTM: N-linked_glycosylation, Score: 0.033
+
+  Unaligned Position: 119, Aligned Position: 119, AA: Y, PTM: Phosphotyrosine, Score: 0.442
+
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: Ubiquitination, Score: 0.48
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: SUMOylation, Score: 0.046
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: N6-acetyllysine, Score: 0.703
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: Methyllysine, Score: 0.039
+  Unaligned Position: 121, Aligned Position: 121, AA: K, PTM: Hydroxylysine, Score: 0.131
+
+  Unaligned Position: 123, Aligned Position: 123, AA: R, PTM: Methylarginine, Score: 0.039
+
+  Unaligned Position: 124, Aligned Position: 124, AA: S, PTM: Phosphoserine, Score: 0.137
+  Unaligned Position: 124, Aligned Position: 124, AA: S, PTM: O-linked_glycosylation, Score: 0.064
+
+  Unaligned Position: 125, Aligned Position: 125, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.063
+
+  Unaligned Position: 127, Aligned Position: 127, AA: K, PTM: Ubiquitination, Score: 0.279
+  Unaligned Position: 127, Aligned Position: 127, AA: K, PTM: SUMOylation, Score: 0.066
+  Unaligned Position: 127, Aligned Position: 127, AA: K, PTM: N6-acetyllysine, Score: 0.187
+  Unaligned Position: 127, Aligned Position: 127, AA: K, PTM: Methyllysine, Score: 0.098
+  Unaligned Position: 127, Aligned Position: 127, AA: K, PTM: Hydroxylysine, Score: 0.059
+
+  Unaligned Position: 128, Aligned Position: 128, AA: N, PTM: N-linked_glycosylation, Score: 0.033
+
+  Unaligned Position: 129, Aligned Position: 129, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: Ubiquitination, Score: 0.25
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: SUMOylation, Score: 0.04
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: N6-acetyllysine, Score: 0.201
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: Methyllysine, Score: 0.079
+  Unaligned Position: 131, Aligned Position: 131, AA: K, PTM: Hydroxylysine, Score: 0.077
+
+  Unaligned Position: 135, Aligned Position: 135, AA: N, PTM: N-linked_glycosylation, Score: 0.04
+
+  Unaligned Position: 137, Aligned Position: 137, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.021
+
+  Unaligned Position: 141, Aligned Position: 141, AA: Y, PTM: Phosphotyrosine, Score: 0.045
+
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: Ubiquitination, Score: 0.178
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: SUMOylation, Score: 0.052
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: N6-acetyllysine, Score: 0.157
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: Methyllysine, Score: 0.093
+  Unaligned Position: 143, Aligned Position: 143, AA: K, PTM: Hydroxylysine, Score: 0.113
+
+  Unaligned Position: 144, Aligned Position: 144, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.022
+
+  Unaligned Position: 146, Aligned Position: 146, AA: N, PTM: N-linked_glycosylation, Score: 0.039
+
+  Unaligned Position: 147, Aligned Position: 147, AA: T, PTM: Phosphothreonine, Score: 0.091
+  Unaligned Position: 147, Aligned Position: 147, AA: T, PTM: O-linked_glycosylation, Score: 0.148
+
+  Unaligned Position: 148, Aligned Position: 148, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.025
+
+  Unaligned Position: 151, Aligned Position: 151, AA: S, PTM: Phosphoserine, Score: 0.144
+  Unaligned Position: 151, Aligned Position: 151, AA: S, PTM: O-linked_glycosylation, Score: 0.183
+
+  Unaligned Position: 153, Aligned Position: 153, AA: K, PTM: Ubiquitination, Score: 0.308
+  Unaligned Position: 153, Aligned Position: 153, AA: K, PTM: SUMOylation, Score: 0.032
+  Unaligned Position: 153, Aligned Position: 153, AA: K, PTM: N6-acetyllysine, Score: 0.188
+  Unaligned Position: 153, Aligned Position: 153, AA: K, PTM: Methyllysine, Score: 0.069
+  Unaligned Position: 153, Aligned Position: 153, AA: K, PTM: Hydroxylysine, Score: 0.03
+
+  Unaligned Position: 154, Aligned Position: 154, AA: N, PTM: N-linked_glycosylation, Score: 0.915
+
+  Unaligned Position: 156, Aligned Position: 156, AA: T, PTM: Phosphothreonine, Score: 0.168
+  Unaligned Position: 156, Aligned Position: 156, AA: T, PTM: O-linked_glycosylation, Score: 0.159
+
+  Unaligned Position: 157, Aligned Position: 157, AA: Y, PTM: Phosphotyrosine, Score: 0.352
+
+  Unaligned Position: 159, Aligned Position: 159, AA: Y, PTM: Phosphotyrosine, Score: 0.126
+
+  Unaligned Position: 160, Aligned Position: 160, AA: P, PTM: Hydroxyproline, Score: 0.142
+
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: Ubiquitination, Score: 0.356
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: SUMOylation, Score: 0.058
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: N6-acetyllysine, Score: 0.732
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: Methyllysine, Score: 0.092
+  Unaligned Position: 161, Aligned Position: 161, AA: K, PTM: Hydroxylysine, Score: 0.049
+
+  Unaligned Position: 162, Aligned Position: 162, AA: Y, PTM: Phosphotyrosine, Score: 0.105
+
+  Unaligned Position: 163, Aligned Position: 163, AA: S, PTM: Phosphoserine, Score: 0.241
+  Unaligned Position: 163, Aligned Position: 163, AA: S, PTM: O-linked_glycosylation, Score: 0.103
+
+  Unaligned Position: 167, Aligned Position: 167, AA: K, PTM: Ubiquitination, Score: 0.333
+  Unaligned Position: 167, Aligned Position: 167, AA: K, PTM: SUMOylation, Score: 0.108
+  Unaligned Position: 167, Aligned Position: 167, AA: K, PTM: N6-acetyllysine, Score: 0.195
+  Unaligned Position: 167, Aligned Position: 167, AA: K, PTM: Methyllysine, Score: 0.106
+  Unaligned Position: 167, Aligned Position: 167, AA: K, PTM: Hydroxylysine, Score: 0.071
+
+  Unaligned Position: 169, Aligned Position: 169, AA: N, PTM: N-linked_glycosylation, Score: 0.032
+
+  Unaligned Position: 170, Aligned Position: 170, AA: R, PTM: Methylarginine, Score: 0.027
+
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: Ubiquitination, Score: 0.481
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: SUMOylation, Score: 0.816
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: N6-acetyllysine, Score: 0.604
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: Methyllysine, Score: 0.123
+  Unaligned Position: 177, Aligned Position: 177, AA: K, PTM: Hydroxylysine, Score: 0.154
+
+  Unaligned Position: 180, Aligned Position: 180, AA: S, PTM: Phosphoserine, Score: 0.073
+  Unaligned Position: 180, Aligned Position: 180, AA: S, PTM: O-linked_glycosylation, Score: 0.087
+
+  Unaligned Position: 181, Aligned Position: 181, AA: T, PTM: Phosphothreonine, Score: 0.061
+  Unaligned Position: 181, Aligned Position: 181, AA: T, PTM: O-linked_glycosylation, Score: 0.116
+
+  Unaligned Position: 182, Aligned Position: 182, AA: R, PTM: Methylarginine, Score: 0.056
+
+  Unaligned Position: 184, Aligned Position: 184, AA: Y, PTM: Phosphotyrosine, Score: 0.113
+
+  Unaligned Position: 185, Aligned Position: 185, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.053
+
+  Unaligned Position: 190, Aligned Position: 190, AA: Y, PTM: Phosphotyrosine, Score: 0.027
+
+  Unaligned Position: 191, Aligned Position: 191, AA: S, PTM: Phosphoserine, Score: 0.053
+  Unaligned Position: 191, Aligned Position: 191, AA: S, PTM: O-linked_glycosylation, Score: 0.06
+
+  Unaligned Position: 192, Aligned Position: 192, AA: T, PTM: Phosphothreonine, Score: 0.056
+  Unaligned Position: 192, Aligned Position: 192, AA: T, PTM: O-linked_glycosylation, Score: 0.054
+
+  Unaligned Position: 195, Aligned Position: 195, AA: S, PTM: Phosphoserine, Score: 0.055
+  Unaligned Position: 195, Aligned Position: 195, AA: S, PTM: O-linked_glycosylation, Score: 0.053
+
+  Unaligned Position: 196, Aligned Position: 196, AA: S, PTM: Phosphoserine, Score: 0.048
+  Unaligned Position: 196, Aligned Position: 196, AA: S, PTM: O-linked_glycosylation, Score: 0.044
+
+  Unaligned Position: 202, Aligned Position: 202, AA: S, PTM: Phosphoserine, Score: 0.047
+  Unaligned Position: 202, Aligned Position: 202, AA: S, PTM: O-linked_glycosylation, Score: 0.043
+
+  Unaligned Position: 207, Aligned Position: 207, AA: S, PTM: Phosphoserine, Score: 0.046
+  Unaligned Position: 207, Aligned Position: 207, AA: S, PTM: O-linked_glycosylation, Score: 0.049
+
+  Unaligned Position: 211, Aligned Position: 211, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.972
+
+  Unaligned Position: 212, Aligned Position: 212, AA: S, PTM: Phosphoserine, Score: 0.063
+  Unaligned Position: 212, Aligned Position: 212, AA: S, PTM: O-linked_glycosylation, Score: 0.06
+
+  Unaligned Position: 213, Aligned Position: 213, AA: N, PTM: N-linked_glycosylation, Score: 0.534
+
+  Unaligned Position: 215, Aligned Position: 215, AA: S, PTM: Phosphoserine, Score: 0.069
+  Unaligned Position: 215, Aligned Position: 215, AA: S, PTM: O-linked_glycosylation, Score: 0.065
+
+  Unaligned Position: 217, Aligned Position: 217, AA: Q, PTM: Pyrrolidone_carboxylic_acid, Score: 0.023
+
+  Unaligned Position: 218, Aligned Position: 218, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.97
+
+  Unaligned Position: 219, Aligned Position: 219, AA: R, PTM: Methylarginine, Score: 0.04
+
+  Unaligned Position: 221, Aligned Position: 221, AA: C, PTM: S-palmitoyl_cysteine, Score: 0.967
+
+

@@ -1,0 +1,162 @@
+# Fixed PyMOL command script
+# Save as highlight_structures_fixed.pml
+
+# Set up high-quality rendering
+set antialias, 2
+set ray_shadows, 0
+set ray_trace_mode, 1
+set ambient, 0.2
+set direct, 0.8
+set reflect, 0.1
+bg_color white
+set depth_cue, 0
+set ray_opaque_background, 1
+
+python
+def highlight_protein(pdb_file, protein_name, positive_sites, purifying_sites):
+    from pymol import cmd
+    import os
+    
+    print(f"Processing {protein_name}: {pdb_file}")
+    
+    # Clear and load
+    cmd.delete('all')
+    if os.path.exists(pdb_file):
+        cmd.load(pdb_file, 'protein')
+        print(f"  Successfully loaded {pdb_file}")
+    else:
+        print(f"  File not found: {pdb_file}")
+        return 0
+    
+    # Basic setup
+    cmd.hide('everything', 'protein')
+    cmd.show('cartoon', 'protein')
+    cmd.color('gray80', 'protein')
+    
+    highlighted = 0
+    
+    # Positive selection sites (red)
+    if positive_sites:
+        pos_residues = '+'.join([str(pos) for pos in positive_sites])
+        cmd.select('positive_sel', f'protein and resi {pos_residues}')
+        cmd.show('spheres', 'positive_sel')
+        cmd.show('sticks', 'positive_sel')
+        cmd.color('red', 'positive_sel')
+        cmd.set('sphere_scale', 1.2, 'positive_sel')
+        cmd.set('stick_radius', 0.3, 'positive_sel')
+        highlighted += len(positive_sites)
+        print(f"  Red (positive): {positive_sites}")
+    
+    # Purifying selection sites (blue)
+    if purifying_sites:
+        pur_residues = '+'.join([str(pos) for pos in purifying_sites])
+        cmd.select('purifying_sel', f'protein and resi {pur_residues}')
+        cmd.show('spheres', 'purifying_sel')
+        cmd.show('sticks', 'purifying_sel')
+        cmd.color('blue', 'purifying_sel')
+        cmd.set('sphere_scale', 1.2, 'purifying_sel')
+        cmd.set('stick_radius', 0.3, 'purifying_sel')
+        highlighted += len(purifying_sites)
+        print(f"  Blue (purifying): {purifying_sites}")
+    
+    # Set view and render
+    cmd.orient('protein')
+    cmd.zoom('protein', buffer=5)
+    
+    # Save image
+    output_name = f"{protein_name}_selection_sites.png"
+    cmd.ray(2400, 1800)
+    cmd.png(output_name, dpi=300)
+    print(f"  Saved: {output_name}")
+    
+    return highlighted
+
+def find_pdb_files():
+    import os
+    import glob
+    
+    # Find all PDB files in current directory
+    pdb_files = glob.glob('*.pdb') + glob.glob('*.PDB')
+    print(f"Found {len(pdb_files)} PDB files:")
+    for pdb in pdb_files:
+        print(f"  - {pdb}")
+    return pdb_files
+
+def process_all_structures():
+    import os
+    
+    # First, let's see what PDB files you actually have
+    pdb_files = find_pdb_files()
+    
+    total = 0
+    
+    # Selection data
+    selection_data = {
+        'PB2': {'positive': [33, 514, 741], 'purifying': []},
+        'PB1-F2': {'positive': [], 'purifying': [22, 23, 42]},
+        'PB1': {'positive': [], 'purifying': [4, 398, 504, 518, 736]},
+        'PA': {'positive': [241, 386], 'purifying': []},
+        'PA-X': {'positive': [], 'purifying': [96, 193, 245]},
+        'HA': {'positive': [182, 570], 'purifying': [56, 143, 281, 519]},
+        'NP': {'positive': [373, 376], 'purifying': []},
+        'NA': {'positive': [287, 453], 'purifying': []},
+        'M1': {'positive': [], 'purifying': [158]},
+        'M2': {'positive': [], 'purifying': [18, 64]},
+        'NS1': {'positive': [], 'purifying': [49, 127, 143, 163, 165]}
+    }
+    
+    # Try to match PDB files to proteins
+    for pdb_file in pdb_files:
+        filename_upper = pdb_file.upper()
+        matched = False
+        
+        for protein_key, sites in selection_data.items():
+            # Try different matching patterns
+            if (protein_key in filename_upper or 
+                protein_key.replace('-', '') in filename_upper or
+                protein_key.replace('-', '_') in filename_upper):
+                
+                print(f"\nMatched {pdb_file} to {protein_key}")
+                total += highlight_protein(pdb_file, protein_key, 
+                                         sites['positive'], sites['purifying'])
+                matched = True
+                break
+        
+        if not matched:
+            print(f"\nCould not match {pdb_file} to any protein")
+            print("Available protein keys:", list(selection_data.keys()))
+            
+            # Ask user to specify manually (you'll need to modify this part)
+            # For now, let's try some common patterns
+            if 'HEMAGGLUTININ' in filename_upper or 'H1' in filename_upper or 'H3' in filename_upper:
+                sites = selection_data['HA']
+                total += highlight_protein(pdb_file, 'HA', sites['positive'], sites['purifying'])
+            elif 'NEURAMINIDASE' in filename_upper or 'N1' in filename_upper or 'N2' in filename_upper:
+                sites = selection_data['NA']
+                total += highlight_protein(pdb_file, 'NA', sites['positive'], sites['purifying'])
+            elif 'NUCLEOPROTEIN' in filename_upper:
+                sites = selection_data['NP']
+                total += highlight_protein(pdb_file, 'NP', sites['positive'], sites['purifying'])
+            elif 'MATRIX' in filename_upper:
+                if '1' in filename_upper:
+                    sites = selection_data['M1']
+                    total += highlight_protein(pdb_file, 'M1', sites['positive'], sites['purifying'])
+                elif '2' in filename_upper:
+                    sites = selection_data['M2']
+                    total += highlight_protein(pdb_file, 'M2', sites['positive'], sites['purifying'])
+    
+    print(f"\nTotal highlighted residues: {total}")
+    if total > 0:
+        print("Red = Positive selection, Blue = Purifying selection")
+    else:
+        print("No residues were highlighted. Check file names and matching logic.")
+
+# Run the analysis
+process_all_structures()
+python end
+
+# Fixed print statements with quotes
+print "PyMOL structure highlighting complete!"
+print "Check your directory for PNG files"
+print "Red spheres = positive selection sites"
+print "Blue spheres = purifying selection sites"

@@ -1,0 +1,549 @@
+parent,child,parent_state,child_state,host_switch,rate,zero_branch,group,segment,protein
+401,695,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+700,701,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg5,NP
+702,703,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg5,NP
+704,705,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+705,706,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+706,707,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+707,708,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg5,NP
+708,709,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+709,710,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg5,NP
+710,711,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+711,712,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+712,713,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+714,715,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+715,716,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+716,717,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+717,718,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+718,719,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+721,722,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+722,723,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+723,724,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+724,725,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+725,726,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+726,727,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+727,728,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+728,729,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+729,730,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+730,731,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+731,732,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+732,733,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+733,734,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+742,743,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+744,745,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+745,746,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+746,747,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+747,799,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+799,275,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+746,278,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+745,279,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+744,280,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+743,281,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+742,282,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+741,283,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+740,284,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+739,285,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+738,286,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+737,287,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg5,NP
+736,288,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+735,289,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+734,290,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+733,291,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+732,292,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+731,293,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+730,294,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+729,295,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+728,296,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+727,297,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+726,298,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+725,299,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+724,300,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+723,301,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+722,302,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+721,303,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+720,304,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+719,305,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+718,306,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+717,307,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+716,308,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+715,309,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+714,310,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+713,311,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+712,312,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+711,313,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+710,314,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+709,315,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+708,316,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+707,317,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+706,318,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+705,319,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+704,320,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+703,321,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+702,322,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+701,323,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+700,324,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+699,325,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+698,326,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+697,327,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+696,328,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+695,329,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+401,694,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+694,693,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+693,692,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+692,691,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+691,690,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+690,689,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+689,688,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+688,687,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+687,686,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+686,685,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+685,684,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+684,683,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+683,682,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+682,681,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+681,408,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+408,407,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+407,406,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+406,405,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+405,404,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+402,1,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+403,797,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+405,766,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+766,767,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+773,774,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+775,776,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+776,777,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+777,778,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+781,782,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+782,783,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+784,364,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+782,367,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+781,368,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+774,786,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+786,376,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+787,788,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+789,790,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+790,791,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+792,793,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+793,794,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+794,795,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+795,796,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+796,382,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+794,385,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+791,388,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+790,389,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+770,391,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+769,392,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+768,393,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+767,394,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+766,395,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+762,763,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg5,NP
+763,359,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+763,360,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+762,764,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+764,765,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+765,362,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+764,363,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+407,748,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+748,749,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+749,750,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg5,NP
+750,345,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+749,751,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+752,346,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+752,347,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+751,348,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+753,754,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+754,755,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+756,349,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg5,NP
+754,758,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+758,353,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+758,354,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg5,NP
+760,356,Sus scrofa,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+761,357,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+408,409,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+409,410,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+410,411,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+411,412,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg5,NP
+412,413,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+413,414,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+414,415,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+415,416,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+417,418,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+418,419,Sus scrofa,Spatula discors,TRUE,0,TRUE,Host Shift,seg5,NP
+419,420,Spatula discors,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+420,2,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+420,421,Unknown,Mus musculus,FALSE,0,TRUE,No Shift,seg5,NP
+421,422,Mus musculus,Homo sapiens,TRUE,0,TRUE,Host Shift,seg5,NP
+422,423,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+424,425,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+425,426,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+426,427,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+427,428,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+431,3,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+427,8,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+424,11,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+423,12,Homo sapiens,Mus musculus,TRUE,0,TRUE,Host Shift,seg5,NP
+422,13,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+421,14,Mus musculus,Mus musculus,FALSE,0,TRUE,No Shift,seg5,NP
+419,432,Spatula discors,Spatula discors,FALSE,0,TRUE,No Shift,seg5,NP
+432,433,Spatula discors,Anas cyanoptera,TRUE,0,TRUE,Host Shift,seg5,NP
+433,434,Anas cyanoptera,Anas cyanoptera,FALSE,0,TRUE,No Shift,seg5,NP
+434,435,Anas cyanoptera,Meleagris gallopavo,TRUE,0,TRUE,Host Shift,seg5,NP
+437,438,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+439,440,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+440,441,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+445,16,Aves,Aves,FALSE,0,TRUE,No Shift,seg5,NP
+444,17,Aves,Aves,FALSE,0,TRUE,No Shift,seg5,NP
+446,447,Unknown,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+447,448,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+448,449,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+449,450,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+451,452,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+454,455,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+455,456,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+457,22,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+457,23,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+452,458,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+458,26,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+458,27,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+451,459,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+459,460,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+460,28,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+460,29,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+450,461,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+461,462,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+463,33,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+461,34,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+449,464,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+464,35,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+464,36,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+448,465,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+465,466,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+466,37,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+466,467,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+467,38,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+467,39,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+465,468,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+468,469,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+469,470,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+470,471,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+471,40,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+471,41,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+470,42,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+469,43,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+468,472,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+447,473,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+473,474,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+474,48,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+473,49,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+446,50,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+440,476,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+476,51,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+477,52,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+477,53,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+439,478,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+478,55,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+479,56,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+482,483,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+483,484,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+486,487,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+487,488,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+494,495,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+495,496,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+496,497,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+497,498,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+498,499,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+501,502,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+502,503,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+503,504,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+504,505,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+505,506,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+506,507,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+507,508,Unknown,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg5,NP
+508,58,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg5,NP
+508,59,Anas platyrhynchos,Gallus gallus,TRUE,0,TRUE,Host Shift,seg5,NP
+507,60,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+504,63,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+503,64,Unknown,Columbidae,FALSE,0,TRUE,No Shift,seg5,NP
+502,65,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+501,66,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+500,67,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+499,68,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+498,69,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+497,70,Unknown,Anatidae,FALSE,0,TRUE,No Shift,seg5,NP
+496,71,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+494,73,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+492,75,Unknown,Anatidae,FALSE,0,TRUE,No Shift,seg5,NP
+491,509,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+509,510,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+511,78,Gallus gallus,Accipitriformes,TRUE,0,TRUE,Host Shift,seg5,NP
+510,513,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+513,79,Gallus gallus,Anatidae,TRUE,0,TRUE,Host Shift,seg5,NP
+513,80,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+515,516,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+516,517,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+518,519,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+522,523,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+524,83,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+523,84,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+522,85,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg5,NP
+521,86,Homo sapiens,Passer montanus,TRUE,0,TRUE,Host Shift,seg5,NP
+519,88,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+527,528,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+529,530,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+530,90,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+529,91,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+528,92,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+527,93,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+526,531,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+531,94,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+531,95,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+525,532,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+532,533,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+533,534,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+534,535,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+535,96,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+535,97,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+534,98,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg5,NP
+533,536,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+536,99,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+536,100,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+532,537,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+537,538,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+538,539,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+539,540,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+540,101,Homo sapiens,Anatidae,TRUE,0,TRUE,Host Shift,seg5,NP
+542,103,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+541,104,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+539,105,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+538,106,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg5,NP
+537,107,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+517,543,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+543,108,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg5,NP
+545,109,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+545,110,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+546,113,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+515,547,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+547,114,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+547,115,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+490,116,Unknown,Parus major,FALSE,0,TRUE,No Shift,seg5,NP
+489,548,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+548,549,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+549,550,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+551,552,Unknown,Panthera tigris,FALSE,0,TRUE,No Shift,seg5,NP
+552,117,Panthera tigris,Mustela lutreola,TRUE,0,TRUE,Host Shift,seg5,NP
+552,118,Panthera tigris,Panthera tigris,FALSE,0,TRUE,No Shift,seg5,NP
+551,553,Unknown,Phasianinae,FALSE,0,TRUE,No Shift,seg5,NP
+553,120,Phasianinae,Phasianinae,FALSE,0,TRUE,No Shift,seg5,NP
+550,554,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+554,121,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+554,555,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+557,558,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+558,559,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+559,122,Unknown,Anatidae,FALSE,0,TRUE,No Shift,seg5,NP
+559,123,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+558,560,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+562,563,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+563,124,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+562,126,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+564,565,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+565,127,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+565,128,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+564,129,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+560,130,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+556,132,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+566,134,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+566,135,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+567,568,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+568,136,Unknown,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+568,569,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+569,137,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+567,139,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+487,570,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+570,571,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+571,572,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+572,573,Gallus gallus,Aves,TRUE,0,TRUE,Host Shift,seg5,NP
+573,141,Aves,Aves,FALSE,0,TRUE,No Shift,seg5,NP
+573,142,Aves,Aves,FALSE,0,TRUE,No Shift,seg5,NP
+572,574,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+574,575,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+577,578,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+578,144,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+580,581,Gallus gallus,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+583,584,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+584,585,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+585,586,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+586,146,Gallus gallus,Homo sapiens,TRUE,0,TRUE,Host Shift,seg5,NP
+582,151,Unknown,Anatidae,FALSE,0,TRUE,No Shift,seg5,NP
+581,152,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+575,587,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+587,155,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+574,157,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+571,158,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+570,159,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+589,590,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+590,161,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+592,164,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg5,NP
+594,165,Columbidae,Columbidae,FALSE,0,TRUE,No Shift,seg5,NP
+596,166,Unknown,Aves,FALSE,0,TRUE,No Shift,seg5,NP
+596,167,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+595,168,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+599,600,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+600,601,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+601,169,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+601,170,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+597,174,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+591,602,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+602,603,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+606,175,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+606,176,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+605,607,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg5,NP
+607,608,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg5,NP
+608,178,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg5,NP
+607,179,Anas platyrhynchos,Cairina moschata,TRUE,0,TRUE,Host Shift,seg5,NP
+604,180,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg5,NP
+603,181,Gallus gallus,Mustela lutreola,TRUE,0,TRUE,Host Shift,seg5,NP
+609,610,Gallus gallus,Panthera tigris,TRUE,0,TRUE,Host Shift,seg5,NP
+484,611,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+611,186,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+481,613,Unknown,Mareca americana,FALSE,0,TRUE,No Shift,seg5,NP
+614,190,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg5,NP
+614,191,Mareca americana,Anas carolinensis,TRUE,0,TRUE,Host Shift,seg5,NP
+616,617,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg5,NP
+618,619,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg5,NP
+619,620,Meleagris gallopavo,Gallus gallus,TRUE,0,TRUE,Host Shift,seg5,NP
+620,196,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+620,197,Gallus gallus,Arenaria interpres,TRUE,0,TRUE,Host Shift,seg5,NP
+617,621,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg5,NP
+621,622,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg5,NP
+622,201,Meleagris gallopavo,Numididae,TRUE,0,TRUE,Host Shift,seg5,NP
+621,623,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg5,NP
+623,202,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg5,NP
+623,203,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg5,NP
+616,204,Meleagris gallopavo,Anas carolinensis,TRUE,0,TRUE,Host Shift,seg5,NP
+434,205,Anas cyanoptera,Anas cyanoptera,FALSE,0,TRUE,No Shift,seg5,NP
+625,626,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+626,627,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+627,206,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+627,207,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+626,208,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg5,NP
+625,209,Gallus gallus,Numididae sp.,TRUE,0,TRUE,Host Shift,seg5,NP
+432,211,Spatula discors,Spatula discors,FALSE,0,TRUE,No Shift,seg5,NP
+418,212,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+417,628,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+628,629,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+629,630,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+630,631,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+631,632,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+632,633,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+633,634,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+634,635,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+635,636,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+636,637,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+637,638,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+638,213,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+638,214,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+637,215,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+636,216,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+635,217,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+634,639,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+639,640,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+640,218,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+640,641,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+641,219,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+641,220,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+639,221,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+633,222,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+632,223,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+631,224,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+630,225,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+629,642,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+642,643,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+643,226,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+643,227,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+642,228,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+628,644,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+644,645,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+645,646,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+646,647,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+647,648,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+648,229,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+648,230,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+647,649,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+649,231,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+649,232,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+646,650,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+650,233,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+650,651,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+651,234,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+651,652,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+652,235,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+652,653,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+653,236,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+653,237,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+645,238,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+644,239,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+416,240,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+415,654,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+654,241,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+654,242,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+414,655,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+655,656,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+656,243,Sus scrofa,Unknown,FALSE,0,TRUE,No Shift,seg5,NP
+656,244,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+655,657,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+657,658,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+658,245,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+658,246,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+657,247,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+413,659,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+659,660,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+660,661,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+661,662,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+662,663,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+663,664,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+664,665,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+665,666,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+667,668,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+669,249,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+668,670,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+670,250,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+667,252,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+666,253,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+665,254,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+664,255,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+663,256,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+662,671,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+671,672,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+672,258,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+671,673,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+673,259,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+673,260,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+661,261,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+660,674,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+674,675,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+675,676,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+676,677,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+677,262,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+677,263,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+676,264,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+675,265,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+678,267,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+659,679,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+679,268,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+412,270,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg5,NP
+411,680,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+680,271,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg5,NP
+680,272,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+410,273,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+409,274,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+681,343,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+682,342,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+683,341,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+684,340,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+685,339,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+687,337,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+688,336,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+689,335,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg5,NP
+691,333,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg5,NP
+693,331,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg5,NP

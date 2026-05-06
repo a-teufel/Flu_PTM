@@ -1,0 +1,41 @@
+=============================================
+seg2 - PB1_polymerase PROTEIN EVOLUTIONARY ANALYSIS
+=============================================
+
+ANALYSIS OVERVIEW:
+- Sites analyzed: 24 
+- Non-zero branches: 304 
+- Zero branches excluded: 452 
+- Host shifts identified: 71  ( 23.4 %)
+- Fast-evolving sites: 0
+- Slow-evolving sites: 5
+
+HOST SHIFT SUMMARY:
+  * Homo sapiens → Sus scrofa: 30 occurrences
+  * Homo sapiens → Gallus gallus: 11 occurrences
+  * Homo sapiens → Anatidae: 8 occurrences
+  * Homo sapiens → Aves: 3 occurrences
+  * Homo sapiens → Anas platyrhynchos: 2 occurrences
+
+BRANCH RATE ANALYSIS:
+- Host shift branches (n = 71 ): median rate = 0.002865318 
+- Non-host shift branches (n = 233 ): median rate = 0.002936781 
+- Wilcoxon test p-value: 0.2858884 
+- KS test p-value: 0.1905274 
+
+SITE RATE ANALYSIS:
+- Mean site rate: 0.04166667 
+- SD: 0.008282463 
+- Median site rate: 0.04249221 
+- MAD: 0.01071002 
+- Coefficient of variation: 19.9 %
+- Range: 0.02716939 to 0.05591479 
+
+FILES GENERATED:
+- Site rate plot: site_specific_analysis_results/seg2_PB1_polymerase/PB1_polymerase_site_rates.pdf 
+- Quartile plot: site_specific_analysis_results/seg2_PB1_polymerase/PB1_polymerase_rate_quartiles.pdf 
+- Site significance plot: site_specific_analysis_results/seg2_PB1_polymerase/PB1_polymerase_significant_sites.pdf 
+- Branch rate density plot: site_specific_analysis_results/seg2_PB1_polymerase/PB1_polymerase_branch_rates.pdf 
+- Branch rate violin plot: site_specific_analysis_results/seg2_PB1_polymerase/PB1_polymerase_branch_rates_violin.pdf 
+- Host transitions table: site_specific_analysis_results/seg2_PB1_polymerase/PB1_polymerase_host_transitions.csv 
+- Zero branch list: site_specific_analysis_results/seg2_PB1_polymerase/PB1_polymerase_zero_branches.csv 

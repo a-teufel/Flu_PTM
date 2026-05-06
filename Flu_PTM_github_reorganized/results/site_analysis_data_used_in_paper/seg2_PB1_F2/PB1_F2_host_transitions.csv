@@ -1,0 +1,14 @@
+parent_state,child_state,n,transition
+Anatidae,Gallus gallus,2,Anatidae → Gallus gallus
+Anatidae,Sus scrofa,1,Anatidae → Sus scrofa
+Aves,Arenaria interpres,1,Aves → Arenaria interpres
+Cygnus olor,Anatidae,1,Cygnus olor → Anatidae
+Gallus gallus,Anas cyanoptera,1,Gallus gallus → Anas cyanoptera
+Gallus gallus,Anatidae,1,Gallus gallus → Anatidae
+Gallus gallus,Meleagris gallopavo,1,Gallus gallus → Meleagris gallopavo
+Gallus gallus,Numididae sp.,1,Gallus gallus → Numididae sp.
+Homo sapiens,Anatidae,1,Homo sapiens → Anatidae
+Homo sapiens,Cairina moschata,1,Homo sapiens → Cairina moschata
+Meleagris gallopavo,Anatidae,1,Meleagris gallopavo → Anatidae
+Sus scrofa,Cygnus olor,1,Sus scrofa → Cygnus olor
+Sus scrofa,Gallus gallus,1,Sus scrofa → Gallus gallus

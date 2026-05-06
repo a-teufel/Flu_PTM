@@ -1,0 +1,10 @@
+parent_state,child_state,n,transition
+Sus scrofa,Homo sapiens,3,Sus scrofa → Homo sapiens
+Gallus gallus,Homo sapiens,2,Gallus gallus → Homo sapiens
+Homo sapiens,Gallus gallus,2,Homo sapiens → Gallus gallus
+Anatidae,Anas platyrhynchos,1,Anatidae → Anas platyrhynchos
+Anatidae,Numididae,1,Anatidae → Numididae
+Aves,Anatidae,1,Aves → Anatidae
+Homo sapiens,Sus scrofa,1,Homo sapiens → Sus scrofa
+Mareca americana,Anas carolinensis,1,Mareca americana → Anas carolinensis
+Mareca americana,Homo sapiens,1,Mareca americana → Homo sapiens

@@ -1,0 +1,719 @@
+parent,child,parent_state,child_state,host_switch,rate,zero_branch,group,segment,protein
+636,659,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+659,660,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+660,661,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+661,662,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+662,663,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+699,700,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+703,704,Gallus gallus,Homo sapiens,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1269,39,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1269,40,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+704,42,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+701,45,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+683,684,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+685,24,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+685,25,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+690,692,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+692,30,Homo sapiens,Anatidae,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+692,693,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+693,31,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+693,694,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+694,695,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+695,32,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+695,33,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+694,34,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+689,35,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+688,696,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+696,36,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+696,37,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+687,38,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+681,706,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+706,707,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+707,50,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+707,51,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+706,52,Homo sapiens,Anatidae,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+663,664,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+664,6,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+664,665,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+665,666,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+666,667,Homo sapiens,Meleagris gallopavo,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+667,668,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+668,669,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+669,670,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+670,671,Meleagris gallopavo,Spatula discors,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+671,672,Spatula discors,Spatula discors,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+672,7,Spatula discors,Spatula discors,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+672,673,Spatula discors,Gallus gallus,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+673,674,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+674,675,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+675,8,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+675,9,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+674,10,Gallus gallus,Numididae sp.,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+673,11,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+671,12,Spatula discors,Anas cyanoptera,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+670,676,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+676,677,Meleagris gallopavo,Numididae,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+677,678,Numididae,Numididae,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+678,13,Numididae,Numididae,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+678,14,Numididae,Anatidae,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+677,15,Numididae,Numididae,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+676,679,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+679,16,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+679,17,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+669,18,Meleagris gallopavo,Spatula clypeata,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+668,680,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+680,19,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+680,20,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+667,21,Meleagris gallopavo,Anas carolinensis,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+666,22,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+665,23,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+662,708,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+708,709,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+709,53,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+709,54,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+708,55,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+710,56,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+710,711,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+711,712,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+712,57,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+712,58,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+713,60,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+713,61,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+659,62,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+636,656,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+654,653,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+650,649,Unknown,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+648,647,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+641,640,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1266,1267,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1267,622,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1267,623,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1266,624,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1265,625,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1264,626,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1263,1268,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1268,627,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1268,628,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1262,629,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1261,630,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+948,949,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+954,955,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+960,961,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+961,962,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+962,963,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+963,964,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+964,965,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+969,970,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+970,971,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+971,972,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+972,973,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+973,974,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+975,976,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+976,977,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+977,978,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+978,979,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+979,980,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+982,983,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+983,984,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+984,306,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+984,985,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+985,986,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+986,307,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+986,308,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+985,309,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+983,987,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+987,988,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+994,995,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+994,312,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+992,314,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+991,315,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+990,996,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+998,999,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+999,1000,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1005,1006,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+999,325,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+996,1008,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1008,1009,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1010,330,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1010,331,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+989,332,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+988,333,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1012,1013,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1013,1014,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1016,335,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1015,336,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1014,337,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1013,338,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1012,339,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1011,340,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+981,1018,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1018,343,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1019,346,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1019,347,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+978,348,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+977,349,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+976,1020,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1020,1021,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1021,350,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1021,351,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1020,352,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+975,353,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+974,1022,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1022,1023,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1022,356,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+972,1024,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1025,1026,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1026,1027,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1028,358,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1028,359,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1025,1029,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1029,362,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1029,363,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1024,1030,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1030,364,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1030,365,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+971,366,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+970,1031,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1032,1033,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1033,1034,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1034,367,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1034,1035,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1035,368,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1035,1036,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1036,1037,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1037,369,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1037,370,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1036,371,Homo sapiens,Mustela putorius furo,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1033,1038,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1038,372,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1038,373,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1032,1039,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1039,1040,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1040,1041,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1041,1042,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1042,374,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1042,375,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1041,376,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1040,377,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1039,378,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1031,379,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+969,380,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+968,381,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1043,1044,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1044,382,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1044,1045,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1045,1046,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1045,1047,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1048,1049,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1050,387,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1049,389,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1052,1053,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1053,1054,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1055,1056,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1057,391,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1057,392,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1056,393,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1055,394,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1060,395,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1060,396,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1059,397,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1058,1061,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1068,399,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1068,400,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1064,1070,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1070,404,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1070,1071,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1071,405,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1071,406,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1063,407,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1062,1072,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1073,1074,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1074,409,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1074,410,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1061,1075,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1075,412,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1075,413,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1077,1078,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1078,415,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1077,417,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1076,418,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1051,1079,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1079,1080,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1080,419,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1081,422,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1081,1082,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1086,424,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1086,425,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1083,427,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1082,428,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+964,429,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1088,431,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1094,1095,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1097,1098,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1097,435,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1096,436,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1093,439,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1092,440,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1103,445,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1106,448,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1106,449,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1108,451,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1108,452,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1107,1109,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1109,453,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1109,454,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+961,455,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+960,1110,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+958,459,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+957,1111,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1111,1112,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1112,460,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1112,461,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1111,462,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1114,467,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1115,1116,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1116,469,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1116,470,Homo sapiens,Felis catus,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+952,1117,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1117,471,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1121,1122,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1122,1123,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1123,1124,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1125,1126,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1127,473,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1127,474,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1126,475,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1129,1130,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1130,477,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1128,1131,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1136,1137,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1137,1138,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1138,1139,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1139,483,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1138,484,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1140,493,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1149,498,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1149,499,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1147,1150,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1151,1152,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1152,1153,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1155,1156,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1156,506,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1156,507,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1155,508,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1158,1159,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1159,509,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1162,514,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1163,516,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1164,517,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1164,518,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1119,519,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1118,1165,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1165,1166,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1166,1167,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1167,1168,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1168,1169,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1169,1170,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1170,520,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1170,521,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1169,1171,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1172,524,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1172,525,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1167,1173,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1173,526,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1174,527,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1174,1175,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1179,529,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1177,531,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1176,532,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1166,1180,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1180,1181,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1182,1183,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1183,1184,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1184,1185,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1185,1186,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1188,1189,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1190,1191,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1192,1193,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1193,1194,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1194,1195,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1195,1196,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1197,1198,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1199,1200,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1202,1203,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1213,1214,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1216,1217,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1217,1218,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1218,1219,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1219,1220,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1220,1221,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1221,1222,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1224,1225,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1225,1226,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1226,1227,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1227,1228,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1228,1229,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1229,1230,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1230,1231,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1231,1232,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1232,1233,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1233,1234,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1234,1235,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1235,1236,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1236,1237,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1237,534,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1237,535,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1236,536,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1234,538,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1233,539,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1232,540,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1231,541,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1228,544,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1225,547,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1218,554,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1217,555,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1214,558,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1212,560,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1210,562,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1206,566,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1193,579,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1185,587,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1239,1240,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1244,1245,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1241,599,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1240,1247,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1247,1248,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1248,1249,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+1249,601,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1248,602,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1247,1250,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1251,1252,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1252,605,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1251,1254,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1254,606,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1254,607,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1239,609,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1238,1255,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1256,610,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1256,611,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1255,1257,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1259,614,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+1259,615,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+944,945,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+945,302,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+945,303,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+946,304,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+946,305,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+646,942,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+942,943,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+941,297,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+916,917,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+917,918,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+919,920,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+920,270,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+919,271,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+918,921,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+923,272,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+921,277,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+930,931,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+931,280,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+927,283,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+933,287,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+934,935,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+935,937,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+938,939,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+938,293,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+650,757,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+757,758,Unknown,Arenaria interpres,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+758,759,Arenaria interpres,Aves,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+759,760,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+760,761,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+761,762,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+762,110,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+762,111,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+757,763,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+767,768,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+770,116,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+769,771,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+772,773,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+773,774,Gallus gallus,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+775,776,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+776,777,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+777,778,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+778,779,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+779,118,Gallus gallus,Homo sapiens,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+778,780,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+785,786,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+787,788,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+788,789,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+790,128,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+789,130,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+788,791,Gallus gallus,Homo sapiens,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+791,792,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+793,794,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+794,795,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+797,134,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+797,135,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+792,137,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+801,802,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+803,143,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+799,146,Gallus gallus,Anatidae,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+804,805,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+805,806,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+806,147,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+806,148,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+805,149,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+804,807,Gallus gallus,Homo sapiens,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+807,150,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+807,151,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+784,152,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+783,153,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+782,154,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+771,155,Unknown,Accipitriformes,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+768,808,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+808,809,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+809,810,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+810,811,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+811,812,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+812,813,Homo sapiens,Anas platyrhynchos,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+817,156,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+817,157,Anas platyrhynchos,Parus major,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+816,818,Anas platyrhynchos,Aves,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+818,819,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+819,820,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+820,821,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+821,822,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+822,823,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+823,824,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+824,158,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+824,159,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+826,164,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+825,165,Aves,Mustela lutreola,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+819,827,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+828,167,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+827,168,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+818,829,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+830,170,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+829,831,Aves,Phasianinae,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+831,172,Phasianinae,Phasianinae,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+814,174,Anas platyrhynchos,Anatidae,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+813,832,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+833,834,Anas platyrhynchos,Mustela lutreola,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+836,837,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+837,838,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+839,840,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+840,175,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+840,176,Gallus gallus,Anas platyrhynchos,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+839,841,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+841,177,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+841,178,Gallus gallus,Cairina moschata,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+838,179,Gallus gallus,Suricata suricatta,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+837,180,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+835,842,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+842,843,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+843,844,Gallus gallus,Aves,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+844,182,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+845,183,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+845,184,Aves,Panthera tigris,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+843,185,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+834,187,Mustela lutreola,Mustela lutreola,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+833,846,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+846,188,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+846,189,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+812,847,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+847,848,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+848,849,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+849,850,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+850,191,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+850,192,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+849,851,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+851,193,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+851,194,Homo sapiens,Anatidae,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+847,852,Homo sapiens,Aves,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+852,196,Aves,Aves,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+811,853,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+853,854,Unknown,Anatidae,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+854,855,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+855,856,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+856,857,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+857,198,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+856,200,Anatidae,Aves,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+855,201,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+854,202,Anatidae,Columbidae,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+853,203,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+810,858,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+858,859,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+859,860,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+860,205,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+859,861,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+858,209,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+808,863,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+863,864,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+864,865,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+865,866,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+866,867,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+867,868,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+868,869,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+869,870,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+870,871,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+871,872,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+872,873,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+874,211,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+873,213,Unknown,Cygnus olor,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+875,214,Unknown,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+877,215,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+877,878,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+878,879,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+879,216,Gallus gallus,Anas platyrhynchos,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+879,217,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+878,880,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+880,881,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+881,882,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+882,218,Gallus gallus,Anas platyrhynchos,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+882,883,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+883,884,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+883,221,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+881,222,Gallus gallus,Meleagris gallopavo,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+876,224,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+871,225,Unknown,Anatidae,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+885,226,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+885,227,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+886,887,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+889,228,Unknown,Aythya ferina,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+889,229,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+890,891,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+891,231,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+891,232,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+890,233,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+886,234,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+868,892,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+892,235,Unknown,Cygnus olor,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+892,236,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+867,893,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+893,237,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+894,895,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+895,896,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+897,239,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+897,240,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+896,241,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+898,899,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+899,900,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+900,243,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+900,244,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+894,901,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+901,902,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+902,246,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+902,247,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+901,248,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+903,250,Unknown,Psittacidae,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+903,904,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+904,905,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+905,251,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+905,252,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+904,906,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+906,907,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+907,253,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+863,908,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+908,256,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+908,257,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+767,258,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+766,909,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+909,259,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+909,260,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+765,261,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+910,911,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+911,912,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+912,913,Unknown,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+913,262,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+913,263,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+912,914,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+914,264,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+914,265,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+911,266,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+910,267,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+763,268,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+651,753,Unknown,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+753,105,Meleagris gallopavo,Gallus gallus,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+753,754,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+754,106,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+754,755,Meleagris gallopavo,Mareca americana,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+755,756,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+756,107,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+756,108,Mareca americana,Anas carolinensis,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+755,109,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+652,729,Unknown,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+729,730,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+730,731,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+731,732,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+732,733,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+733,734,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+734,735,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+735,736,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+736,737,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+737,80,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+737,81,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+736,738,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+738,82,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+738,83,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+735,84,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+734,739,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+739,85,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+739,86,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+733,87,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+732,740,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+740,741,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+741,742,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+742,88,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+742,89,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+741,743,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+743,90,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+743,744,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+744,91,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+744,92,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+740,93,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+731,94,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+730,745,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+745,95,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+745,96,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+729,746,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+746,97,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+746,747,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+747,98,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+747,748,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+748,749,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+749,750,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+750,751,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+751,100,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+752,101,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+752,102,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+749,103,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+748,104,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+653,714,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+714,64,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg6,NA_neuraminidase
+716,717,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+717,718,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+718,65,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+718,719,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+719,720,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+721,67,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+720,68,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+719,69,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+717,722,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+722,723,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+723,724,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+725,726,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+726,71,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+725,727,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+727,73,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+727,74,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+723,75,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+722,76,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+716,77,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+715,728,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+728,78,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+728,79,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+655,2,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+656,657,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+657,658,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+658,3,Unknown,Mus musculus,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase
+658,4,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg6,NA_neuraminidase

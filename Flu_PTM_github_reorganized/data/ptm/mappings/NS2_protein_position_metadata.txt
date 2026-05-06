@@ -1,0 +1,4 @@
+# PTM Position Metadata
+# Format: Alignment_Position	PTM_Type_Found	Sequences_With_PTM	Consensus_Position	Consensus_AA
+24	Phosphoserine	H1N1__AFP36189_,H1N1__CCD33094_,H1N1__CCD31006_,H1N1__CCD31016_	24	S
+62	N-linked_glycosylation	H1N1__CCD31006_,H1N1__CCD31016_,YP_308672,H5N1__ABO76683_	62	G

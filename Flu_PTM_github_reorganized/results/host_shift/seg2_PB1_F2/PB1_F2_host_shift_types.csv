@@ -1,0 +1,28 @@
+host_shift_type,n
+Anatidae → Gallus gallus,3
+Anatidae → Homo sapiens,2
+Anatidae → Sus scrofa,2
+Gallus gallus → Anatidae,2
+Homo sapiens → Anatidae,2
+Homo sapiens → Gallus gallus,2
+Sus scrofa → Gallus gallus,2
+Anas platyrhynchos → Panthera tigris,1
+Aves → Arenaria interpres,1
+Cygnus olor → Anatidae,1
+Gallus gallus → Anas cyanoptera,1
+Gallus gallus → Homo sapiens,1
+Gallus gallus → Meleagris gallopavo,1
+Gallus gallus → Numididae sp.,1
+Homo sapiens → Cairina moschata,1
+Mareca americana → Anas carolinensis,1
+Mareca americana → Spatula clypeata,1
+Meleagris gallopavo → Anatidae,1
+Meleagris gallopavo → Numididae,1
+Numididae → Mareca americana,1
+Phasianinae → Panthera tigris,1
+Spatula clypeata → Anas carolinensis,1
+Spatula clypeata → Spatula discors,1
+Spatula discors → Gallus gallus,1
+Sus scrofa → Anas platyrhynchos,1
+Sus scrofa → Cygnus olor,1
+Sus scrofa → Homo sapiens,1

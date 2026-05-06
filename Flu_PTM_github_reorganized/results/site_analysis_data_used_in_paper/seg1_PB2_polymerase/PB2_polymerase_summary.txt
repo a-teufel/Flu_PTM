@@ -1,0 +1,48 @@
+=============================================
+seg1 - PB2_polymerase PROTEIN EVOLUTIONARY ANALYSIS
+=============================================
+
+ANALYSIS OVERVIEW:
+- Sites analyzed: 40 
+- Non-zero branches: 344 
+- Zero branches excluded: 422 
+- Host shifts identified: 86  ( 25 %)
+- Fast-evolving sites: 3
+- Slow-evolving sites: 0
+
+HOST SHIFT SUMMARY:
+  * Homo sapiens → Sus scrofa: 46 occurrences
+  * Homo sapiens → Gallus gallus: 11 occurrences
+  * Homo sapiens → Anatidae: 8 occurrences
+  * Homo sapiens → Anas carolinensis: 2 occurrences
+  * Homo sapiens → Anas platyrhynchos: 2 occurrences
+
+BRANCH RATE ANALYSIS:
+- Host shift branches (n = 86 ): median rate = 0.002488482 
+- Non-host shift branches (n = 258 ): median rate = 0.002378134 
+- Wilcoxon test p-value: 0.5259739 
+- KS test p-value: 0.309452 
+
+SITE RATE ANALYSIS:
+- Mean site rate: 0.025 
+- SD: 0.008988451 
+- Median site rate: 0.02090247 
+- MAD: 0.00536598 
+- Coefficient of variation: 36 %
+- Range: 0.01645067 to 0.04798145 
+
+FILES GENERATED:
+- Site rate plot: site_specific_analysis_results/seg1_PB2_polymerase/PB2_polymerase_site_rates.pdf 
+- Quartile plot: site_specific_analysis_results/seg1_PB2_polymerase/PB2_polymerase_rate_quartiles.pdf 
+- Site significance plot: site_specific_analysis_results/seg1_PB2_polymerase/PB2_polymerase_significant_sites.pdf 
+- Branch rate density plot: site_specific_analysis_results/seg1_PB2_polymerase/PB2_polymerase_branch_rates.pdf 
+- Branch rate violin plot: site_specific_analysis_results/seg1_PB2_polymerase/PB2_polymerase_branch_rates_violin.pdf 
+- Host transitions table: site_specific_analysis_results/seg1_PB2_polymerase/PB2_polymerase_host_transitions.csv 
+- Zero branch list: site_specific_analysis_results/seg1_PB2_polymerase/PB2_polymerase_zero_branches.csv 
+- Fast-evolving sites table: site_specific_analysis_results/seg1_PB2_polymerase/PB2_polymerase_fast_sites.csv 
+
+INTERPRETATION:
+This analysis has identified sites that evolve at significantly different rates
+compared to the protein average. Fast-evolving sites may be under positive
+selection or relaxed constraints, while slow-evolving sites typically represent
+functionally or structurally critical regions under purifying selection.

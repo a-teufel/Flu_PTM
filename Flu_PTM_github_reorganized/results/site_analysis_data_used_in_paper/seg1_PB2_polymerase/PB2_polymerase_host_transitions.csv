@@ -1,0 +1,25 @@
+parent_state,child_state,n,transition
+Homo sapiens,Sus scrofa,7,Homo sapiens → Sus scrofa
+Gallus gallus,Homo sapiens,5,Gallus gallus → Homo sapiens
+Accipitriformes,Anatidae,1,Accipitriformes → Anatidae
+Accipitriformes,Arenaria interpres,1,Accipitriformes → Arenaria interpres
+Anas carolinensis,Mareca americana,1,Anas carolinensis → Mareca americana
+Anas platyrhynchos,Mustela lutreola,1,Anas platyrhynchos → Mustela lutreola
+Anas platyrhynchos,Panthera tigris,1,Anas platyrhynchos → Panthera tigris
+Anatidae,Homo sapiens,1,Anatidae → Homo sapiens
+Anatidae,Numididae,1,Anatidae → Numididae
+Anatidae,Phasianinae,1,Anatidae → Phasianinae
+Anatidae,Sus scrofa,1,Anatidae → Sus scrofa
+Gallus gallus,Anatidae,1,Gallus gallus → Anatidae
+Gallus gallus,Tachybaptus ruficollis,1,Gallus gallus → Tachybaptus ruficollis
+Homo sapiens,Anatidae,1,Homo sapiens → Anatidae
+Homo sapiens,Gallus gallus,1,Homo sapiens → Gallus gallus
+Homo sapiens,Meleagris gallopavo,1,Homo sapiens → Meleagris gallopavo
+Homo sapiens,Passer montanus,1,Homo sapiens → Passer montanus
+Meleagris gallopavo,Anas cyanoptera,1,Meleagris gallopavo → Anas cyanoptera
+Meleagris gallopavo,Gallus gallus,1,Meleagris gallopavo → Gallus gallus
+Meleagris gallopavo,Spatula discors,1,Meleagris gallopavo → Spatula discors
+Phasianinae,Mustela lutreola,1,Phasianinae → Mustela lutreola
+Phasianinae,Panthera tigris,1,Phasianinae → Panthera tigris
+Sus scrofa,Aves,1,Sus scrofa → Aves
+Sus scrofa,Homo sapiens,1,Sus scrofa → Homo sapiens

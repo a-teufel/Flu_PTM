@@ -1,0 +1,453 @@
+parent,child,parent_state,child_state,host_switch,rate,zero_branch,group,segment,protein
+380,420,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+420,428,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+428,429,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+429,430,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+430,431,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+431,442,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+442,468,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+468,469,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+469,507,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+507,508,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+508,509,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+509,510,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+510,511,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+511,512,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+512,513,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+513,514,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+514,515,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+515,516,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+516,517,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+517,518,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+518,519,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+519,520,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+520,521,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+521,522,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+522,523,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+523,524,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+525,526,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+526,527,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+527,528,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+528,529,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+532,533,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+533,534,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+534,535,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+535,536,Homo sapiens,Anatidae,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+541,542,Mustela lutreola,Anas platyrhynchos,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+542,543,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+543,544,Anas platyrhynchos,Gallus gallus,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+544,757,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+542,90,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+541,91,Mustela lutreola,Mustela lutreola,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+540,545,Panthera tigris,Panthera tigris,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+545,92,Panthera tigris,Panthera tigris,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+546,94,Panthera tigris,Gallus gallus,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+550,99,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+538,85,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+537,551,Anatidae,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+535,104,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+553,107,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+555,556,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+556,557,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+558,110,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+560,111,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+560,112,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+556,561,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+561,113,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+561,114,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+555,115,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+554,562,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+562,563,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+563,116,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+563,117,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+562,564,Gallus gallus,Anatidae,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+564,565,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+565,118,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+565,566,Anatidae,Gallus gallus,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+566,119,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+566,120,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+564,121,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+531,567,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+567,568,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+568,569,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+569,122,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+571,126,Anatidae,Gallus gallus,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+570,572,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+572,127,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+529,130,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+527,573,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+573,132,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+573,133,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+526,134,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+525,135,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+524,136,Unknown,Accipitriformes,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+523,137,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+522,138,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+521,574,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+574,575,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+575,576,Unknown,Cygnus olor,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+576,139,Cygnus olor,Anatidae,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+576,140,Cygnus olor,Cygnus olor,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+575,577,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+578,142,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+577,143,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+583,584,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+583,148,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+582,149,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+579,585,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+585,150,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+520,586,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+586,587,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+589,154,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+517,593,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+593,162,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+593,163,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+516,594,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+595,165,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+595,166,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+515,167,Unknown,Columbidae,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+514,168,Unknown,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+513,169,Unknown,Columbidae,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+509,597,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+597,598,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+598,174,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+597,176,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+508,177,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+507,178,Unknown,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+475,476,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+477,480,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+480,481,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+481,482,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+485,486,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+486,487,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+487,488,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+488,489,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+489,490,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+490,491,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+491,492,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+488,60,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+487,61,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+486,62,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+493,494,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+494,495,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+495,63,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+495,64,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+497,68,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+483,70,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+498,499,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+498,500,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+500,73,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+500,501,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+502,74,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+502,503,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+503,504,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+504,76,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+503,77,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+501,78,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+480,80,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+505,506,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+506,81,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+470,84,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+468,599,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+599,600,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+446,447,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+447,448,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+449,450,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+450,451,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+453,454,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+454,455,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+456,23,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+456,24,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+454,25,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+450,459,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+459,460,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+460,461,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+461,462,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+462,463,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+461,34,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+466,38,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+465,39,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+449,467,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+467,40,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+467,41,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+448,42,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+447,43,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+445,44,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+444,45,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+433,434,Arenaria interpres,Aves,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+434,435,Aves,Aves,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+435,436,Aves,Aves,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+436,437,Aves,Aves,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+437,438,Aves,Aves,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+434,439,Aves,Phasianinae,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+439,440,Phasianinae,Mustela lutreola,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+440,16,Mustela lutreola,Panthera tigris,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+439,441,Phasianinae,Phasianinae,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+433,19,Arenaria interpres,Arenaria interpres,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+602,603,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+604,605,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+605,606,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+608,184,Anas carolinensis,Anas carolinensis,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+610,186,Mareca americana,Anas carolinensis,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+609,187,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+612,189,Numididae sp.,Spatula discors,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+612,190,Numididae sp.,Numididae sp.,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+611,191,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+603,613,Gallus gallus,Spatula clypeata,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+601,614,Gallus gallus,Anas cyanoptera,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+615,616,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+617,196,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+616,618,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+618,198,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+615,619,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+429,202,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+428,203,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+420,421,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+424,3,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+423,425,Mus musculus,Mus musculus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+426,427,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+427,4,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+427,5,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+425,7,Mus musculus,Mus musculus,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+421,9,Unknown,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+380,419,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+418,417,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+417,416,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+416,415,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+415,414,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+414,413,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+411,410,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+409,408,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+405,404,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+401,400,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+398,397,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+396,395,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+395,394,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+394,393,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+393,392,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+392,391,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+391,390,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+390,389,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+388,387,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+387,386,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+386,385,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+385,384,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+384,383,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+383,382,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+382,381,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+381,1,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+381,379,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+382,378,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+385,375,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+386,374,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+387,373,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+389,371,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+390,370,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+396,364,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+399,361,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+400,360,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+405,355,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+737,738,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+738,739,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+739,740,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+740,741,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+741,742,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+742,743,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+743,333,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+743,334,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+745,338,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+744,746,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+746,747,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+748,749,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+749,340,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+749,341,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+748,750,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+752,343,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+750,345,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+738,348,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+737,753,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+753,754,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+754,755,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+756,349,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+756,350,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+755,351,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+754,352,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+753,353,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+408,735,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+735,736,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+736,330,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+736,331,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+735,332,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+707,708,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+708,709,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+710,711,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+711,301,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+711,712,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+713,714,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+713,304,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+715,305,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+715,306,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+710,716,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+716,717,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+717,718,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+718,307,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+719,308,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+716,720,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+720,312,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+721,722,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+723,314,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+723,315,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+721,724,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+725,317,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+727,728,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+728,320,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+728,321,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+727,729,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+730,323,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+729,324,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+726,731,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+731,732,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+732,733,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+733,326,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+701,702,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+702,703,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+703,295,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+702,704,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+701,705,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+705,706,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+411,293,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+412,700,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+700,292,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+656,657,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+657,658,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+658,659,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+661,662,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+663,664,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+664,665,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+666,667,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+667,668,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+669,670,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+670,671,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+671,672,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+672,673,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+673,674,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+674,244,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+673,246,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+669,250,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+666,253,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+665,254,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+664,255,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+663,256,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+662,257,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+661,258,Homo sapiens,Mustela putorius furo,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+660,259,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+659,675,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+675,676,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+676,260,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+676,261,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+675,677,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+677,678,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+678,262,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+678,263,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+677,264,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+658,679,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+679,680,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+680,266,Homo sapiens,Meleagris gallopavo,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+679,681,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+681,267,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+681,268,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+657,269,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+656,682,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+682,683,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+683,684,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+684,685,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+685,270,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+683,273,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+682,274,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+655,686,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+686,687,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+687,688,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+688,689,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+689,690,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+690,691,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+695,275,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+695,276,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+694,277,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+693,278,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+690,281,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+689,282,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+688,283,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+696,284,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+686,697,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+697,286,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+697,287,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+698,699,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+699,289,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+698,290,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+414,243,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg2,PB1_polymerase
+652,653,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+653,240,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+653,241,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+652,242,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+416,239,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+417,651,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+651,237,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+651,238,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+418,623,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+623,624,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+624,625,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+625,626,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+627,628,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+628,629,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+631,632,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+632,633,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+633,208,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+633,209,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+632,634,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+634,210,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+634,635,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+635,211,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+635,212,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+631,636,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+636,213,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+636,214,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+630,637,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+637,638,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+638,215,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+638,216,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+637,639,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+639,640,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+641,217,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+641,218,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+639,642,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+642,220,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+642,221,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+629,222,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+628,643,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+643,223,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+643,224,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+627,644,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+644,225,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+644,645,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+645,646,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+646,647,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+647,226,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+647,227,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+646,648,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+648,649,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+649,228,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+649,229,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+648,230,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+645,231,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+626,232,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+625,650,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+650,233,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+650,234,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+624,235,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+623,236,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+419,620,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+620,621,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+621,622,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+622,204,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+622,205,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase
+621,206,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1_polymerase

@@ -1,0 +1,23 @@
+cartoon
+color lightgray
+lighting full
+# Blue selection sites
+select :50,128,144,164,166
+color sel blue
+show sel atoms
+style sel sphere
+size sel atomRadius 1.5
+# Create 3D labels with leader lines for blue residues
+label sel residues text "{0.name}{0.number}" color black size 24 height 3.0
+label sel offset 4.0,4.0,2.0
+label sel bgColor white
+label sel outline true
+label sel outlineWidth 2
+# Add leader lines pointing to the blue residues
+2dlabels create line color blue width 3 start atom #1:50@CA end label #1:50
+2dlabels create line color blue width 3 start atom #1:128@CA end label #1:128
+2dlabels create line color blue width 3 start atom #1:144@CA end label #1:144
+2dlabels create line color blue width 3 start atom #1:164@CA end label #1:164
+2dlabels create line color blue width 3 start atom #1:166@CA end label #1:166
+# Clear selection
+select clear

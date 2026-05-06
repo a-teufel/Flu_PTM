@@ -1,0 +1,41 @@
+=============================================
+seg7 - M1_matrix PROTEIN EVOLUTIONARY ANALYSIS
+=============================================
+
+ANALYSIS OVERVIEW:
+- Sites analyzed: 9 
+- Non-zero branches: 126 
+- Zero branches excluded: 844 
+- Host shifts identified: 9  ( 7.1 %)
+- Fast-evolving sites: 0
+- Slow-evolving sites: 1
+
+HOST SHIFT SUMMARY:
+  * Anas cyanoptera → Gallus gallus: 1 occurrences
+  * Cairina moschata → Suricata suricatta: 1 occurrences
+  * Gallus gallus → Anatidae: 1 occurrences
+  * Gallus gallus → Spatula clypeata: 1 occurrences
+  * Mareca americana → Anas carolinensis: 1 occurrences
+
+BRANCH RATE ANALYSIS:
+- Host shift branches (n = 9 ): median rate = 0.007324045 
+- Non-host shift branches (n = 117 ): median rate = 0.007301631 
+- Wilcoxon test p-value: 0.7545848 
+- KS test p-value: 0.3155489 
+
+SITE RATE ANALYSIS:
+- Mean site rate: 0.1111111 
+- SD: 0.002763903 
+- Median site rate: 0.1104435 
+- MAD: 0.001909454 
+- Coefficient of variation: 2.5 %
+- Range: 0.1063338 to 0.1151484 
+
+FILES GENERATED:
+- Site rate plot: site_specific_analysis_results/seg7_M1_matrix/M1_matrix_site_rates.pdf 
+- Quartile plot: site_specific_analysis_results/seg7_M1_matrix/M1_matrix_rate_quartiles.pdf 
+- Site significance plot: site_specific_analysis_results/seg7_M1_matrix/M1_matrix_significant_sites.pdf 
+- Branch rate density plot: site_specific_analysis_results/seg7_M1_matrix/M1_matrix_branch_rates.pdf 
+- Branch rate violin plot: site_specific_analysis_results/seg7_M1_matrix/M1_matrix_branch_rates_violin.pdf 
+- Host transitions table: site_specific_analysis_results/seg7_M1_matrix/M1_matrix_host_transitions.csv 
+- Zero branch list: site_specific_analysis_results/seg7_M1_matrix/M1_matrix_zero_branches.csv 

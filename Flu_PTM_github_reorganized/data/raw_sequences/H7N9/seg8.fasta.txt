@@ -1,0 +1,583 @@
+>YP_009118479.1 |nuclear export protein [Influenza A virus (A/Shanghai/02/2013(H7N9))]|Influenza A virus (A/Shanghai/02/2013(H7N9))|RefSeq|2015-02-04||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2013-03-05
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>YP_009118480.1 |nonstructural protein 1 [Influenza A virus (A/Shanghai/02/2013(H7N9))]|Influenza A virus (A/Shanghai/02/2013(H7N9))|RefSeq|2015-02-04||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens||2013-03-05
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AUN86791.1 |nonstructural protein 1 [Influenza A virus (A/Changsha/34/2017(H7N9))]|Influenza A virus (A/Changsha/34/2017(H7N9))|GenBank|2018-12-22||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China: Changsha||Homo sapiens|oronasopharynx|2017-02-13
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LTGGFEWNDNKVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AUN86792.1 |nuclear export protein [Influenza A virus (A/Changsha/34/2017(H7N9))]|Influenza A virus (A/Changsha/34/2017(H7N9))|GenBank|2018-12-22||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China: Changsha||Homo sapiens|oronasopharynx|2017-02-13
+MDSNTVSSFQDILTRMSKMQLRSSPEDLNGMITKFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AUN86803.1 |nonstructural protein 1 [Influenza A virus (A/Changsha/50/2017(H7N9))]|Influenza A virus (A/Changsha/50/2017(H7N9))|GenBank|2018-12-22||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China: Changsha||Homo sapiens|oronasopharynx|2017-03-19
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRAATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKTITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLPTK
+
+>AUN86804.1 |nuclear export protein [Influenza A virus (A/Changsha/50/2017(H7N9))]|Influenza A virus (A/Changsha/50/2017(H7N9))|GenBank|2018-12-22||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China: Changsha||Homo sapiens|oronasopharynx|2017-03-19
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AUN86814.1 |nonstructural protein 1 [Influenza A virus (A/Changsha/72/2017(H7N9))]|Influenza A virus (A/Changsha/72/2017(H7N9))|GenBank|2018-12-22||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China: Changsha||Homo sapiens|oronasopharynx|2017-04-20
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AUN86815.1 |nuclear export protein [Influenza A virus (A/Changsha/72/2017(H7N9))]|Influenza A virus (A/Changsha/72/2017(H7N9))|GenBank|2018-12-22||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China: Changsha||Homo sapiens|oronasopharynx|2017-04-20
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ASO96867.1 |nonstructural protein 1 [Influenza A virus (A/Guangdong/GZ8H001/2017(H7N9))]|Influenza A virus (A/Guangdong/GZ8H001/2017(H7N9))|GenBank|2018-08-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|lung, oronasopharynx|2017-01
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEKGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDENGGSPLSTK
+
+>ASO96868.1 |nuclear export protein [Influenza A virus (A/Guangdong/GZ8H001/2017(H7N9))]|Influenza A virus (A/Guangdong/GZ8H001/2017(H7N9))|GenBank|2018-08-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|lung, oronasopharynx|2017-01
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ASO96879.1 |nonstructural protein 1 [Influenza A virus (A/Guangdong/GZ8H002/2017(H7N9))]|Influenza A virus (A/Guangdong/GZ8H002/2017(H7N9))|GenBank|2018-08-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|lung, oronasopharynx|2017-03
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRAATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRGWLMLIPKQKITGSLCIRMD
+QAIVDKTITLKANFSVTFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLPTK
+
+>ASO96880.1 |nuclear export protein [Influenza A virus (A/Guangdong/GZ8H002/2017(H7N9))]|Influenza A virus (A/Guangdong/GZ8H002/2017(H7N9))|GenBank|2018-08-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|lung, oronasopharynx|2017-03
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ATW74972.1 |nonstructural protein 1 [Influenza A virus (A/blue-winged teal/Wyoming/AH0099021/2016(H7N9))]|Influenza A virus (A/blue-winged teal/Wyoming/AH0099021/2016(H7N9))|GenBank|2017-11-25||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Goshen County, Wyoming|WY|Spatula discors|oronasopharynx, cloaca|2016-09-07
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNITLKANFSVVFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>ATW74973.1 |nuclear export protein [Influenza A virus (A/blue-winged teal/Wyoming/AH0099021/2016(H7N9))]|Influenza A virus (A/blue-winged teal/Wyoming/AH0099021/2016(H7N9))|GenBank|2017-11-25||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Goshen County, Wyoming|WY|Spatula discors|oronasopharynx, cloaca|2016-09-07
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLRLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ASF57844.1 |nonstructural protein 1 [Influenza A virus (A/Changsha/26/2017(H7N9))]|Influenza A virus (A/Changsha/26/2017(H7N9))|GenBank|2017-07-03||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens||2017-02-04
+MDSNTVSSFQVDCFLWHVRKRFADQEKGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSIDEDGRSPLSTK
+
+>ASF57845.1 |nuclear export protein [Influenza A virus (A/Changsha/26/2017(H7N9))]|Influenza A virus (A/Changsha/26/2017(H7N9))|GenBank|2017-07-03||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2017-02-04
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEASMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEXVRHRLKITENSFEQITFVQALQLLLEVEQEIRTFSFQL
+I
+
+>ARB51610.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Tennessee/17-007147-2/2017(H7N9))]|Influenza A virus (A/chicken/Tennessee/17-007147-2/2017(H7N9))|GenBank|2017-03-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Lincoln County, Tennessee|TN|Gallus gallus|oronasopharynx|2017-03-03
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNITLKANFSVIFDRLETLILLRAFTEEGAVVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>ARB51611.1 |nuclear export protein [Influenza A virus (A/chicken/Tennessee/17-007147-2/2017(H7N9))]|Influenza A virus (A/chicken/Tennessee/17-007147-2/2017(H7N9))|GenBank|2017-03-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Lincoln County, Tennessee|TN|Gallus gallus|oronasopharynx|2017-03-03
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLRLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ARB51622.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Tennessee/17-007431-3/2017(H7N9))]|Influenza A virus (A/chicken/Tennessee/17-007431-3/2017(H7N9))|GenBank|2017-03-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Giles County, Tennessee|TN|Gallus gallus||2017-03-06
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIWDKNITLKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVQVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>ARB51623.1 |nuclear export protein [Influenza A virus (A/chicken/Tennessee/17-007431-3/2017(H7N9))]|Influenza A virus (A/chicken/Tennessee/17-007431-3/2017(H7N9))|GenBank|2017-03-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Giles County, Tennessee|TN|Gallus gallus||2017-03-06
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFKSLRLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ARB51634.1 |nonstructural protein 1 [Influenza A virus (A/guinea fowl/Alabama/17-008272-2/2017(H7N9))]|Influenza A virus (A/guinea fowl/Alabama/17-008272-2/2017(H7N9))|GenBank|2017-03-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Jackson County, Alabama|AL|Numididae sp.||2017-03-12
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLADMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNITLKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>ARB51635.1 |nuclear export protein [Influenza A virus (A/guinea fowl/Alabama/17-008272-2/2017(H7N9))]|Influenza A virus (A/guinea fowl/Alabama/17-008272-2/2017(H7N9))|GenBank|2017-03-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Jackson County, Alabama|AL|Numididae sp.||2017-03-12
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLRLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHKLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ARB51646.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Tennessee/17-008279-4/2017(H7N9))]|Influenza A virus (A/chicken/Tennessee/17-008279-4/2017(H7N9))|GenBank|2017-03-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Lincoln County, Tennessee|TN|Gallus gallus|oronasopharynx|2017-03-14
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNITLKANFSVIFDRLETLILLRAFTEEGAVVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>ARB51647.1 |nuclear export protein [Influenza A virus (A/chicken/Tennessee/17-008279-4/2017(H7N9))]|Influenza A virus (A/chicken/Tennessee/17-008279-4/2017(H7N9))|GenBank|2017-03-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Lincoln County, Tennessee|TN|Gallus gallus|oronasopharynx|2017-03-14
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLRLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AQS25484.1 |nonstructural protein 1 [Influenza A virus (A/cinnamon teal/California/AH0079011/2016(H7N9))]|Influenza A virus (A/cinnamon teal/California/AH0079011/2016(H7N9))|GenBank|2017-02-26||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Fresno County, California|CA|Anas cyanoptera|oronasopharynx, cloaca|2016-01-23
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPAPRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNITLKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>AQS25485.1 |nuclear export protein [Influenza A virus (A/cinnamon teal/California/AH0079011/2016(H7N9))]|Influenza A virus (A/cinnamon teal/California/AH0079011/2016(H7N9))|GenBank|2017-02-26||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Fresno County, California|CA|Anas cyanoptera|oronasopharynx, cloaca|2016-01-23
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AQS25495.1 |nonstructural protein 1 [Influenza A virus (A/nothern shoveler/California/AH0079371/2016(H7N9))]|Influenza A virus (A/nothern shoveler/California/AH0079371/2016(H7N9))|GenBank|2017-02-26||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Glenn County, California|CA|Spatula clypeata|oronasopharynx, cloaca|2016-01-30
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPTSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNITLKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>AQS25496.1 |nuclear export protein [Influenza A virus (A/nothern shoveler/California/AH0079371/2016(H7N9))]|Influenza A virus (A/nothern shoveler/California/AH0079371/2016(H7N9))|GenBank|2017-02-26||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Glenn County, California|CA|Spatula clypeata|oronasopharynx, cloaca|2016-01-30
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AQS25531.1 |nonstructural protein 1 [Influenza A virus (A/northern shoveler/California/AH0076755/2016(H7N9))]|Influenza A virus (A/northern shoveler/California/AH0076755/2016(H7N9))|GenBank|2017-02-26||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Fresno County, California|CA|Spatula clypeata|oronasopharynx, cloaca|2016-01-16
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNITLKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSENLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>AQS25532.1 |nuclear export protein [Influenza A virus (A/northern shoveler/California/AH0076755/2016(H7N9))]|Influenza A virus (A/northern shoveler/California/AH0076755/2016(H7N9))|GenBank|2017-02-26||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Fresno County, California|CA|Spatula clypeata|oronasopharynx, cloaca|2016-01-16
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKIYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AQS26228.1 |nonstructural protein 1 [Influenza A virus (A/American green-winged teal/Idaho/AH0006121/2015(H7N9))]|Influenza A virus (A/American green-winged teal/Idaho/AH0006121/2015(H7N9))|GenBank|2017-02-26||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Owyhee County, Idaho|ID|Anas carolinensis|oronasopharynx, cloaca|2015-01-11
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMSIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSCNEDGRPPLPPKQKRKMARAIESEV
+
+>AQS26229.1 |nuclear export protein [Influenza A virus (A/American green-winged teal/Idaho/AH0006121/2015(H7N9))]|Influenza A virus (A/American green-winged teal/Idaho/AH0006121/2015(H7N9))|GenBank|2017-02-26||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Owyhee County, Idaho|ID|Anas carolinensis|oronasopharynx, cloaca|2015-01-11
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKVTENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>APR73179.1 |nuclear export protein [Influenza A virus (A/Minhang/S01/2013(H7N9))]|Influenza A virus (A/Minhang/S01/2013(H7N9))|GenBank|2017-01-08|S01|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2013-02-27
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>APR73180.1 |nonstructural protein 1 [Influenza A virus (A/Minhang/S01/2013(H7N9))]|Influenza A virus (A/Minhang/S01/2013(H7N9))|GenBank|2017-01-08|S01|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens||2013-02-27
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEDESDEAFKMSIASVPAPRYLADMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>ALX27982.1 |nonstructural protein 1 [Influenza A virus (A/chicken/China/028/2014(H7N9))]|Influenza A virus (A/chicken/China/028/2014(H7N9))|GenBank|2016-02-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Gallus gallus||2014-01-10
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMTIASVPAPRYMTDMTIEEMSRDWLMLIPKQKVTGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTDEGAIVGEISPLPSLPGHTDKDVKNAIEV
+LIGGFEWNDNTVRVSETLQRFAWRSGDEDGRPPLSPK
+
+>ALX27983.1 |nuclear export protein [Influenza A virus (A/chicken/China/028/2014(H7N9))]|Influenza A virus (A/chicken/China/028/2014(H7N9))|GenBank|2016-02-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Gallus gallus||2014-01-10
+MDSNTVSSFQDILTRMSKMQLKSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AKM15209.1 |nonstructural protein 1 [Influenza A virus (A/duck/Wuxi/0405006G/2013(H7N9))]|Influenza A virus (A/duck/Wuxi/0405006G/2013(H7N9))|GenBank|2015-06-20||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Anatidae||2013-04
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AKM15210.1 |nuclear export protein [Influenza A virus (A/duck/Wuxi/0405006G/2013(H7N9))]|Influenza A virus (A/duck/Wuxi/0405006G/2013(H7N9))|GenBank|2015-06-20||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Anatidae||2013-04
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AKM15213.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Wuxi/04030201G/2013(H7N9))]|Influenza A virus (A/chicken/Wuxi/04030201G/2013(H7N9))|GenBank|2015-06-20||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Gallus gallus||2013-04
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AKM15214.1 |nuclear export protein [Influenza A virus (A/chicken/Wuxi/04030201G/2013(H7N9))]|Influenza A virus (A/chicken/Wuxi/04030201G/2013(H7N9))|GenBank|2015-06-20||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Gallus gallus||2013-04
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AKM15217.1 |nonstructural protein 1 [Influenza A virus (A/duck/Wuxi/04030204GH/2013(H7N9))]|Influenza A virus (A/duck/Wuxi/04030204GH/2013(H7N9))|GenBank|2015-06-20||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Anatidae||2013-04
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFIDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AKM15218.1 |nuclear export protein [Influenza A virus (A/duck/Wuxi/04030204GH/2013(H7N9))]|Influenza A virus (A/duck/Wuxi/04030204GH/2013(H7N9))|GenBank|2015-06-20||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Anatidae||2013-04
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AKD00325.1 |nuclear export protein [Influenza A virus (A/Shanghai/ION/2013(H7N9))]|Influenza A virus (A/Shanghai/ION/2013(H7N9))|GenBank|2015-04-25||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2013-04-04
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AKD00326.1 |nonstructural protein 1 [Influenza A virus (A/Shanghai/ION/2013(H7N9))]|Influenza A virus (A/Shanghai/ION/2013(H7N9))|GenBank|2015-04-25||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens||2013-04-04
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AHN96327.1 |nuclear export protein [Influenza A virus (A/environment/Shanghai/RL01/2013(H7N9))]|Influenza A virus (A/environment/Shanghai/RL01/2013(H7N9))|GenBank|2015-03-10||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China|||feces|2013-03-30
+MDSHTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+F
+
+>AHN96328.1 |nonstructural protein 1 [Influenza A virus (A/environment/Shanghai/RL01/2013(H7N9))]|Influenza A virus (A/environment/Shanghai/RL01/2013(H7N9))|GenBank|2015-03-10||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China|||feces|2013-03-30
+MDSHTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKNIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AHN96467.1 |nuclear export protein [Influenza A virus (A/environment/Shanghai/PD-JZ-01/2014(H7N9))]|Influenza A virus (A/environment/Shanghai/PD-JZ-01/2014(H7N9))|GenBank|2015-03-06||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||||2014-01-21
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHN96468.1 |nonstructural protein 1 [Influenza A virus (A/environment/Shanghai/PD-JZ-01/2014(H7N9))]|Influenza A virus (A/environment/Shanghai/PD-JZ-01/2014(H7N9))|GenBank|2015-03-06||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||||2014-01-21
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKTITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLPTK
+
+>AHN96477.1 |nuclear export protein [Influenza A virus (A/chicken/Shanghai/PD-CN-02/2014(H7N9))]|Influenza A virus (A/chicken/Shanghai/PD-CN-02/2014(H7N9))|GenBank|2015-03-06||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Gallus gallus|lung|2014-01-21
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHN96478.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Shanghai/PD-CN-02/2014(H7N9))]|Influenza A virus (A/chicken/Shanghai/PD-CN-02/2014(H7N9))|GenBank|2015-03-06||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Gallus gallus|lung|2014-01-21
+MDSNTVSSFQVDCFLWHVRKRFADQEKGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AHJ57416.1 |nuclear export protein [Influenza A virus (A/Shanghai/PD-01/2014(H7N9))]|Influenza A virus (A/Shanghai/PD-01/2014(H7N9))|GenBank|2015-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|lung, oronasopharynx|2014-01-17
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHJ57417.1 |nonstructural protein 1 [Influenza A virus (A/Shanghai/PD-01/2014(H7N9))]|Influenza A virus (A/Shanghai/PD-01/2014(H7N9))|GenBank|2015-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|lung, oronasopharynx|2014-01-17
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDGAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGPLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AHJ57423.1 |nuclear export protein [Influenza A virus (A/Shanghai/PD-02/2014(H7N9))]|Influenza A virus (A/Shanghai/PD-02/2014(H7N9))|GenBank|2015-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|oronasopharynx|2014-01-17
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHJ57424.1 |nonstructural protein 1 [Influenza A virus (A/Shanghai/PD-02/2014(H7N9))]|Influenza A virus (A/Shanghai/PD-02/2014(H7N9))|GenBank|2015-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|oronasopharynx|2014-01-17
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVEQILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGPLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSSLSTK
+
+>AJK00250.1 |nuclear export protein [Influenza A virus (A/goose/Jiangsu/1027/2013(H7N9))]|Influenza A virus (A/goose/Jiangsu/1027/2013(H7N9))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Anatidae||2013-04-06
+MDSNTVSSFQDILTRMSKMQLGSSSEDLNGMITQFESLKLYRDLLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSSQL
+N
+
+>AJK00251.1 |nonstructural protein 1 [Influenza A virus (A/goose/Jiangsu/1027/2013(H7N9))]|Influenza A virus (A/goose/Jiangsu/1027/2013(H7N9))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Anatidae||2013-04-06
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKNIVERILEEESDEAFKMTIASVPAPRYITDMTLEEMSRDWLMLIPKQKVTGSLCIRMD
+QAIVDKTITLKANFSVIFNRLEALILLRAFTDEGAIVGEISPLPSLPGHTDKDVKNAIGV
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGGPPLSPK
+
+>AIN76388.1 |nonstructural protein 1 [Influenza A virus (A/Zhejiang/LS01/2014(H7N9))]|Influenza A virus (A/Zhejiang/LS01/2014(H7N9))|GenBank|2014-09-20||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|oronasopharynx|2014-02-08
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSNEDGRSPLSTK
+
+>AIN76389.1 |nuclear export protein [Influenza A virus (A/Zhejiang/LS01/2014(H7N9))]|Influenza A virus (A/Zhejiang/LS01/2014(H7N9))|GenBank|2014-09-20||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|oronasopharynx|2014-02-08
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHF20563.1 |nuclear export protein [Influenza A virus (A/environment/Shanghai/TY01/2013(H7N9))]|Influenza A virus (A/environment/Shanghai/TY01/2013(H7N9))|GenBank|2014-07-11||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China|||feces|2013-04-03
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHF20564.1 |nonstructural protein 1 [Influenza A virus (A/environment/Shanghai/TY01/2013(H7N9))]|Influenza A virus (A/environment/Shanghai/TY01/2013(H7N9))|GenBank|2014-07-11||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China|||feces|2013-04-03
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AHF20573.1 |nuclear export protein [Influenza A virus (A/Shanghai/CN02/2013(H7N9))]|Influenza A virus (A/Shanghai/CN02/2013(H7N9))|GenBank|2014-07-11||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|lung, oronasopharynx|2013-04-02
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHF20574.1 |nonstructural protein 1 [Influenza A virus (A/Shanghai/CN02/2013(H7N9))]|Influenza A virus (A/Shanghai/CN02/2013(H7N9))|GenBank|2014-07-11||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|lung, oronasopharynx|2013-04-02
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AHK10805.1 |nonstructural protein 1 [Influenza A virus (A/Shanghai/01/2014(H7N9))]|Influenza A virus (A/Shanghai/01/2014(H7N9))|GenBank|2014-05-27||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|lung, oronasopharynx|2014-01-03
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGPLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPSPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AHK10806.1 |nuclear export protein [Influenza A virus (A/Shanghai/01/2014(H7N9))]|Influenza A virus (A/Shanghai/01/2014(H7N9))|GenBank|2014-05-27||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|lung, oronasopharynx|2014-01-03
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHL24622.1 |nuclear export protein [Influenza A virus (A/tree sparrow/Shanghai/01/2013(H7N9))]|Influenza A virus (A/tree sparrow/Shanghai/01/2013(H7N9))|GenBank|2014-03-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Passer montanus|lung|2013-05-09
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHL24623.1 |nonstructural protein 1 [Influenza A virus (A/tree sparrow/Shanghai/01/2013(H7N9))]|Influenza A virus (A/tree sparrow/Shanghai/01/2013(H7N9))|GenBank|2014-03-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Passer montanus|lung|2013-05-09
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AHH30765.1 |nonstructural protein 1 [Influenza A virus (A/Shanghai/5190T/2013(H7N9))]|Influenza A virus (A/Shanghai/5190T/2013(H7N9))|GenBank|2014-02-02|5190T|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens||2013-05
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AHH30766.1 |nuclear export protein [Influenza A virus (A/Shanghai/5190T/2013(H7N9))]|Influenza A virus (A/Shanghai/5190T/2013(H7N9))|GenBank|2014-02-02|5190T|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2013-05
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHA56912.1 |nuclear export protein [Influenza A virus (A/chicken/Zhejiang/PA-DTID-ZJU01/2013(H7N9))]|Influenza A virus (A/chicken/Zhejiang/PA-DTID-ZJU01/2013(H7N9))|GenBank|2013-11-23||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|||||
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHA56913.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Zhejiang/PA-DTID-ZJU01/2013(H7N9))]|Influenza A virus (A/chicken/Zhejiang/PA-DTID-ZJU01/2013(H7N9))|GenBank|2013-11-23||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|||||
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AHA11435.1 |nuclear export protein [Influenza A virus (A/goose/Nebraska/17097/2011(H7N9))]|Influenza A virus (A/goose/Nebraska/17097/2011(H7N9))|GenBank|2013-11-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: NE|NE|Anatidae||2011-04-12
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQN
+RNGKWREQLSQKFEEIRWLIEEVRHRLKVTENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHA11436.1 |nonstructural protein 1 [Influenza A virus (A/goose/Nebraska/17097/2011(H7N9))]|Influenza A virus (A/goose/Nebraska/17097/2011(H7N9))|GenBank|2013-11-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: NE|NE|Anatidae||2011-04-12
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVSASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSCNEDGRPPLPPKQKRKMARTIESEV
+
+>AHA11446.1 |nuclear export protein [Influenza A virus (A/guinea fowl/Nebraska/17096/2011(H7N9))]|Influenza A virus (A/guinea fowl/Nebraska/17096/2011(H7N9))|GenBank|2013-11-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: NE|NE|Numididae||2011-04-10
+MDSNTVSSFQDILMRMSKMQLGSSLEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQN
+RNGKWREQLSQKFEEIRWLIEEVRHRLKVTENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHA11447.1 |nonstructural protein 1 [Influenza A virus (A/guinea fowl/Nebraska/17096/2011(H7N9))]|Influenza A virus (A/guinea fowl/Nebraska/17096/2011(H7N9))|GenBank|2013-11-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: NE|NE|Numididae||2011-04-10
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSCNEDGRPPLPPKQKRKMARTIESEV
+
+>AHA11457.1 |nuclear export protein [Influenza A virus (A/turkey/Minnesota/32710/2011(H7N9))]|Influenza A virus (A/turkey/Minnesota/32710/2011(H7N9))|GenBank|2013-11-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: MN|MN|Meleagris gallopavo||2011-07-12
+MDSNTVSSFQDILIRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKVTENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHA11458.1 |nonstructural protein 1 [Influenza A virus (A/turkey/Minnesota/32710/2011(H7N9))]|Influenza A virus (A/turkey/Minnesota/32710/2011(H7N9))|GenBank|2013-11-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: MN|MN|Meleagris gallopavo||2011-07-12
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSCNEDGRPPLPPKQKRKMAGTIESEV
+
+>AHA11466.1 |nuclear export protein [Influenza A virus (A/turkey/Minnesota/31900/2011(H7N9))]|Influenza A virus (A/turkey/Minnesota/31900/2011(H7N9))|GenBank|2013-11-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: MN|MN|Meleagris gallopavo||2011-07-05
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKVTENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHA11467.1 |nonstructural protein 1 [Influenza A virus (A/turkey/Minnesota/31900/2011(H7N9))]|Influenza A virus (A/turkey/Minnesota/31900/2011(H7N9))|GenBank|2013-11-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: MN|MN|Meleagris gallopavo||2011-07-05
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFRVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSCNEDGRPPLPPKQKRKMAGTIESEV
+
+>AHA11477.1 |nuclear export protein [Influenza A virus (A/turkey/Minnesota/31676/2009(H7N9))]|Influenza A virus (A/turkey/Minnesota/31676/2009(H7N9))|GenBank|2013-11-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: MN|MN|Meleagris gallopavo||2009-12-08
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHA11478.1 |nonstructural protein 1 [Influenza A virus (A/turkey/Minnesota/31676/2009(H7N9))]|Influenza A virus (A/turkey/Minnesota/31676/2009(H7N9))|GenBank|2013-11-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: MN|MN|Meleagris gallopavo||2009-12-08
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>AHA11488.1 |nuclear export protein [Influenza A virus (A/turkey/Minnesota/14135-2/2009(H7N9))]|Influenza A virus (A/turkey/Minnesota/14135-2/2009(H7N9))|GenBank|2013-11-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: MN|MN|Meleagris gallopavo||2009-08-07
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AHA11489.1 |nonstructural protein 1 [Influenza A virus (A/turkey/Minnesota/14135-2/2009(H7N9))]|Influenza A virus (A/turkey/Minnesota/14135-2/2009(H7N9))|GenBank|2013-11-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: MN|MN|Meleagris gallopavo||2009-08-07
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>AGS42054.1 |nonstructural protein 1 [Influenza A virus (A/Changsha/2/2013(H7N9))]|Influenza A virus (A/Changsha/2/2013(H7N9))|GenBank|2013-10-10||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|oronasopharynx|2013-04-29
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSPPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AGS42055.1 |nuclear export protein [Influenza A virus (A/Changsha/2/2013(H7N9))]|Influenza A virus (A/Changsha/2/2013(H7N9))|GenBank|2013-10-10||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|oronasopharynx|2013-04-29
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AGS42066.1 |nonstructural protein 1 [Influenza A virus (A/Changsha/1/2013(H7N9))]|Influenza A virus (A/Changsha/1/2013(H7N9))|GenBank|2013-10-10||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|oronasopharynx|2013-03-22
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AGS42067.1 |nuclear export protein [Influenza A virus (A/Changsha/1/2013(H7N9))]|Influenza A virus (A/Changsha/1/2013(H7N9))|GenBank|2013-10-10||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|oronasopharynx|2013-03-22
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AGO51377.1 |nonstructural protein 1 [Influenza A virus (A/Zhejiang/KLED32/2013(H7N9))]|Influenza A virus (A/Zhejiang/KLED32/2013(H7N9))|GenBank|2013-09-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens||2013-04
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRSSALGLDIRTATRE
+GKNIVERILEEESDEAFKMTIASVPAPRYITDMTLEEMSRDWLMLIPKQKVTGSLCIRMD
+QAIVDKTITLKANFSVIFNRLEALILLRAFTDEGAIVGEISPLPSLPGHTDKDVKNAIGV
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGGPPLSPK
+
+>AGO51378.1 |nuclear export protein [Influenza A virus (A/Zhejiang/KLED32/2013(H7N9))]|Influenza A virus (A/Zhejiang/KLED32/2013(H7N9))|GenBank|2013-09-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2013-04
+MDSNTVSSFQDILTRMSKMQLGSSSEDLNGMITQFESLKLYRDLLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AGU70008.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Shanghai/019/2013(H7N9))]|Influenza A virus (A/chicken/Shanghai/019/2013(H7N9))|GenBank|2013-09-04||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Gallus gallus||2013-04
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AGU70009.1 |nuclear export protein [Influenza A virus (A/chicken/Shanghai/019/2013(H7N9))]|Influenza A virus (A/chicken/Shanghai/019/2013(H7N9))|GenBank|2013-09-04||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Gallus gallus||2013-04
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AGU70020.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Shanghai/017/2013(H7N9))]|Influenza A virus (A/chicken/Shanghai/017/2013(H7N9))|GenBank|2013-09-04||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Gallus gallus||2013-04
+MNSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AGU70021.1 |nuclear export protein [Influenza A virus (A/chicken/Shanghai/017/2013(H7N9))]|Influenza A virus (A/chicken/Shanghai/017/2013(H7N9))|GenBank|2013-09-04||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Gallus gallus||2013-04
+MNSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AGO51392.1 |nonstructural protein 1 [Influenza A virus (A/Jiangsu/2/2013(H7N9))]|Influenza A virus (A/Jiangsu/2/2013(H7N9))|GenBank|2013-08-16||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|lung, oronasopharynx|2013-04-20
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AGO51393.1 |nuclear export protein [Influenza A virus (A/Jiangsu/2/2013(H7N9))]|Influenza A virus (A/Jiangsu/2/2013(H7N9))|GenBank|2013-08-16||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|lung, oronasopharynx|2013-04-20
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLPEVEVXXXXFSFQL
+I
+
+>AGO51404.1 |nonstructural protein 1 [Influenza A virus (A/Jiangsu/1/2013(H7N9))]|Influenza A virus (A/Jiangsu/1/2013(H7N9))|GenBank|2013-08-16||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|lung, oronasopharynx|2013-04-20
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATHE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AGO51405.1 |nuclear export protein [Influenza A virus (A/Jiangsu/1/2013(H7N9))]|Influenza A virus (A/Jiangsu/1/2013(H7N9))|GenBank|2013-08-16||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|lung, oronasopharynx|2013-04-20
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AGQ88515.1 |nonstructural protein 1 [Influenza A virus (A/Jiangsu/1/2013(H7N9))]|Influenza A virus (A/Jiangsu/1/2013(H7N9))|GenBank|2013-08-16||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|lung, oronasopharynx|2013-04-20
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AGQ88516.1 |nuclear export protein [Influenza A virus (A/Jiangsu/1/2013(H7N9))]|Influenza A virus (A/Jiangsu/1/2013(H7N9))|GenBank|2013-08-16||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|lung, oronasopharynx|2013-04-20
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLPEVEVEIRTFSFQL
+I
+
+>AGO51438.1 |nonstructural protein 1 [Influenza A virus (A/Nanchang/1/2013(H7N9))]|Influenza A virus (A/Nanchang/1/2013(H7N9))|GenBank|2013-06-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens||2013-04-24
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AGO51439.1 |nonstructural protein 2 [Influenza A virus (A/Nanchang/1/2013(H7N9))]|Influenza A virus (A/Nanchang/1/2013(H7N9))|GenBank|2013-06-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||Homo sapiens||2013-04-24
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AGJ73508.1 |nonstructural protein 1 [Influenza A virus (A/Nanjing/1/2013(H7N9))]|Influenza A virus (A/Nanjing/1/2013(H7N9))|GenBank|2013-05-23||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens|oronasopharynx|2013-03-28
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATHE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AGJ73509.1 |nuclear export protein [Influenza A virus (A/Nanjing/1/2013(H7N9))]|Influenza A virus (A/Nanjing/1/2013(H7N9))|GenBank|2013-05-23||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens|oronasopharynx|2013-03-28
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AGJ73515.1 |nonstructural protein 1 [Influenza A virus (A/environment/Nanjing/2913/2013(H7N9))]|Influenza A virus (A/environment/Nanjing/2913/2013(H7N9))|GenBank|2013-05-23||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||||2013-03-29
+MDSNTVSSFQVDCFLWHVRKQFADQEKGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AGJ73516.1 |nuclear export protein [Influenza A virus (A/environment/Nanjing/2913/2013(H7N9))]|Influenza A virus (A/environment/Nanjing/2913/2013(H7N9))|GenBank|2013-05-23||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||||2013-03-29
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AGI60296.1 |nonstructural protein 1 [Influenza A virus (A/Shanghai/4664T/2013(H7N9))]|Influenza A virus (A/Shanghai/4664T/2013(H7N9))|GenBank|2013-05-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|217|nonstructural protein 1|China||Homo sapiens||2013-03-05
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRSSTLGLDIRTATRE
+GKHIVERILEEESDEAFKMSIASVPAPRYLTDMTLEEMSRDWLMLIPKQKITGSLCIRMD
+QAIVDKNITLKANFSVIFNRLEALILLRAFTEEGAIVGEISPLPSLPGHTDKDVKNAIEI
+LIGGFEWNDNTVRVSETLQRFAWRSSDEDGRSPLSTK
+
+>AGI60297.1 |nuclear export protein [Influenza A virus (A/Shanghai/4664T/2013(H7N9))]|Influenza A virus (A/Shanghai/4664T/2013(H7N9))|GenBank|2013-05-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2013-03-05
+MDSNTVSSFQDILTRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAAMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSVQL
+N
+

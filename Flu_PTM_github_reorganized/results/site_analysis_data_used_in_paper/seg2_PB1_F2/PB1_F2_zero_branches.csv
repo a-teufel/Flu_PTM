@@ -1,0 +1,127 @@
+parent,child,parent_state,child_state,host_switch,rate,zero_branch,group,segment,protein
+108,123,Anatidae,Sus scrofa,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+123,124,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+124,125,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+125,126,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+126,127,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+127,128,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+128,129,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+129,130,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+130,213,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+131,132,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+131,16,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+213,17,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+130,18,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+129,133,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+133,134,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+134,135,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+135,136,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+136,137,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+136,21,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+134,23,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+133,24,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+128,25,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+127,26,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+126,138,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+138,139,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+139,28,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+138,140,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+140,29,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+124,13,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+112,111,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+111,110,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+110,109,Anatidae,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+109,1,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+109,211,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+211,212,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+212,105,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+212,106,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+211,107,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+193,86,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+193,194,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+194,195,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+195,196,Meleagris gallopavo,Numididae,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+196,197,Numididae,Mareca americana,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+197,198,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+198,199,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+199,87,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+199,88,Mareca americana,Anas carolinensis,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+198,89,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+197,200,Mareca americana,Spatula clypeata,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+200,201,Spatula clypeata,Spatula clypeata,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+201,202,Spatula clypeata,Spatula clypeata,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+202,203,Spatula clypeata,Spatula discors,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+203,90,Spatula discors,Spatula discors,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+203,204,Spatula discors,Gallus gallus,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+204,205,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+205,206,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+201,97,Spatula clypeata,Anas carolinensis,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+209,101,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+208,102,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+194,210,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+210,103,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+210,104,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+111,141,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+142,143,Anatidae,Homo sapiens,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+143,144,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+144,145,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+148,35,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+147,149,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+150,151,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+151,152,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+152,36,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+152,37,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+151,38,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+153,154,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+154,39,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+154,40,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+155,156,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+158,44,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+157,45,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+146,159,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+159,160,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+160,161,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+161,162,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+162,163,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+163,164,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+164,47,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+164,48,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+160,52,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+165,54,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+167,168,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+170,171,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+169,172,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+173,174,Gallus gallus,Anatidae,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+174,175,Anatidae,Homo sapiens,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+175,176,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+176,177,Homo sapiens,Anatidae,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+177,61,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+177,62,Anatidae,Gallus gallus,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+176,63,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+179,68,Cygnus olor,Cygnus olor,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+178,69,Cygnus olor,Cygnus olor,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+168,180,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+180,181,Sus scrofa,Anas platyrhynchos,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+181,182,Anas platyrhynchos,Panthera tigris,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+182,71,Panthera tigris,Panthera tigris,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+180,183,Sus scrofa,Gallus gallus,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+183,184,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+186,73,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+185,75,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+184,187,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+187,76,Gallus gallus,Homo sapiens,TRUE,0,TRUE,Host Shift,seg2,PB1-F2
+187,188,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+189,79,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+191,81,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+167,83,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+166,84,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+112,113,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+113,114,Anatidae,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+114,115,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+116,117,Aves,Aves,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+118,119,Aves,Aves,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+120,2,Aves,Aves,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+120,3,Aves,Aves,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+119,4,Aves,Aves,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+118,5,Aves,Aves,FALSE,0,TRUE,No Shift,seg2,PB1-F2
+121,10,Phasianinae,Panthera tigris,TRUE,0,TRUE,Host Shift,seg2,PB1-F2

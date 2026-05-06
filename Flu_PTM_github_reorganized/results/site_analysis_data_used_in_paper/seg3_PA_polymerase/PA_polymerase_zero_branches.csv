@@ -1,0 +1,417 @@
+parent,child,parent_state,child_state,host_switch,rate,zero_branch,group,segment,protein
+673,674,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+675,676,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+676,677,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+678,679,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+679,680,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+684,685,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+686,687,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+687,688,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+690,691,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+691,692,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+692,693,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+693,694,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+694,695,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+695,696,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+698,751,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+751,288,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+751,289,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+698,290,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+697,291,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+696,292,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+695,293,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+694,294,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+693,295,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+691,297,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+687,301,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+686,302,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+685,303,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+684,304,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+683,305,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+679,309,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+678,310,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+677,311,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+676,312,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+675,313,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+674,314,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+377,672,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+670,606,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+606,605,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+605,604,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+604,382,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+382,381,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+381,380,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+380,379,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+379,378,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+378,376,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+378,1,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+379,375,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+380,749,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+749,750,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+750,372,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+750,373,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+749,374,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+381,746,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+746,368,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+746,747,Sus scrofa,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+747,748,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+748,369,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+748,370,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+747,371,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+382,383,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+383,384,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+384,385,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+385,386,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+386,387,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+387,388,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+388,389,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+389,390,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+393,394,Homo sapiens,Mus musculus,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+394,2,Mus musculus,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+394,3,Mus musculus,Mus musculus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+393,395,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+395,396,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+395,397,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+397,398,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+398,399,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+399,400,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+400,401,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+401,402,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+402,403,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+403,404,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+404,6,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+403,8,Homo sapiens,Mus musculus,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+397,14,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+392,405,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+405,15,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+405,16,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+391,406,Sus scrofa,Mareca americana,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+412,17,Aves,Aves,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+415,416,Aves,Aves,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+416,18,Aves,Aves,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+417,418,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+418,419,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+420,421,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+421,422,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+422,23,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+423,24,Unknown,Arenaria interpres,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+423,424,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+424,425,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+428,26,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+426,28,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+425,29,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+429,31,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+432,35,Phasianinae,Phasianinae,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+432,36,Phasianinae,Phasianinae,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+433,434,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+434,435,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+444,43,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+444,445,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+445,446,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+446,447,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+447,44,Unknown,Psittacidae,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+446,448,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+448,449,Unknown,Anatidae,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+453,454,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+459,460,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+460,461,Unknown,Cygnus olor,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+458,463,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+463,464,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+464,465,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+465,62,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+463,466,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+466,65,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+466,66,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+457,467,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+467,67,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+467,68,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+442,468,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+469,470,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+470,471,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+471,472,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+473,474,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+474,69,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+474,70,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+472,72,Gallus gallus,Homo sapiens,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+471,475,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+475,476,Gallus gallus,Anatidae,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+476,73,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+475,75,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+470,477,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+477,76,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+477,77,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+469,78,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+479,81,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+478,82,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+417,480,Unknown,Spatula clypeata,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+482,483,Spatula clypeata,Spatula clypeata,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+483,484,Spatula clypeata,Spatula clypeata,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+487,488,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+486,89,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+491,96,Anatidae,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+490,492,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+492,98,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+493,494,Unknown,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+494,495,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+500,104,Mustela lutreola,Mustela lutreola,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+500,501,Mustela lutreola,Panthera tigris,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+501,105,Panthera tigris,Panthera tigris,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+502,106,Panthera tigris,Panthera tigris,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+502,107,Panthera tigris,Gallus gallus,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+494,108,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+493,503,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+503,109,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+504,505,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+505,506,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+506,507,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+507,111,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+409,508,Unknown,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+508,509,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+509,116,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+509,510,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+510,511,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+511,512,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+512,117,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+513,514,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+517,519,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+519,520,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+520,521,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+525,526,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+527,528,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+528,130,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+528,131,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+526,529,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+529,132,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+519,530,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+530,136,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+530,137,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+516,531,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+531,138,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+531,532,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+532,533,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+533,139,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+533,140,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+534,535,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+535,536,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+536,143,Homo sapiens,Anas platyrhynchos,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+536,144,Homo sapiens,Parus major,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+535,537,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+537,538,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+538,539,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+539,540,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+540,541,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+541,542,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+542,543,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+543,544,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+547,146,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+546,147,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+545,148,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+549,151,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+550,551,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+551,552,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+552,153,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+542,553,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+553,554,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+555,556,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+554,557,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+553,558,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+558,161,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+559,162,Homo sapiens,Passer montanus,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+559,163,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+541,560,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+561,164,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+561,165,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+560,166,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+540,167,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+539,168,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+538,169,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+537,562,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+562,563,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+564,170,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+564,565,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+565,566,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+567,173,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+563,175,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+562,568,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+568,569,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+569,177,Homo sapiens,Anatidae,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+568,570,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+571,572,Unknown,Anatidae,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+575,184,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+576,577,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+577,185,Meleagris gallopavo,Anatidae,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+577,186,Meleagris gallopavo,Numididae,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+576,187,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+574,578,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+578,189,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+406,579,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+579,190,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+580,191,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+584,585,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+589,590,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+589,200,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+588,591,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+591,201,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+586,593,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+593,594,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+594,595,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+596,205,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+597,207,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+597,208,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+585,598,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+599,600,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+600,211,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+600,212,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+601,218,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+385,219,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+384,220,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+383,602,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+602,221,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+603,222,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+604,745,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+745,366,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+605,699,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+700,701,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+702,703,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+703,704,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+704,705,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+705,706,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+706,707,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+707,708,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+708,709,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+710,711,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+711,320,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+712,321,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+709,323,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+708,713,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+713,714,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+717,326,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+716,327,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+720,336,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+724,340,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+703,341,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+702,342,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+701,725,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+700,726,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+730,731,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+732,733,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+735,346,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+733,348,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+731,350,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+730,736,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+736,352,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+737,353,Homo sapiens,Mustela putorius furo,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+737,354,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+738,355,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+738,356,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+727,739,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+739,357,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+726,359,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+699,740,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+742,743,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+743,361,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+742,362,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+744,363,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+744,364,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+740,365,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+606,607,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+607,608,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+608,609,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+609,610,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+611,224,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+611,225,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+610,226,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+609,612,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+612,613,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+613,614,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+614,227,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+614,228,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+612,615,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+615,616,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+616,230,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+608,617,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+617,618,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+618,619,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+620,621,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+621,622,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+622,233,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+622,623,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+623,624,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+624,235,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+623,236,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+621,625,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+625,237,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+620,626,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+626,627,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+627,240,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+626,241,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+619,628,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+628,629,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+629,630,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+630,242,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+630,631,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+631,243,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+631,244,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+629,632,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+632,633,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+633,245,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+633,246,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+632,247,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+628,634,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+634,248,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+634,249,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+618,250,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+617,251,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+607,635,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+635,636,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+636,637,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+637,638,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+638,639,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+639,640,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+640,641,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+641,642,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+642,643,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+643,252,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+643,253,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+642,254,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+641,644,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+644,255,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+644,256,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+640,645,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+646,647,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+647,257,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+647,258,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+646,259,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+645,260,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+648,649,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+649,262,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+649,650,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+650,263,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+650,264,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+648,265,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+637,651,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+651,266,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+651,267,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+652,653,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+653,654,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+654,655,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+657,658,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+658,659,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+659,660,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+660,269,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+658,272,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+657,661,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+661,662,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+665,273,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+665,274,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+662,277,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+655,666,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+666,280,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+666,281,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+667,668,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+668,669,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+669,282,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+668,284,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+667,285,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase
+653,286,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA_polymerase
+671,317,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA_polymerase

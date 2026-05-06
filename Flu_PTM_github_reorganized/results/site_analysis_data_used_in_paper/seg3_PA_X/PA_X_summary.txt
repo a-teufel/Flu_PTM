@@ -1,0 +1,41 @@
+=============================================
+seg3 - PA-X PROTEIN EVOLUTIONARY ANALYSIS
+=============================================
+
+ANALYSIS OVERVIEW:
+- Sites analyzed: 14 
+- Non-zero branches: 55 
+- Zero branches excluded: 151 
+- Host shifts identified: 13  ( 23.6 %)
+- Fast-evolving sites: 0
+- Slow-evolving sites: 3
+
+HOST SHIFT SUMMARY:
+  * Homo sapiens → Sus scrofa: 4 occurrences
+  * Homo sapiens → Gallus gallus: 3 occurrences
+  * Homo sapiens → Aves: 2 occurrences
+  * Homo sapiens → Anas platyrhynchos: 1 occurrences
+  * Homo sapiens → Anatidae: 1 occurrences
+
+BRANCH RATE ANALYSIS:
+- Host shift branches (n = 13 ): median rate = 0.01407107 
+- Non-host shift branches (n = 42 ): median rate = 0.0137859 
+- Wilcoxon test p-value: 0.9921955 
+- KS test p-value: 0.7873612 
+
+SITE RATE ANALYSIS:
+- Mean site rate: 0.07142857 
+- SD: 0.0015883 
+- Median site rate: 0.07126579 
+- MAD: 0.001398127 
+- Coefficient of variation: 2.2 %
+- Range: 0.06904742 to 0.07433115 
+
+FILES GENERATED:
+- Site rate plot: site_specific_analysis_results/seg3_PA_X/PA_X_site_rates.pdf 
+- Quartile plot: site_specific_analysis_results/seg3_PA_X/PA_X_rate_quartiles.pdf 
+- Site significance plot: site_specific_analysis_results/seg3_PA_X/PA_X_significant_sites.pdf 
+- Branch rate density plot: site_specific_analysis_results/seg3_PA_X/PA_X_branch_rates.pdf 
+- Branch rate violin plot: site_specific_analysis_results/seg3_PA_X/PA_X_branch_rates_violin.pdf 
+- Host transitions table: site_specific_analysis_results/seg3_PA_X/PA_X_host_transitions.csv 
+- Zero branch list: site_specific_analysis_results/seg3_PA_X/PA_X_zero_branches.csv 

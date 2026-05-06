@@ -1,0 +1,152 @@
+parent,child,parent_state,child_state,host_switch,rate,zero_branch,group,segment,protein
+105,115,Aves,Aves,FALSE,0,TRUE,No Shift,seg3,PA-X
+115,125,Aves,Aves,FALSE,0,TRUE,No Shift,seg3,PA-X
+125,128,Aves,Aves,FALSE,0,TRUE,No Shift,seg3,PA-X
+128,130,Aves,Homo sapiens,TRUE,0,TRUE,Host Shift,seg3,PA-X
+130,131,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+131,132,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+132,133,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+133,134,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+134,135,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+135,136,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+136,137,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+137,138,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+138,139,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+139,140,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+140,141,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+141,142,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+142,143,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+143,144,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+144,145,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+145,146,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+146,147,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+147,148,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+148,207,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+207,17,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+207,18,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+148,19,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+147,20,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+145,22,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+144,23,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg3,PA-X
+143,149,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+149,24,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+149,25,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+140,150,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+150,28,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+150,29,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg3,PA-X
+139,30,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+138,31,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+137,32,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+151,36,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+151,152,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+152,37,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+152,38,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+132,39,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+131,40,Homo sapiens,Anatidae,TRUE,0,TRUE,Host Shift,seg3,PA-X
+130,41,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+125,126,Aves,Aves,FALSE,0,TRUE,No Shift,seg3,PA-X
+126,127,Aves,Aves,FALSE,0,TRUE,No Shift,seg3,PA-X
+116,117,Aves,Aves,FALSE,0,TRUE,No Shift,seg3,PA-X
+117,118,Aves,Homo sapiens,TRUE,0,TRUE,Host Shift,seg3,PA-X
+118,119,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+119,120,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+120,121,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+118,6,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+122,123,Phasianinae,Phasianinae,FALSE,0,TRUE,No Shift,seg3,PA-X
+123,8,Phasianinae,Phasianinae,FALSE,0,TRUE,No Shift,seg3,PA-X
+124,10,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+124,11,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+113,112,Aves,Aves,FALSE,0,TRUE,No Shift,seg3,PA-X
+112,111,Aves,Anas carolinensis,TRUE,0,TRUE,Host Shift,seg3,PA-X
+111,110,Anas carolinensis,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA-X
+110,109,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+109,108,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+108,107,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+107,106,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg3,PA-X
+173,174,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+174,175,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+175,70,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg3,PA-X
+175,176,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+178,179,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+179,180,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+181,182,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+182,183,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+183,72,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+183,73,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+182,74,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+181,75,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+180,76,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+179,77,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+174,186,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+186,187,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+187,188,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+188,189,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+189,190,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+190,191,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+191,192,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+192,193,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+193,194,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+194,82,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+194,83,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+193,84,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+192,85,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+191,86,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+189,88,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+188,89,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+187,90,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+195,196,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+197,198,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+198,199,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+199,200,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+200,201,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+202,203,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+203,204,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+204,205,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+205,206,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+204,95,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+202,97,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+201,98,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+200,99,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+199,100,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+197,102,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+196,103,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+195,104,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+106,1,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+107,169,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+169,170,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+172,66,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+171,67,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg3,PA-X
+170,68,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+169,69,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+108,64,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+109,168,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+168,62,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+168,63,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+110,61,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg3,PA-X
+111,158,Anas carolinensis,Anas carolinensis,FALSE,0,TRUE,No Shift,seg3,PA-X
+158,159,Anas carolinensis,Gallus gallus,TRUE,0,TRUE,Host Shift,seg3,PA-X
+159,160,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA-X
+160,50,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA-X
+159,161,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA-X
+162,52,Gallus gallus,Spatula discors,TRUE,0,TRUE,Host Shift,seg3,PA-X
+164,53,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA-X
+164,54,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA-X
+163,55,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg3,PA-X
+161,165,Gallus gallus,Anas cyanoptera,TRUE,0,TRUE,Host Shift,seg3,PA-X
+165,166,Anas cyanoptera,Spatula clypeata,TRUE,0,TRUE,Host Shift,seg3,PA-X
+166,167,Spatula clypeata,Spatula clypeata,FALSE,0,TRUE,No Shift,seg3,PA-X
+167,56,Spatula clypeata,Numididae sp.,TRUE,0,TRUE,Host Shift,seg3,PA-X
+167,57,Spatula clypeata,Spatula clypeata,FALSE,0,TRUE,No Shift,seg3,PA-X
+166,58,Spatula clypeata,Spatula clypeata,FALSE,0,TRUE,No Shift,seg3,PA-X
+158,60,Anas carolinensis,Anas carolinensis,FALSE,0,TRUE,No Shift,seg3,PA-X
+112,157,Aves,Mareca americana,TRUE,0,TRUE,Host Shift,seg3,PA-X
+157,48,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg3,PA-X
+157,49,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg3,PA-X
+113,47,Aves,Aves,FALSE,0,TRUE,No Shift,seg3,PA-X
+114,153,Aves,Arenaria interpres,TRUE,0,TRUE,Host Shift,seg3,PA-X
+153,154,Arenaria interpres,Anatidae,TRUE,0,TRUE,Host Shift,seg3,PA-X
+154,155,Anatidae,Panthera tigris,TRUE,0,TRUE,Host Shift,seg3,PA-X
+155,156,Panthera tigris,Panthera tigris,FALSE,0,TRUE,No Shift,seg3,PA-X
+156,42,Panthera tigris,Panthera tigris,FALSE,0,TRUE,No Shift,seg3,PA-X
+156,43,Panthera tigris,Panthera tigris,FALSE,0,TRUE,No Shift,seg3,PA-X
+154,45,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg3,PA-X

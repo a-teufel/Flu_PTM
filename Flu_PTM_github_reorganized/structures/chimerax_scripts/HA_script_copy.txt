@@ -1,0 +1,44 @@
+cartoon
+color lightgray
+lighting full
+
+# Positive selection sites (red)
+select :183,571
+color sel red
+show sel atoms
+style sel sphere
+size sel atomRadius 1.5
+
+# Create 3D labels with leader lines for red residues
+label sel residues text "{0.name}{0.number}" color black size 24 height 3.0
+label sel offset 4.0,4.0,2.0
+label sel bgColor white
+label sel outline true
+label sel outlineWidth 2
+
+# Add leader lines pointing to the residues
+2dlabels create line color red width 3 start atom #1:183@CA end label #1:183
+2dlabels create line color red width 3 start atom #1:571@CA end label #1:571
+
+# Purifying selection sites (blue)
+select :57,144,282,520
+color sel blue
+show sel atoms
+style sel sphere
+size sel atomRadius 1.5
+
+# Create 3D labels with leader lines for blue residues
+label sel residues text "{0.name}{0.number}" color black size 24 height 3.0
+label sel offset 4.0,4.0,2.0
+label sel bgColor white
+label sel outline true
+label sel outlineWidth 2
+
+# Add leader lines pointing to the residues
+2dlabels create line color blue width 3 start atom #1:57@CA end label #1:57
+2dlabels create line color blue width 3 start atom #1:144@CA end label #1:144
+2dlabels create line color blue width 3 start atom #1:282@CA end label #1:282
+2dlabels create line color blue width 3 start atom #1:520@CA end label #1:520
+
+# Clear selection
+select clear

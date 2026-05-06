@@ -1,0 +1,48 @@
+=============================================
+seg6 - NA_neuraminidase PROTEIN EVOLUTIONARY ANALYSIS
+=============================================
+
+ANALYSIS OVERVIEW:
+- Sites analyzed: 59 
+- Non-zero branches: 550 
+- Zero branches excluded: 718 
+- Host shifts identified: 35  ( 6.4 %)
+- Fast-evolving sites: 2
+- Slow-evolving sites: 0
+
+HOST SHIFT SUMMARY:
+  * Homo sapiens → Sus scrofa: 7 occurrences
+  * Sus scrofa → Homo sapiens: 3 occurrences
+  * Gallus gallus → Anatidae: 2 occurrences
+  * Homo sapiens → Anatidae: 2 occurrences
+  * Homo sapiens → Meleagris gallopavo: 2 occurrences
+
+BRANCH RATE ANALYSIS:
+- Host shift branches (n = 35 ): median rate = 0.001566356 
+- Non-host shift branches (n = 515 ): median rate = 0.001537777 
+- Wilcoxon test p-value: 0.5374644 
+- KS test p-value: 0.7027746 
+
+SITE RATE ANALYSIS:
+- Mean site rate: 0.01694915 
+- SD: 0.01802723 
+- Median site rate: 0.01279103 
+- MAD: 0.0004937797 
+- Coefficient of variation: 106.4 %
+- Range: 0.01192492 to 0.1128554 
+
+FILES GENERATED:
+- Site rate plot: site_specific_analysis_results/seg6_NA_neuraminidase/NA_neuraminidase_site_rates.pdf 
+- Quartile plot: site_specific_analysis_results/seg6_NA_neuraminidase/NA_neuraminidase_rate_quartiles.pdf 
+- Site significance plot: site_specific_analysis_results/seg6_NA_neuraminidase/NA_neuraminidase_significant_sites.pdf 
+- Branch rate density plot: site_specific_analysis_results/seg6_NA_neuraminidase/NA_neuraminidase_branch_rates.pdf 
+- Branch rate violin plot: site_specific_analysis_results/seg6_NA_neuraminidase/NA_neuraminidase_branch_rates_violin.pdf 
+- Host transitions table: site_specific_analysis_results/seg6_NA_neuraminidase/NA_neuraminidase_host_transitions.csv 
+- Zero branch list: site_specific_analysis_results/seg6_NA_neuraminidase/NA_neuraminidase_zero_branches.csv 
+- Fast-evolving sites table: site_specific_analysis_results/seg6_NA_neuraminidase/NA_neuraminidase_fast_sites.csv 
+
+INTERPRETATION:
+This analysis has identified sites that evolve at significantly different rates
+compared to the protein average. Fast-evolving sites may be under positive
+selection or relaxed constraints, while slow-evolving sites typically represent
+functionally or structurally critical regions under purifying selection.

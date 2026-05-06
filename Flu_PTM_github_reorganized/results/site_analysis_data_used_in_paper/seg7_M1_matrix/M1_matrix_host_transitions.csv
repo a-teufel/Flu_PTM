@@ -1,0 +1,12 @@
+parent_state,child_state,n,transition
+Sus scrofa,Homo sapiens,2,Sus scrofa → Homo sapiens
+Anatidae,Gallus gallus,1,Anatidae → Gallus gallus
+Anatidae,Homo sapiens,1,Anatidae → Homo sapiens
+Anatidae,Panthera tigris,1,Anatidae → Panthera tigris
+Gallus gallus,Anatidae,1,Gallus gallus → Anatidae
+Gallus gallus,Aves,1,Gallus gallus → Aves
+Gallus gallus,Sus scrofa,1,Gallus gallus → Sus scrofa
+Homo sapiens,Anatidae,1,Homo sapiens → Anatidae
+Homo sapiens,Mustela putorius furo,1,Homo sapiens → Mustela putorius furo
+Homo sapiens,Sus scrofa,1,Homo sapiens → Sus scrofa
+Numididae,Arenaria interpres,1,Numididae → Arenaria interpres

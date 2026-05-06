@@ -1,0 +1,41 @@
+=============================================
+seg7 - M2_ion_channel PROTEIN EVOLUTIONARY ANALYSIS
+=============================================
+
+ANALYSIS OVERVIEW:
+- Sites analyzed: 12 
+- Non-zero branches: 164 
+- Zero branches excluded: 806 
+- Host shifts identified: 40  ( 24.4 %)
+- Fast-evolving sites: 0
+- Slow-evolving sites: 2
+
+HOST SHIFT SUMMARY:
+  * Homo sapiens → Sus scrofa: 23 occurrences
+  * Homo sapiens → Gallus gallus: 5 occurrences
+  * Homo sapiens → Anatidae: 3 occurrences
+  * Homo sapiens → Aves: 3 occurrences
+  * Homo sapiens → Anas platyrhynchos: 1 occurrences
+
+BRANCH RATE ANALYSIS:
+- Host shift branches (n = 40 ): median rate = 0.0052503 
+- Non-host shift branches (n = 124 ): median rate = 0.005200511 
+- Wilcoxon test p-value: 0.2692794 
+- KS test p-value: 0.4340789 
+
+SITE RATE ANALYSIS:
+- Mean site rate: 0.08333333 
+- SD: 0.005302621 
+- Median site rate: 0.08371864 
+- MAD: 0.006454229 
+- Coefficient of variation: 6.4 %
+- Range: 0.07473049 to 0.09156138 
+
+FILES GENERATED:
+- Site rate plot: site_specific_analysis_results/seg7_M2_ion_channel/M2_ion_channel_site_rates.pdf 
+- Quartile plot: site_specific_analysis_results/seg7_M2_ion_channel/M2_ion_channel_rate_quartiles.pdf 
+- Site significance plot: site_specific_analysis_results/seg7_M2_ion_channel/M2_ion_channel_significant_sites.pdf 
+- Branch rate density plot: site_specific_analysis_results/seg7_M2_ion_channel/M2_ion_channel_branch_rates.pdf 
+- Branch rate violin plot: site_specific_analysis_results/seg7_M2_ion_channel/M2_ion_channel_branch_rates_violin.pdf 
+- Host transitions table: site_specific_analysis_results/seg7_M2_ion_channel/M2_ion_channel_host_transitions.csv 
+- Zero branch list: site_specific_analysis_results/seg7_M2_ion_channel/M2_ion_channel_zero_branches.csv 

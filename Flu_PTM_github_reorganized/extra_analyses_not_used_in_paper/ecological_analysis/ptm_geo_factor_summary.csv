@@ -1,0 +1,12 @@
+Protein,TotalSites,SignificantSites,Percentage
+seg4 / HA_full,79,40,50.63
+seg6 / NA_neuraminidase,57,24,42.11
+seg8 / NS1_protein,24,16,66.67
+seg1 / PB2_polymerase,39,10,25.64
+seg3 / PA_polymerase,33,9,27.27
+seg3 / PA-X_protein,12,8,66.67
+seg5 / NP_protein,26,8,30.77
+seg2 / PB1-F2_protein,14,6,42.86
+seg7 / M2_ion_channel,12,6,50
+seg7 / M1_matrix_protein,8,3,37.5
+seg2 / PB1_polymerase,21,2,9.52

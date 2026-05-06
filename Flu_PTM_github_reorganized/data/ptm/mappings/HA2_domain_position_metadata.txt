@@ -1,0 +1,9 @@
+# PTM Position Metadata
+# Format: Alignment_Position	PTM_Type_Found	Sequences_With_PTM	Consensus_Position	Consensus_AA
+82	N-linked_glycosylation	YP_009118483	82	K
+125	Pyrrolidone_carboxylic_acid	YP_009118483	125	L
+154	N-linked_glycosylation	YP_009121767,YP_163736,YP_529487,YP_009118483	154	G
+177	SUMOylation	YP_009121767,YP_163736,YP_529487	177	L
+211	S-palmitoyl_cysteine	YP_009121767,YP_163736,YP_529487	211	S
+218	S-palmitoyl_cysteine	YP_009121767,YP_163736,YP_529487,YP_009118483	218	R
+221	S-palmitoyl_cysteine	YP_009121767,YP_163736,YP_529487,YP_009118483	221	I

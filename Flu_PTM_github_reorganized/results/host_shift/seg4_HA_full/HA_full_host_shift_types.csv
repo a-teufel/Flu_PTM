@@ -1,0 +1,50 @@
+host_shift_type,n
+Homo sapiens → Sus scrofa,29
+Gallus gallus → Anatidae,8
+Homo sapiens → Gallus gallus,8
+Gallus gallus → Homo sapiens,7
+Sus scrofa → Homo sapiens,6
+Gallus gallus → Anas platyrhynchos,5
+Homo sapiens → Anatidae,5
+Anatidae → Gallus gallus,4
+Anatidae → Anas platyrhynchos,2
+Arenaria interpres → Gallus gallus,2
+Aves → Mustela lutreola,2
+Gallus gallus → Meleagris gallopavo,2
+Mustela lutreola → Panthera tigris,2
+Accipitriformes → Homo sapiens,1
+Anas carolinensis → Mareca americana,1
+Anas platyrhynchos → Cairina moschata,1
+Anas platyrhynchos → Parus major,1
+Anatidae → Accipitridae,1
+Anatidae → Aves,1
+Anatidae → Cygnus olor,1
+Anatidae → Hirundo rustica,1
+Anatidae → Meleagris gallopavo,1
+Aves → Gallus gallus,1
+Aves → Homo sapiens,1
+Aves → Panthera tigris,1
+Aves → Tadorna,1
+Cairina moschata → Suricata suricatta,1
+Gallus gallus → Anas carolinensis,1
+Gallus gallus → Aves,1
+Gallus gallus → Cairina moschata,1
+Gallus gallus → Columbidae,1
+Gallus gallus → Numididae sp.,1
+Gallus gallus → Spatula clypeata,1
+Gallus gallus → Spatula discors,1
+Hirundo rustica → Aves,1
+Homo sapiens → Anas platyrhynchos,1
+Homo sapiens → Columbidae,1
+Homo sapiens → Meleagris gallopavo,1
+Homo sapiens → Mus musculus,1
+Homo sapiens → Mustela putorius furo,1
+Homo sapiens → Passer montanus,1
+Meleagris gallopavo → Anatidae,1
+Meleagris gallopavo → Numididae,1
+Phasianinae → Aves,1
+Spatula clypeata → Anas carolinensis,1
+Spatula clypeata → Anas cyanoptera,1
+Spatula clypeata → Meleagris gallopavo,1
+Sus scrofa → Felis catus,1
+Sus scrofa → Gallus gallus,1

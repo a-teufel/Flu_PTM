@@ -1,0 +1,16 @@
+parent_state,child_state,n,transition
+Homo sapiens,Sus scrofa,3,Homo sapiens → Sus scrofa
+Anas cyanoptera,Spatula clypeata,1,Anas cyanoptera → Spatula clypeata
+Anas platyrhynchos,Gallus gallus,1,Anas platyrhynchos → Gallus gallus
+Anas platyrhynchos,Suricata suricatta,1,Anas platyrhynchos → Suricata suricatta
+Anatidae,Homo sapiens,1,Anatidae → Homo sapiens
+Columbidae,Sus scrofa,1,Columbidae → Sus scrofa
+Gallus gallus,Anas platyrhynchos,1,Gallus gallus → Anas platyrhynchos
+Gallus gallus,Sus scrofa,1,Gallus gallus → Sus scrofa
+Homo sapiens,Anatidae,1,Homo sapiens → Anatidae
+Homo sapiens,Columbidae,1,Homo sapiens → Columbidae
+Homo sapiens,Meleagris gallopavo,1,Homo sapiens → Meleagris gallopavo
+Homo sapiens,Mustela putorius furo,1,Homo sapiens → Mustela putorius furo
+Meleagris gallopavo,Anatidae,1,Meleagris gallopavo → Anatidae
+Meleagris gallopavo,Spatula clypeata,1,Meleagris gallopavo → Spatula clypeata
+Spatula clypeata,Gallus gallus,1,Spatula clypeata → Gallus gallus

@@ -1,0 +1,1437 @@
+>YP_308672.1 |nonstructural protein 2 [Influenza A virus (A/goose/Guangdong/1/1996(H5N1))]|Influenza A virus (A/goose/Guangdong/1/1996(H5N1))|RefSeq|2005-08-26||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|||||
+MDSNTITSFQDILQRMSKMQLESSSVDLNGMITQFERLKIYRDSLGESMMRMGDLHSLQN
+RNATWRNELSQKFEEIRWLIAECRNILTKTENSFEQITFLQALQLLLEVESEIRTFSFQL
+I
+
+>YP_308673.1 |nonstructural protein 1 [Influenza A virus (A/goose/Guangdong/1/1996(H5N1))]|Influenza A virus (A/goose/Guangdong/1/1996(H5N1))|RefSeq|2005-08-26||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|||||
+MDSNTITSFQVDCYLWHIRKLLSMRDMCDAPFDDRLRRDQKALKGRGSTLGLDLRVATME
+GKKIVEDILKSETNENLKIAIASSPAPRYITDMSIEEMSREWYMLMPRQKITGGLMVKMD
+QAIMDKRIILKANFSVLFDQLETLVSLRAFTESGAIVAEIFPIPSVPGHFTEDVKNAIGI
+LIGGLEWNDNSIRASENIQRFAWGIHDENGGPSLPPKQKRYMAKRVESEV
+
+>AID48231.1 |nonstructural protein 1 [Influenza A virus (A/mallard/Heilongjiang/HLJ-69/2013(H5N1))]|Influenza A virus (A/mallard/Heilongjiang/HLJ-69/2013(H5N1))|GenBank|2019-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China: Heilongjiang||Anas platyrhynchos|feces|2013-08-01
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEESDEALKMPTPRYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAIMD
+KTVTLKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPSNQKRKMARTIEPEV
+
+>AID48232.1 |nuclear export protein [Influenza A virus (A/mallard/Heilongjiang/HLJ-69/2013(H5N1))]|Influenza A virus (A/mallard/Heilongjiang/HLJ-69/2013(H5N1))|GenBank|2019-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China: Heilongjiang||Anas platyrhynchos|feces|2013-08-01
+MDSNTVSSFQDILVRMSRMQLASSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AID48241.1 |nonstructural protein 1 [Influenza A virus (A/duck/Jilin/JL-SIV/2013(H5N1))]|Influenza A virus (A/duck/Jilin/JL-SIV/2013(H5N1))|GenBank|2019-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China: Jilin||Anatidae|feces|2013-04-01
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIKTATRA
+GKQIVKRILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGPLCIKMDQAIMD
+KTIILKANFSVICDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGF
+EWNDNTVRVSETIQRYAWRSSDENGRLPLLPNQKRKMARTIESEV
+
+>AID48242.1 |nuclear export protein [Influenza A virus (A/duck/Jilin/JL-SIV/2013(H5N1))]|Influenza A virus (A/duck/Jilin/JL-SIV/2013(H5N1))|GenBank|2019-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China: Jilin||Anatidae|feces|2013-04-01
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDTLGEAVMRMGDFHSFQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AID48251.1 |nonstructural protein 1 [Influenza A virus (A/great tit/Panjing/PJ-66/2013(H5N1))]|Influenza A virus (A/great tit/Panjing/PJ-66/2013(H5N1))|GenBank|2019-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China: Panjing||Parus major|feces|2013-10-01
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEESDEALKMPTPRYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAIMD
+KTVTLKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPSNQKRKMARTIEPEV
+
+>AID48252.1 |nuclear export protein [Influenza A virus (A/great tit/Panjing/PJ-66/2013(H5N1))]|Influenza A virus (A/great tit/Panjing/PJ-66/2013(H5N1))|GenBank|2019-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China: Panjing||Parus major|feces|2013-10-01
+MDSNTVSSFQDILVRMSRMQLASSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AID48261.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Wuxi/WX-33/2013(H5N1))]|Influenza A virus (A/chicken/Wuxi/WX-33/2013(H5N1))|GenBank|2019-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China: Wuxi||Gallus gallus|feces|2013-05-01
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEEPDEALKMPTSRYLTEMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAIMD
+KTIILKANFSVIFDRLGTLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRNSDEGGRLPLPPNQKRKLARAIESEV
+
+>AID48262.1 |nuclear export protein [Influenza A virus (A/chicken/Wuxi/WX-33/2013(H5N1))]|Influenza A virus (A/chicken/Wuxi/WX-33/2013(H5N1))|GenBank|2019-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China: Wuxi||Gallus gallus|feces|2013-05-01
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGETVMRVGDFHSLQI
+RNGNWREQLSQKFEEIRWLIEEVRHRLKVTENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AID48271.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Wuxi/WX-32/2013(H5N1))]|Influenza A virus (A/chicken/Wuxi/WX-32/2013(H5N1))|GenBank|2019-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China: Wuxi||Gallus gallus|feces|2013-04-01
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEEPDEALKMPTSRYLTEMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRNSDEGGRLPLPPNQKRKLARAIESEV
+
+>AID48272.1 |nuclear export protein [Influenza A virus (A/chicken/Wuxi/WX-32/2013(H5N1))]|Influenza A virus (A/chicken/Wuxi/WX-32/2013(H5N1))|GenBank|2019-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China: Wuxi||Gallus gallus|feces|2013-04-01
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGETVMRVGDFHSLQI
+RNGNWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AID48281.1 |nonstructural protein 1 [Influenza A virus (A/meerkat/Shanghai/SH-1/2012(H5N1))]|Influenza A virus (A/meerkat/Shanghai/SH-1/2012(H5N1))|GenBank|2019-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China: Shanghai||Suricata suricatta|feces|2012-05-01
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEEPDEALKMPTSRYLTEMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRNSDEGGRLPLPPNQKRKLARAIESEV
+
+>AID48282.1 |nuclear export protein [Influenza A virus (A/meerkat/Shanghai/SH-1/2012(H5N1))]|Influenza A virus (A/meerkat/Shanghai/SH-1/2012(H5N1))|GenBank|2019-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China: Shanghai||Suricata suricatta|feces|2012-05-01
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGETVMRVGDFHSLQI
+RNGNWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AKD00282.1 |nonstructural protein 1 [Influenza A virus (A/goose/Inner Mongolia/IM-192/2014(H5N1))]|Influenza A virus (A/goose/Inner Mongolia/IM-192/2014(H5N1))|GenBank|2018-05-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|China: Inner Mongolia||Anatidae||2014-10-26
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPSPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTVESEV
+
+>AKD00283.1 |nuclear export protein [Influenza A virus (A/goose/Inner Mongolia/IM-192/2014(H5N1))]|Influenza A virus (A/goose/Inner Mongolia/IM-192/2014(H5N1))|GenBank|2018-05-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China: Inner Mongolia||Anatidae||2014-10-26
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQN
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>APD69982.1 |nonstructural protein 1 [Influenza A virus (A/chicken/New Jersey/15-002659-2/2015(H5N1))]|Influenza A virus (A/chicken/New Jersey/15-002659-2/2015(H5N1))|GenBank|2016-11-27||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: New Jersey|NJ|Gallus gallus|lung|2015-01-20
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEGESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNITLKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>APD69983.1 |nuclear export protein [Influenza A virus (A/chicken/New Jersey/15-002659-2/2015(H5N1))]|Influenza A virus (A/chicken/New Jersey/15-002659-2/2015(H5N1))|GenBank|2016-11-27||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: New Jersey|NJ|Gallus gallus|lung|2015-01-20
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>APD69994.1 |nonstructural protein 1 [Influenza A virus (A/turkey/Missouri/16-014037-7/2016(H5N1))]|Influenza A virus (A/turkey/Missouri/16-014037-7/2016(H5N1))|GenBank|2016-11-27||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Jasper County, Missouri|MO|Meleagris gallopavo|oronasopharynx|2016-04-29
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIRMD
+QAIMDKNITLKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>APD69995.1 |nuclear export protein [Influenza A virus (A/turkey/Missouri/16-014037-7/2016(H5N1))]|Influenza A virus (A/turkey/Missouri/16-014037-7/2016(H5N1))|GenBank|2016-11-27||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Jasper County, Missouri|MO|Meleagris gallopavo|oronasopharynx|2016-04-29
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKVTENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AOW32285.1 |nuclear export protein [Influenza A virus (A/mink/China/G/2015(H5N1))]|Influenza A virus (A/mink/China/G/2015(H5N1))|GenBank|2016-11-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Mustela lutreola||2015-07-07
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGNWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AOW32286.1 |nonstructural protein 1 [Influenza A virus (A/mink/China/G/2015(H5N1))]|Influenza A virus (A/mink/China/G/2015(H5N1))|GenBank|2016-11-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Mustela lutreola||2015-07-07
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVEQILDEEPDEALKMPTSRYLTEMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETVQRFAWRSSDEGGRLPLPPNQKRKLARAIESEV
+
+>AOW32295.1 |nuclear export protein [Influenza A virus (A/mink/China/XB/2015(H5N1))]|Influenza A virus (A/mink/China/XB/2015(H5N1))|GenBank|2016-11-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Mustela lutreola||2015-06-30
+MDSNTVSSFQDILVRMSRMQLASSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AOW32296.1 |nonstructural protein 1 [Influenza A virus (A/mink/China/XB/2015(H5N1))]|Influenza A virus (A/mink/China/XB/2015(H5N1))|GenBank|2016-11-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Mustela lutreola||2015-06-30
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEESDEAIKMPTPRYLTDMTLEEMSRNWFMLMPKQKVVGSLCIKMDQAMMD
+KTVILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>ANN44979.1 |nonstructural protein 1 [Influenza A virus (A/swine/Shandong/SD2/2014(H5N1))]|Influenza A virus (A/swine/Shandong/SD2/2014(H5N1))|GenBank|2016-06-29||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China: Shandong||Sus scrofa||2014-11-03
+MDSYIVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDENGRLPLPPNQKRKMARTIESKV
+
+>ANN44980.1 |nuclear export protein, partial [Influenza A virus (A/swine/Shandong/SD2/2014(H5N1))]|Influenza A virus (A/swine/Shandong/SD2/2014(H5N1))|GenBank|2016-06-29||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|73|nuclear export protein|China: Shandong||Sus scrofa||2014-11-03
+MDSYIVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKF
+
+>ANN44991.1 |nonstructural protein 1 [Influenza A virus (A/swine/Shandong/SD1/2014(H5N1))]|Influenza A virus (A/swine/Shandong/SD1/2014(H5N1))|GenBank|2016-06-29||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China: Shandong||Sus scrofa||2014-10-14
+MDSNTVSSFQVDCFLWHIRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGVLIGGL
+EWNDNTVRVSEALQRFAWRSSDENGRPPLPPNQKRKMARTIESEV
+
+>ANN44992.1 |nuclear export protein, partial [Influenza A virus (A/swine/Shandong/SD1/2014(H5N1))]|Influenza A virus (A/swine/Shandong/SD1/2014(H5N1))|GenBank|2016-06-29||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|73|nuclear export protein|China: Shandong||Sus scrofa||2014-10-14
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITRFESLKLYRDSLGEAVMRMGDLHSLQI
+RNGKWREQLSQKF
+
+>AFM47159.1 |nonstructural protein 1 [Influenza A virus (A/turtle dove/Guangdong/300/2005(H5N1))]|Influenza A virus (A/turtle dove/Guangdong/300/2005(H5N1))|GenBank|2016-05-24||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Columbidae||2005-11-01
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRYAWRSSDEDGRLPLLPNQKRKMAKTIESEV
+
+>AFM47160.1 |nuclear export protein [Influenza A virus (A/turtle dove/Guangdong/300/2005(H5N1))]|Influenza A virus (A/turtle dove/Guangdong/300/2005(H5N1))|GenBank|2016-05-24||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Columbidae||2005-11-01
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDTLGEAVMRMGDFHSFQI
+RNGKWRKQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ALQ12458.1 |nonstructural protein 1 [Influenza A virus (A/peacock/Yunnan/3/2015(H5N1))]|Influenza A virus (A/peacock/Yunnan/3/2015(H5N1))|GenBank|2016-05-18||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Phasianinae||2015-06-02
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEESDEAIKMPTPRYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAMMD
+KTVILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>ALQ12459.1 |nuclear export protein [Influenza A virus (A/peacock/Yunnan/3/2015(H5N1))]|Influenza A virus (A/peacock/Yunnan/3/2015(H5N1))|GenBank|2016-05-18||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Phasianinae||2015-06-02
+MDSNTVSSFQDILMRMSRMQLASSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ALQ12470.1 |nonstructural protein 1 [Influenza A virus (A/peacock/Yunnan/1/2015(H5N1))]|Influenza A virus (A/peacock/Yunnan/1/2015(H5N1))|GenBank|2016-05-18||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Phasianinae||2015-06-02
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEESDEAIKMPTPRYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAMMD
+KTVILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>ALQ12471.1 |nuclear export protein [Influenza A virus (A/peacock/Yunnan/1/2015(H5N1))]|Influenza A virus (A/peacock/Yunnan/1/2015(H5N1))|GenBank|2016-05-18||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Phasianinae||2015-06-02
+MDSNTVSSFQDILMRMSRMQLASSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ALQ12482.1 |nonstructural protein 1 [Influenza A virus (A/tiger/Yunnan/tig1412/2014(H5N1))]|Influenza A virus (A/tiger/Yunnan/tig1412/2014(H5N1))|GenBank|2016-05-18||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Panthera tigris||2014-12-15
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEEPDEALKMPTSRYLIEMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFAWRSSDEGGRLPLPPNQKRKLARAIESEV
+
+>ALQ12483.1 |nuclear export protein [Influenza A virus (A/tiger/Yunnan/tig1412/2014(H5N1))]|Influenza A virus (A/tiger/Yunnan/tig1412/2014(H5N1))|GenBank|2016-05-18||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Panthera tigris||2014-12-15
+MDSNTVSSFQDILARMSKMQLASSSEDLNGMITQFGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGNWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ALQ12494.1 |nonstructural protein 1 [Influenza A virus (A/tiger/Yunnan/tig1404/2014(H5N1))]|Influenza A virus (A/tiger/Yunnan/tig1404/2014(H5N1))|GenBank|2016-05-18||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Panthera tigris||2014-04-08
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEEPDEALKMPTSRYLTGMSLEEMSRDWFMLMPKQKVVGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFAWRSSDEGGRLPLPPNQKRKLARAIESEV
+
+>ALQ12495.1 |nuclear export protein [Influenza A virus (A/tiger/Yunnan/tig1404/2014(H5N1))]|Influenza A virus (A/tiger/Yunnan/tig1404/2014(H5N1))|GenBank|2016-05-18||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Panthera tigris||2014-04-08
+MDSNTVSSFQDILARMSKMQLASSSEDLNGMITQFGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGNWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ALQ12506.1 |nonstructural protein 1 [Influenza A virus (A/tiger/Yunnan/tig1508/2015(H5N1))]|Influenza A virus (A/tiger/Yunnan/tig1508/2015(H5N1))|GenBank|2016-05-18||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Panthera tigris||2015-08-12
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEESDEAIKMPTPRYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAMMD
+KTVILKANFSVIFDKLETLILLRAFTEEGAIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>ALQ12507.1 |nuclear export protein [Influenza A virus (A/tiger/Yunnan/tig1508/2015(H5N1))]|Influenza A virus (A/tiger/Yunnan/tig1508/2015(H5N1))|GenBank|2016-05-18||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Panthera tigris||2015-08-12
+MDSNTVSSFQDILVRMSRMQLASSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AHY20957.1 |nuclear export protein [Influenza A virus (A/chicken/Yunnan/1/2014(H5N1))]|Influenza A virus (A/chicken/Yunnan/1/2014(H5N1))|GenBank|2016-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|116|nuclear export protein|China||Gallus gallus||2014-02-10
+MDSNTVSSFQMSKMQLASSSEDLNGMITQFGSLKLYRDSLGEAVMRVGDFHSLQIRNGNW
+REQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQLI
+
+>AHY20958.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Yunnan/1/2014(H5N1))]|Influenza A virus (A/chicken/Yunnan/1/2014(H5N1))|GenBank|2016-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Gallus gallus||2014-02-10
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEEPDEALKMPTSRYLTEMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAIMD
+KTIILKANFSVIFDRLGTLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFAWRSSNEGGRLPLPPNQKRKLARAIESEV
+
+>ALT19171.1 |nonstructural protein 1 [Influenza A virus (A/American wigeon/Washington/196340/2015(H5N1))]|Influenza A virus (A/American wigeon/Washington/196340/2015(H5N1))|GenBank|2015-12-22||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Whatcom County, Washington|WA|Mareca americana|oronasopharynx, cloaca|2015-01-02
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRGSTLGLDIETATHA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>ALT19172.1 |nuclear export protein [Influenza A virus (A/American wigeon/Washington/196340/2015(H5N1))]|Influenza A virus (A/American wigeon/Washington/196340/2015(H5N1))|GenBank|2015-12-22||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Whatcom County, Washington|WA|Mareca americana|oronasopharynx, cloaca|2015-01-02
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQN
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ALT19183.1 |nonstructural protein 1 [Influenza A virus (A/American wigeon/Washington/196336/2015(H5N1))]|Influenza A virus (A/American wigeon/Washington/196336/2015(H5N1))|GenBank|2015-12-22||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Whatcom County, Washington|WA|Mareca americana|oronasopharynx, cloaca|2015-01-02
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRGSTLGLDIETATHA
+GKQIMERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>ALT19184.1 |nuclear export protein [Influenza A virus (A/American wigeon/Washington/196336/2015(H5N1))]|Influenza A virus (A/American wigeon/Washington/196336/2015(H5N1))|GenBank|2015-12-22||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Whatcom County, Washington|WA|Mareca americana|oronasopharynx, cloaca|2015-01-02
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQN
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AID48087.1 |nuclear export protein [Influenza A virus (A/Thailand/NBL1/2006(H5N1))]|Influenza A virus (A/Thailand/NBL1/2006(H5N1))|GenBank|2015-05-31||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Thailand: Nong Bua Lam Phu||Homo sapiens|feces|2006-08-10
+MDSNTVSSFQDILVSMSKMQLASSSEDLNGMITQFESLKLYRDSFGEAVMRMGDFHSLQI
+KNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AID48088.1 |nonstructural protein 1 [Influenza A virus (A/Thailand/NBL1/2006(H5N1))]|Influenza A virus (A/Thailand/NBL1/2006(H5N1))|GenBank|2015-05-31||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Thailand: Nong Bua Lam Phu||Homo sapiens|feces|2006-08-10
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIESATRA
+GKQIVERILEEESDKALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KVIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEHVKNAIGVLIGGL
+EWNDNTVRVTETIQRFVWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>AJK00147.1 |nonstructural protein 1 [Influenza A virus (A/Vietnam/UT26285/2010(H5N1))]|Influenza A virus (A/Vietnam/UT26285/2010(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Homo sapiens||2010
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMSASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVICDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSEALQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>AJK00148.1 |nuclear export protein [Influenza A virus (A/Vietnam/UT26285/2010(H5N1))]|Influenza A virus (A/Vietnam/UT26285/2010(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2010
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFIQALQLLLEVEQEIRAFSFQL
+I
+
+>AJK00160.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Vietnam/TY31/2005(H5N1))]|Influenza A virus (A/chicken/Vietnam/TY31/2005(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|223|nonstructural protein 1|Viet Nam||Gallus gallus||2005
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLSIKMDQAIMD
+KNITLKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGVLIGGL
+EWNDNTVRVSEALQRFAWRSSDENGRPPLPSNQKRKMARTIGS
+
+>AJK00161.1 |nuclear export protein [Influenza A virus (A/chicken/Vietnam/TY31/2005(H5N1))]|Influenza A virus (A/chicken/Vietnam/TY31/2005(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Viet Nam||Gallus gallus||2005
+MDSNTVSSFQDILMRMSKMQLGYSSEDLNGMITRFESLKLYRDSLGEAVMRMGDLHSLQT
+RNGKWREQLGHKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEMRTFSFQL
+I
+
+>AJK00171.1 |nonstructural protein 1 [Influenza A virus (A/wildbird/Anhui/82/2005(H5N1))]|Influenza A virus (A/wildbird/Anhui/82/2005(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Viet Nam||Aves||2005
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNSIGVLIGGF
+EWNDNTVRVSETIQRYAWRSSDEDGRLPLLPNQKRKMARTIESEV
+
+>AJK00172.1 |nuclear export protein [Influenza A virus (A/wildbird/Anhui/82/2005(H5N1))]|Influenza A virus (A/wildbird/Anhui/82/2005(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Viet Nam||Aves||2005
+MDSNTVSSFQDILVRMSKIQLASSSEDLNGMITQFGSLKLYRDTLGEAVMRMGDFHSFQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AJK00182.1 |nonstructural protein 1 [Influenza A virus (A/Vietnam/UT36250-1/2010(H5N1))]|Influenza A virus (A/Vietnam/UT36250-1/2010(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|215|nonstructural protein 1|China||Homo sapiens||2010-03-05
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEDGRLLLPPNQKR
+
+>AJK00183.1 |nuclear export protein [Influenza A virus (A/Vietnam/UT36250-1/2010(H5N1))]|Influenza A virus (A/Vietnam/UT36250-1/2010(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2010-03-05
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGEAVMRMGDFYSLQI
+RNGKWREQLSQKFEEVRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AJK00193.1 |nonstructural protein 1 [Influenza A virus (A/Vietnam/UT31604-1/2009(H5N1))]|Influenza A virus (A/Vietnam/UT31604-1/2009(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|215|nonstructural protein 1|China||Homo sapiens||2009-02-05
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEDGRLLLPPNQKR
+
+>AJK00194.1 |nuclear export protein [Influenza A virus (A/Vietnam/UT31604-1/2009(H5N1))]|Influenza A virus (A/Vietnam/UT31604-1/2009(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2009-02-05
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGEAVMRMGDFYSLQI
+RNGKWREQLSQKFEEVRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AJK00203.1 |nonstructural protein 1 [Influenza A virus (A/Vietnam/UT31641-2/2008(H5N1))]|Influenza A virus (A/Vietnam/UT31641-2/2008(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Homo sapiens||2008-12-19
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVFFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGF
+KWNDNTVRVSETIQRFAWRSSDEDRRLPLPPNQKRKMARTIGSEV
+
+>AJK00204.1 |nuclear export protein [Influenza A virus (A/Vietnam/UT31641-2/2008(H5N1))]|Influenza A virus (A/Vietnam/UT31641-2/2008(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2008-12-19
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRIGDFHSLQI
+RNGKWREQLGQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AJK00212.1 |nonstructural protein 1 [Influenza A virus (A/Vietnam/HN31676DH/2009(H5N1))]|Influenza A virus (A/Vietnam/HN31676DH/2009(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Homo sapiens||2009-04-16
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMSASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVICDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETLQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>AJK00213.1 |nuclear export protein [Influenza A virus (A/Vietnam/HN31676DH/2009(H5N1))]|Influenza A virus (A/Vietnam/HN31676DH/2009(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2009-04-16
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFIQALQLLLEVEQEIRAFSFQL
+I
+
+>AJK00223.1 |nonstructural protein 1 [Influenza A virus (A/Vietnam/UT36236/2010(H5N1))]|Influenza A virus (A/Vietnam/UT36236/2010(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Homo sapiens||2010-02-20
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMSASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANLSVICDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETLQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>AJK00224.1 |nuclear export protein [Influenza A virus (A/Vietnam/UT36236/2010(H5N1))]|Influenza A virus (A/Vietnam/UT36236/2010(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2010-02-20
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFIQALQLLLEVEQEIRAFSFQL
+I
+
+>AJK00234.1 |nonstructural protein 1 [Influenza A virus (A/Vietnam/UT36282/2010(H5N1))]|Influenza A virus (A/Vietnam/UT36282/2010(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Homo sapiens||2010-03-27
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMSASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVICDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSEALQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>AJK00235.1 |nuclear export protein [Influenza A virus (A/Vietnam/UT36282/2010(H5N1))]|Influenza A virus (A/Vietnam/UT36282/2010(H5N1))|GenBank|2015-02-14||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Homo sapiens||2010-03-27
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFIQALQLLLEVEQEIRAFSFQL
+I
+
+>AJM70559.1 |nuclear export protein [Influenza A virus (A/American green-winged teal/Washington/195750/2014(H5N1))]|Influenza A virus (A/American green-winged teal/Washington/195750/2014(H5N1))|GenBank|2015-02-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|USA: Whatcom County, Washington|WA|Anas carolinensis|oronasopharynx, cloaca|2014-12-29
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQN
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AJM70560.1 |nonstructural protein 1 [Influenza A virus (A/American green-winged teal/Washington/195750/2014(H5N1))]|Influenza A virus (A/American green-winged teal/Washington/195750/2014(H5N1))|GenBank|2015-02-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|USA: Whatcom County, Washington|WA|Anas carolinensis|oronasopharynx, cloaca|2014-12-29
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRGSTLGLDIETATHA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>AHK10700.1 |nonstructural protein 1 [Influenza A virus (A/migratory bird/Bangladesh/P18/2010(H5N1))]|Influenza A virus (A/migratory bird/Bangladesh/P18/2010(H5N1))|GenBank|2014-09-22|P18|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Bangladesh||Aves|feces|2010-12
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRV
+GKQIVERILDEEFDEAFKMPTSRYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAMMD
+KTVILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRISETIQRFAWRSSDEGGRLPLPPHQKRKMARTIESEV
+
+>AHK10701.1 |nuclear export protein [Influenza A virus (A/migratory bird/Bangladesh/P18/2010(H5N1))]|Influenza A virus (A/migratory bird/Bangladesh/P18/2010(H5N1))|GenBank|2014-09-22|P18|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Bangladesh||Aves|feces|2010-12
+MDSNTVSSFQDILARMSKMQLESSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLHI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AHK10707.1 |nonstructural protein 1 [Influenza A virus (A/migratory bird/Bangladesh/P29/2010(H5N1))]|Influenza A virus (A/migratory bird/Bangladesh/P29/2010(H5N1))|GenBank|2014-09-22|P29|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Bangladesh||Aves|feces|2010-12
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRV
+GKQIVERILDEEFDEAFKMPTSRYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAMMD
+KTVILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRISETIQRFAWRSSDEGGRLPLPPHQKRKMARTIESEV
+
+>AHK10708.1 |nuclear export protein [Influenza A virus (A/migratory bird/Bangladesh/P29/2010(H5N1))]|Influenza A virus (A/migratory bird/Bangladesh/P29/2010(H5N1))|GenBank|2014-09-22|P29|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Bangladesh||Aves|feces|2010-12
+MDSNTVSSFQDILARMSKMQLESSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLHI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AIJ10957.1 |nonstructural protein 1 [Influenza A virus (A/ruddy turnstone/Iceland/2899/2013(H5N1))]|Influenza A virus (A/ruddy turnstone/Iceland/2899/2013(H5N1))|GenBank|2014-08-17||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|Iceland||Arenaria interpres||2013-05-23
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNITLKANFSVIFDRLETLILLRAFTEEGVIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVTETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>AIJ10958.1 |nuclear export protein [Influenza A virus (A/ruddy turnstone/Iceland/2899/2013(H5N1))]|Influenza A virus (A/ruddy turnstone/Iceland/2899/2013(H5N1))|GenBank|2014-08-17||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Iceland||Arenaria interpres||2013-05-23
+MDSNTVSSFQDILMRMSKMQLESSSEDLNGMITRFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AIA83114.1 |nonstructural protein 1 [Influenza A virus (A/pekin duck/Vietnam/27386/2009(H5N1))]|Influenza A virus (A/pekin duck/Vietnam/27386/2009(H5N1))|GenBank|2014-06-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Viet Nam||Anas platyrhynchos||2009-06-22
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILGEEPDEALKMPTSRYLTDMTLEELSRDWFMLMPKQKVVGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>AIA83115.1 |nuclear export protein [Influenza A virus (A/pekin duck/Vietnam/27386/2009(H5N1))]|Influenza A virus (A/pekin duck/Vietnam/27386/2009(H5N1))|GenBank|2014-06-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Viet Nam||Anas platyrhynchos||2009-06-22
+MDSNTVSSFQDILVRMSKMQLASSSEDLSGMITQFGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AHJ57343.1 |nuclear export protein [Influenza A virus (A/chicken/Egypt/IT-1/2013(H5N1))]|Influenza A virus (A/chicken/Egypt/IT-1/2013(H5N1))|GenBank|2014-02-23||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Egypt||Gallus gallus||2013-03-15
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITRFESLKLYRDSLGDALMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRPFSFQL
+I
+
+>AHJ57344.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Egypt/IT-1/2013(H5N1))]|Influenza A virus (A/chicken/Egypt/IT-1/2013(H5N1))|GenBank|2014-02-23||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Egypt||Gallus gallus||2013-03-15
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLKGRGSTLGLDIKTATRA
+GKQIVERILEKESVEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVVYDRLETLILLRAFTEEGTIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRVSEIVQRFAWRRIDEDGRLPLPSDQKRKMARAIESEV
+
+>AHJ57345.1 |nuclear export protein [Influenza A virus (A/chicken/Egypt/IT-2/2013(H5N1))]|Influenza A virus (A/chicken/Egypt/IT-2/2013(H5N1))|GenBank|2014-02-23||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Egypt||Gallus gallus||2013-04-06
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITRFESLKLYRDSLGDALMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRPFSFQL
+I
+
+>AHJ57346.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Egypt/IT-2/2013(H5N1))]|Influenza A virus (A/chicken/Egypt/IT-2/2013(H5N1))|GenBank|2014-02-23||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Egypt||Gallus gallus||2013-04-06
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLKGRGSTLGLDIKTATRA
+GKQIVERILEKESVEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVVYDRLETLILLRAFTEEGTIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRVSEIVQRFAWRRIDEDGRLPLPSDQKRKMARAIESEV
+
+>AHI43276.1 |nonstructural protein 1 [Influenza A virus (A/duck/Hubei/xn/2007(H5N1))]|Influenza A virus (A/duck/Hubei/xn/2007(H5N1))|GenBank|2014-02-10||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Anatidae||2007-11-14
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTKEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRYAWRSSDEDGRLPLLPNQKRKMARTIESEV
+
+>AHI43277.1 |nuclear export protein [Influenza A virus (A/duck/Hubei/xn/2007(H5N1))]|Influenza A virus (A/duck/Hubei/xn/2007(H5N1))|GenBank|2014-02-10||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Anatidae||2007-11-14
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDTLGEAVMRMGDFHSFQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AGH25297.1 |nonstructural protein 1 [Influenza A virus (A/swine/Jiangsu/1/2008(H5N1))]|Influenza A virus (A/swine/Jiangsu/1/2008(H5N1))|GenBank|2013-07-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Sus scrofa||2008-12
+MDPSTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVEQILEEESDEALKMPASCYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFNRLETLILLRAFTEEGAIVGEISPLPSLSGHTGEDVKNAIDVLIGGL
+EWNDNTVRVSETIQRFTWRSSDEGRRFPLPPNQKRKMARTIESEV
+
+>AGH25298.1 |nuclear export protein [Influenza A virus (A/swine/Jiangsu/1/2008(H5N1))]|Influenza A virus (A/swine/Jiangsu/1/2008(H5N1))|GenBank|2013-07-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Sus scrofa||2008-12
+MDPSTVSSFQDILVRMSKMQLTSSSEDLNGMITQFESLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AGH25299.1 |nonstructural protein 1 [Influenza A virus (A/swine/Jiangsu/2/2009(H5N1))]|Influenza A virus (A/swine/Jiangsu/2/2009(H5N1))|GenBank|2013-07-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Sus scrofa||2009-01
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIKTATRA
+GKQIVKRILEEESDEALKMPASLYLTDMTLEEMSRDWFMLMPKQKVAGPLCIKMDQAIMD
+KTIILKANFSVICDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGF
+EWNDNTVRVSETIQRYAWRNNDENGRLPLLPNQKRKMARTIESEV
+
+>AGH25300.1 |nuclear export protein [Influenza A virus (A/swine/Jiangsu/2/2009(H5N1))]|Influenza A virus (A/swine/Jiangsu/2/2009(H5N1))|GenBank|2013-07-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Sus scrofa||2009-01
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDTLGETMMRMGDFHSFQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AGO18164.1 |nonstructural protein 1 [Influenza A virus (A/duck/Vietnam/QB1207/2012(H5N1))]|Influenza A virus (A/duck/Vietnam/QB1207/2012(H5N1))|GenBank|2013-07-02|74-12|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Viet Nam: Quang Binh||Anas platyrhynchos|brain|2012-07-28
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEEPDEALKMPTSRYLTEMTLEEMSRDWFMLMPKQKVMGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRNSDEGGRLPLPPNQKRKLARAIESEV
+
+>AGO18165.1 |nuclear export protein [Influenza A virus (A/duck/Vietnam/QB1207/2012(H5N1))]|Influenza A virus (A/duck/Vietnam/QB1207/2012(H5N1))|GenBank|2013-07-02|74-12|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Viet Nam: Quang Binh||Anas platyrhynchos|brain|2012-07-28
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGETVMRVGDFHSLQI
+RNGNWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>BAN57588.1 |nonstructural protein 2 [Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1))]|Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1))|GenBank|2013-06-22||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|Viet Nam||Cairina moschata||2013-01-07
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGETVMRVGDLHSLQI
+RNGNWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>BAN57589.1 |nonstructural protein 1 [Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1))]|Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1))|GenBank|2013-06-22||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Viet Nam||Cairina moschata||2013-01-07
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEEPDEALKMPTSRYLTEMTFEEMSRDWFMLMPKQKVMGSLCIKMDQAIMD
+KAIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRNSDEGGRPPLPPNQKRKLARAIESEV
+
+>BAN28809.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1))]|Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1))|GenBank|2013-05-25||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|Viet Nam||Gallus gallus||2012-06-07
+MDSNTVSSFQDILGRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQT
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>BAN28810.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1))]|Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1))|GenBank|2013-05-25||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Viet Nam||Gallus gallus||2012-06-07
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQRVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>BAN16463.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1))]|Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1))|GenBank|2013-04-19||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|Viet Nam:Soc Trang||Gallus gallus||2012-06-17
+MDSNTVSSFQDILGRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQT
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>BAN16464.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1))]|Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1))|GenBank|2013-04-19||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Viet Nam:Soc Trang||Gallus gallus||2012-06-17
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQRVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>BAN16474.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1))]|Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1))|GenBank|2013-04-19||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|Viet Nam:Soc Trang||Gallus gallus||2012-06-17
+MDSNTVSSFQDILGRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQT
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>BAN16475.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1))]|Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1))|GenBank|2013-04-19||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Viet Nam:Soc Trang||Gallus gallus||2012-06-17
+MDSNTVSSFQVDCFLWHVRKRFADQEMGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQRVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AFR53952.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Huadong/4/2008(H5N1))]|Influenza A virus (A/chicken/Huadong/4/2008(H5N1))|GenBank|2013-01-23||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Gallus gallus||2008-12
+MDPNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDEALKMPASSYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLSGHTGEDVKNAIDVLIGGL
+EWNDNTVRVSETIQRFTWRSSDEGRRLPLPPNQKRKMARTIESEV
+
+>AFR53953.1 |nuclear export protein [Influenza A virus (A/chicken/Huadong/4/2008(H5N1))]|Influenza A virus (A/chicken/Huadong/4/2008(H5N1))|GenBank|2013-01-23||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Gallus gallus||2008-12
+MDPNTVSSFQDILVRMSKMQLTSSSEDLNGMITQFESLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AFK73132.1 |nonstructural protein 1 [Influenza A virus (A/parrot/Guangdong/C99/2005(H5N1))]|Influenza A virus (A/parrot/Guangdong/C99/2005(H5N1))|GenBank|2012-08-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Psittacidae||2005-02-01
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>AFK73133.1 |nuclear export protein [Influenza A virus (A/parrot/Guangdong/C99/2005(H5N1))]|Influenza A virus (A/parrot/Guangdong/C99/2005(H5N1))|GenBank|2012-08-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Psittacidae||2005-02-01
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AFK13866.1 |nuclear export protein [Influenza A virus (A/condor/Guangdong/139/2003(H5N1))]|Influenza A virus (A/condor/Guangdong/139/2003(H5N1))|GenBank|2012-07-04||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||Accipitriformes||2003-01-23
+MDSNTVSSFQDILVRMSKMQLTSSSEDLNGMITQFESLRLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHGLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AFK13867.1 |nonstructural protein 1 [Influenza A virus (A/condor/Guangdong/139/2003(H5N1))]|Influenza A virus (A/condor/Guangdong/139/2003(H5N1))|GenBank|2012-07-04||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Accipitriformes||2003-01-23
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLKGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTSEDVKNAIDVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEDGRLSLPPNQKRKMARTIESEV
+
+>AFH77035.1 |nuclear export protein [Influenza A virus (A/pigeon/Thailand/TS01/2007(H5N1))]|Influenza A virus (A/pigeon/Thailand/TS01/2007(H5N1))|GenBank|2012-04-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Thailand||Columbidae||2007
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AFH77036.1 |nonstructural protein 1 [Influenza A virus (A/pigeon/Thailand/TS01/2007(H5N1))]|Influenza A virus (A/pigeon/Thailand/TS01/2007(H5N1))|GenBank|2012-04-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Thailand||Columbidae||2007
+MDSNTVSSFQVDCFLWHVRKRFADRELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDKALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KVIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVQVTETLQRFAWRSSDEDGRLSLPPNQKRKVARTIESEV
+
+>AFH77044.1 |nuclear export protein [Influenza A virus (A/duck/Thailand/TS04/2006(H5N1))]|Influenza A virus (A/duck/Thailand/TS04/2006(H5N1))|GenBank|2012-04-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Thailand||Anatidae||2006
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRYRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AFH77045.1 |nonstructural protein 1 [Influenza A virus (A/duck/Thailand/TS04/2006(H5N1))]|Influenza A virus (A/duck/Thailand/TS04/2006(H5N1))|GenBank|2012-04-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Thailand||Anatidae||2006
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEDESDKALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KVVILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVTETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>AFH77055.1 |nuclear export protein [Influenza A virus (A/chicken/Thailand/TS03/2006(H5N1))]|Influenza A virus (A/chicken/Thailand/TS03/2006(H5N1))|GenBank|2012-04-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Thailand||Gallus gallus||2006
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRYRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AFH77056.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Thailand/TS03/2006(H5N1))]|Influenza A virus (A/chicken/Thailand/TS03/2006(H5N1))|GenBank|2012-04-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Thailand||Gallus gallus||2006
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEDESDKALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KVVILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVTETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>AFH77066.1 |nuclear export protein [Influenza A virus (A/chicken/Thailand/TS02/2006(H5N1))]|Influenza A virus (A/chicken/Thailand/TS02/2006(H5N1))|GenBank|2012-04-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Thailand||Gallus gallus||2006
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AFH77067.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Thailand/TS02/2006(H5N1))]|Influenza A virus (A/chicken/Thailand/TS02/2006(H5N1))|GenBank|2012-04-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Thailand||Gallus gallus||2006
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDKALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KVIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVTETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>AFH77077.1 |nuclear export protein [Influenza A virus (A/duck/Thailand/TS01/2006(H5N1))]|Influenza A virus (A/duck/Thailand/TS01/2006(H5N1))|GenBank|2012-04-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Thailand||Anatidae||2006
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AFH77078.1 |nonstructural protein 1 [Influenza A virus (A/duck/Thailand/TS01/2006(H5N1))]|Influenza A virus (A/duck/Thailand/TS01/2006(H5N1))|GenBank|2012-04-21||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Thailand||Anatidae||2006
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDKALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KVIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVTETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>AFF59156.1 |nonstructural protein 1 [Influenza A virus (A/Cambodia/W0112303/2012(H5N1))]|Influenza A virus (A/Cambodia/W0112303/2012(H5N1))|GenBank|2012-03-31||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Banteay Mean Chey||Homo sapiens||2012-01-10
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEIGRPPLPPNQNRKMAGTIESEV
+
+>AFF59157.1 |nuclear export protein [Influenza A virus (A/Cambodia/W0112303/2012(H5N1))]|Influenza A virus (A/Cambodia/W0112303/2012(H5N1))|GenBank|2012-03-31||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Banteay Mean Chey||Homo sapiens||2012-01-10
+MDSNTVSSFQDILGRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AFD32733.1 |nuclear export protein [Influenza A virus (A/environment/Cambodia/C53W/2011(H5N1))]|Influenza A virus (A/environment/Cambodia/C53W/2011(H5N1))|GenBank|2012-03-19||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Takeo Province||||2011-03-23
+MDSNTVSSFQDILGRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AFD32734.1 |nonstructural protein 1 [Influenza A virus (A/environment/Cambodia/C53W/2011(H5N1))]|Influenza A virus (A/environment/Cambodia/C53W/2011(H5N1))|GenBank|2012-03-19||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Takeo Province||||2011-03-23
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AFD32735.1 |nuclear export protein [Influenza A virus (A/environment/Cambodia/C57W/2011(H5N1))]|Influenza A virus (A/environment/Cambodia/C57W/2011(H5N1))|GenBank|2012-03-19||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Takeo Province||||2011-03-23
+MDSNTVSSFQDILGRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AFD32736.1 |nonstructural protein 1 [Influenza A virus (A/environment/Cambodia/C57W/2011(H5N1))]|Influenza A virus (A/environment/Cambodia/C57W/2011(H5N1))|GenBank|2012-03-19||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Takeo Province||||2011-03-23
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AFD32737.1 |nuclear export protein [Influenza A virus (A/environment/Cambodia/C85W/2011(H5N1))]|Influenza A virus (A/environment/Cambodia/C85W/2011(H5N1))|GenBank|2012-03-19||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Phnom Penh||||2011-03-30
+MDSNTVSSFQDILGRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AFD32738.1 |nonstructural protein 1 [Influenza A virus (A/environment/Cambodia/C85W/2011(H5N1))]|Influenza A virus (A/environment/Cambodia/C85W/2011(H5N1))|GenBank|2012-03-19||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Phnom Penh||||2011-03-30
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AFD32739.1 |nuclear export protein [Influenza A virus (A/environment/Cambodia/C425D/2011(H5N1))]|Influenza A virus (A/environment/Cambodia/C425D/2011(H5N1))|GenBank|2012-03-19||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Phnom Penh||||2011-04-26
+MDSNTVSSFQDILGRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AFD32740.1 |nonstructural protein 1 [Influenza A virus (A/environment/Cambodia/C425D/2011(H5N1))]|Influenza A virus (A/environment/Cambodia/C425D/2011(H5N1))|GenBank|2012-03-19||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Phnom Penh||||2011-04-26
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKMAGTIESEV
+
+>AEN68686.1 |nonstructural protein 1 [Influenza A virus (A/Cambodia/U0417030/2010(H5N1))]|Influenza A virus (A/Cambodia/U0417030/2010(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Prey Veng||Homo sapiens||2010-04-18
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAMMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AEN68687.1 |nuclear export protein [Influenza A virus (A/Cambodia/U0417030/2010(H5N1))]|Influenza A virus (A/Cambodia/U0417030/2010(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Prey Veng||Homo sapiens||2010-04-18
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68688.1 |nonstructural protein 1 [Influenza A virus (A/Cambodia/V0203306/2011(H5N1))]|Influenza A virus (A/Cambodia/V0203306/2011(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Phnom Penh||Homo sapiens||2011-02-03
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEIGRPPLPPNQNRKVAGTIESEV
+
+>AEN68689.1 |nuclear export protein, partial [Influenza A virus (A/Cambodia/V0203306/2011(H5N1))]|Influenza A virus (A/Cambodia/V0203306/2011(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Phnom Penh||Homo sapiens||2011-02-03
+MDSNTVSSFQDILGRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68690.1 |nonstructural protein 1 [Influenza A virus (A/Cambodia/V0219301/2011(H5N1))]|Influenza A virus (A/Cambodia/V0219301/2011(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Prey Veng||Homo sapiens||2011-02-17
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEKESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AEN68691.1 |nuclear export protein, partial [Influenza A virus (A/Cambodia/V0219301/2011(H5N1))]|Influenza A virus (A/Cambodia/V0219301/2011(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Prey Veng||Homo sapiens||2011-02-17
+MDSNTVSSFQDILGRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68692.1 |nonstructural protein 1 [Influenza A virus (A/Cambodia/V0401301/2011(H5N1))]|Influenza A virus (A/Cambodia/V0401301/2011(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Kampong Cham||Homo sapiens||2011-03-31
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVTFDRLENLILLRAFTEGGAIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRLPLPPNQNRKMARTIESEV
+
+>AEN68693.1 |nuclear export protein, partial [Influenza A virus (A/Cambodia/V0401301/2011(H5N1))]|Influenza A virus (A/Cambodia/V0401301/2011(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Kampong Cham||Homo sapiens||2011-03-31
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDFHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68694.1 |nonstructural protein 1 [Influenza A virus (A/Cambodia/V0417301/2011(H5N1))]|Influenza A virus (A/Cambodia/V0417301/2011(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Prey Veng||Homo sapiens||2011-04-16
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AEN68695.1 |nuclear export protein, partial [Influenza A virus (A/Cambodia/V0417301/2011(H5N1))]|Influenza A virus (A/Cambodia/V0417301/2011(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Prey Veng||Homo sapiens||2011-04-16
+MDSNTVSSFQDILGRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68696.1 |nonstructural protein 1 [Influenza A virus (A/Cambodia/V0606321/2011(H5N1))]|Influenza A virus (A/Cambodia/V0606321/2011(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Prey Veng||Homo sapiens||2011-06-06
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVTFDRLENLILLRAFTEGGAIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRLPLPPNQNRRMARTIESEV
+
+>AEN68697.1 |nuclear export protein, partial [Influenza A virus (A/Cambodia/V0606321/2011(H5N1))]|Influenza A virus (A/Cambodia/V0606321/2011(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Prey Veng||Homo sapiens||2011-06-06
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDFHSLQI
+RTGEWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68698.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Cambodia/67F4/2008(H5N1))]|Influenza A virus (A/chicken/Cambodia/67F4/2008(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Svay Reang||Gallus gallus||2008-03-07
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVGRILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVTFDRLENLILLRAFTEGGAIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDENGRLPLPPNQNRKMARTIESEV
+
+>AEN68699.1 |nuclear export protein [Influenza A virus (A/chicken/Cambodia/67F4/2008(H5N1))]|Influenza A virus (A/chicken/Cambodia/67F4/2008(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Svay Reang||Gallus gallus||2008-03-07
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRMGDFHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68700.1 |nonstructural protein 1, partial [Influenza A virus (A/chicken/Cambodia/TLC1/2009(H5N1))]|Influenza A virus (A/chicken/Cambodia/TLC1/2009(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|214|nonstructural protein 1|Cambodia: Kampong Cham Reang||Gallus gallus||2009-12-18
+DCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRAGKQIVERILEE
+ESDKALKMPVSRYLTDMTLEEMARDWFMLMPKQKVAGSLCIKMDQAIMDKTIILKANFSV
+TFDRLENLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGILIGGLEWNDNTVQVTE
+TIQRFAWGSSDEVGRLLLPPNQNRKMARTIESEV
+
+>AEN68701.1 |nuclear export protein, partial [Influenza A virus (A/chicken/Cambodia/TLC1/2009(H5N1))]|Influenza A virus (A/chicken/Cambodia/TLC1/2009(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|111|nuclear export protein|Cambodia: Kampong Cham Reang||Gallus gallus||2009-12-18
+DILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDFYSLQIRTGKWREQLS
+QKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQLI
+
+>AEN68702.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Cambodia/TLC2/2009(H5N1))]|Influenza A virus (A/chicken/Cambodia/TLC2/2009(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Kampong Cham||Gallus gallus||2009-12-18
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMARDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVTFDRLENLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRLLLPPNQNRKMARTIESEV
+
+>AEN68703.1 |nuclear export protein [Influenza A virus (A/chicken/Cambodia/TLC2/2009(H5N1))]|Influenza A virus (A/chicken/Cambodia/TLC2/2009(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Kampong Cham||Gallus gallus||2009-12-18
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDFYSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68706.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Cambodia/TKCMB5T/2010(H5N1))]|Influenza A virus (A/chicken/Cambodia/TKCMB5T/2010(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Takeo||Gallus gallus||2010-01-28
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AEN68707.1 |nuclear export protein [Influenza A virus (A/chicken/Cambodia/TKCMB5T/2010(H5N1))]|Influenza A virus (A/chicken/Cambodia/TKCMB5T/2010(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Takeo||Gallus gallus||2010-01-28
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68708.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Cambodia/TKCMB8F/2010(H5N1))]|Influenza A virus (A/chicken/Cambodia/TKCMB8F/2010(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Takeo||Gallus gallus||2010-01-28
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AEN68709.1 |nuclear export protein [Influenza A virus (A/chicken/Cambodia/TKCMB8F/2010(H5N1))]|Influenza A virus (A/chicken/Cambodia/TKCMB8F/2010(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Takeo||Gallus gallus||2010-01-28
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68710.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Cambodia/TKCMB1F/2010(H5N1))]|Influenza A virus (A/chicken/Cambodia/TKCMB1F/2010(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Takeo||Gallus gallus||2010-01-28
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AEN68711.1 |nuclear export protein [Influenza A virus (A/chicken/Cambodia/TKCMB1F/2010(H5N1))]|Influenza A virus (A/chicken/Cambodia/TKCMB1F/2010(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Takeo||Gallus gallus||2010-01-28
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68712.1 |nonstructural protein 1 [Influenza A virus (A/duck/Cambodia/PV027D1/2010(H5N1))]|Influenza A virus (A/duck/Cambodia/PV027D1/2010(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Prey Veng||Anatidae||2010-04-30
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AEN68713.1 |nuclear export protein [Influenza A virus (A/duck/Cambodia/PV027D1/2010(H5N1))]|Influenza A virus (A/duck/Cambodia/PV027D1/2010(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Prey Veng||Anatidae||2010-04-30
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68714.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Cambodia/PV025LC2/2010(H5N1))]|Influenza A virus (A/chicken/Cambodia/PV025LC2/2010(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Prey Veng||Gallus gallus||2010-04-23
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AEN68715.1 |nuclear export protein [Influenza A virus (A/chicken/Cambodia/PV025LC2/2010(H5N1))]|Influenza A virus (A/chicken/Cambodia/PV025LC2/2010(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Prey Veng||Gallus gallus||2010-04-23
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68716.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Cambodia/008LC1/2011(H5N1))]|Influenza A virus (A/chicken/Cambodia/008LC1/2011(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Kandal||Gallus gallus||2011-01-27
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATCA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KAIILKANFSVTFGRLENLILLRAFTEEGTIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDEVGRPPLPPNQNRKVAGTIESEV
+
+>AEN68717.1 |nuclear export protein [Influenza A virus (A/chicken/Cambodia/008LC1/2011(H5N1))]|Influenza A virus (A/chicken/Cambodia/008LC1/2011(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Kandal||Gallus gallus||2011-01-27
+MDSNTVSSFQDILGRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRLGDLHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68718.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Cambodia/67F1/2008(H5N1))]|Influenza A virus (A/chicken/Cambodia/67F1/2008(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Svay Reang||Gallus gallus||2008-03-07
+MDSKTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAVMD
+KTIILKANFSVTFDRLENLILLRAFTEGGAIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSNDEVGRLPLPPNQNRKMARTIESEV
+
+>AEN68719.1 |nuclear export protein [Influenza A virus (A/chicken/Cambodia/67F1/2008(H5N1))]|Influenza A virus (A/chicken/Cambodia/67F1/2008(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Svay Reang||Gallus gallus||2008-03-07
+MDSKTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAMMRLGDFHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN68720.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Cambodia/67F8/2008(H5N1))]|Influenza A virus (A/chicken/Cambodia/67F8/2008(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Cambodia: Svay Reang||Gallus gallus||2008-03-07
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDKALKMPVSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVTFDRLENLILLRAFTEGGAIVGEISPLPSLPGHTGEDVKNAIGILIGGL
+EWNDNTVQVTETIQRFAWGSSDENGRLPLPPNQNRKMARTIESEV
+
+>AEN68721.1 |nuclear export protein [Influenza A virus (A/chicken/Cambodia/67F8/2008(H5N1))]|Influenza A virus (A/chicken/Cambodia/67F8/2008(H5N1))|GenBank|2011-11-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Cambodia: Svay Reang||Gallus gallus||2008-03-07
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFKSLKLYRDSLGEAVMRMGDFHSLQI
+RTGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AEN02523.1 |nonstructural protein 1 [Influenza A virus (A/environment/Chang Sha/4/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/4/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||2009-08-19
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEESDEALKMPTSRYLTDMTLDEMSRDWFMLMPKQKVVGSLCIKMDQAMMD
+KTVILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>AEN02524.1 |nuclear export protein [Influenza A virus (A/environment/Chang Sha/4/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/4/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||||2009-08-19
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AEN02525.1 |nonstructural protein 1 [Influenza A virus (A/environment/Chang Sha/5/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/5/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||2009-08-19
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAMMD
+KTVILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>AEN02526.1 |nuclear export protein [Influenza A virus (A/environment/Chang Sha/5/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/5/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||||2009-08-19
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AEN02527.1 |nonstructural protein 1 [Influenza A virus (A/environment/Chang Sha/7/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/7/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||2009-09-23
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILDGEPDEALKMPTSRYLTDITLEEMSRDWFMLMPKQKVVGSLCIKMDRAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSFPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPPNQKRRMARTIESEV
+
+>AEN02528.1 |nuclear export protein [Influenza A virus (A/environment/Chang Sha/7/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/7/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||||2009-09-23
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGEWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AEN02529.1 |nonstructural protein 1 [Influenza A virus (A/environment/Chang Sha/10/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/10/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||2009-10-29
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAMMD
+KTVILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>AEN02530.1 |nuclear export protein [Influenza A virus (A/environment/Chang Sha/10/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/10/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||||2009-10-29
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AEN02531.1 |nonstructural protein 1 [Influenza A virus (A/environment/Chang Sha/14/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/14/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||2009-11-24
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEEPDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPPNQKRRMARTIESEV
+
+>AEN02532.1 |nuclear export protein [Influenza A virus (A/environment/Chang Sha/14/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/14/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||||2009-11-24
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGGWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AEN02533.1 |nonstructural protein 1 [Influenza A virus (A/environment/Chang Sha/16/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/16/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||2009-12-16
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAMMD
+KTVILKANFSVTFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>AEN02534.1 |nuclear export protein [Influenza A virus (A/environment/Chang Sha/16/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/16/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||||2009-12-16
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AEN02535.1 |nonstructural protein 1 [Influenza A virus (A/environment/Chang Sha/20/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/20/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||2009-12-22
+MDSNTVSSFQVDCFLRHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKMDQAMMD
+KTVISKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTSEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>AEN02536.1 |nuclear export protein [Influenza A virus (A/environment/Chang Sha/20/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/20/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||||2009-12-22
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQLGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AEN02537.1 |nonstructural protein 1 [Influenza A virus (A/environment/Chang Sha/25/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/25/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||2009-12-22
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILDEESDETLKMPTSHYLTDMTLEEMSRDWFMLMPKQKVVGSLCIKIDQAMMD
+KTVILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTREDVKNAIGVLIGGL
+EWNDNTVRISETIQRFAWRSSDEGGRLPLPPNQKRKMARTIESEV
+
+>AEN02538.1 |nuclear export protein [Influenza A virus (A/environment/Chang Sha/25/2009(H5N1))]|Influenza A virus (A/environment/Chang Sha/25/2009(H5N1))|GenBank|2011-08-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|China||||2009-12-22
+MDSNTVSSFQDILERMSKMQLASSSEDWNGMITQLGSLKLYRDSLGEAVMRVGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLPEVEQEIRAFSFQL
+I
+
+>ACJ24945.1 |nonstructural protein 1 [Influenza A virus (A/goose/Hungary/14756/2006(H5N1))]|Influenza A virus (A/goose/Hungary/14756/2006(H5N1))|GenBank|2009-06-30|14756|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Hungary||Anatidae||2006-06-06
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEGESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVIYDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFSWRSIDEDGRLPLPPDQKRKMARTIEPKV
+
+>ACJ24946.1 |nuclear export protein [Influenza A virus (A/goose/Hungary/14756/2006(H5N1))]|Influenza A virus (A/goose/Hungary/14756/2006(H5N1))|GenBank|2009-06-30|14756|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Hungary||Anatidae||2006-06-06
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITRFESLKLYRDSLGEALMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ACJ24956.1 |nonstructural protein 1 [Influenza A virus (A/mute swan/Hungary/4571/2006(H5N1))]|Influenza A virus (A/mute swan/Hungary/4571/2006(H5N1))|GenBank|2009-06-30|4571|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Hungary||Cygnus olor||2006-02-16
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVIYDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFAWRSIDEDGRLPLPPDQKRKMARTIESKV
+
+>ACJ24957.1 |nuclear export protein [Influenza A virus (A/mute swan/Hungary/4571/2006(H5N1))]|Influenza A virus (A/mute swan/Hungary/4571/2006(H5N1))|GenBank|2009-06-30|4571|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Hungary||Cygnus olor||2006-02-16
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITRFESLKLYRDSLGEALMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ACJ24967.1 |nonstructural protein 1 [Influenza A virus (A/mute swan/Hungary/3472/2006(H5N1))]|Influenza A virus (A/mute swan/Hungary/3472/2006(H5N1))|GenBank|2009-06-30|3472|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Hungary||Cygnus olor||2006-02-06
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVIYDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGILIGGL
+EWNDNTVRISEIIQRFAWRSIDEDGRLPLPPDQKRKMARTIESKV
+
+>ACJ24968.1 |nuclear export protein [Influenza A virus (A/mute swan/Hungary/3472/2006(H5N1))]|Influenza A virus (A/mute swan/Hungary/3472/2006(H5N1))|GenBank|2009-06-30|3472|Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nuclear export protein|Hungary||Cygnus olor||2006-02-06
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEALMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ACF16405.1 |nonstructural protein 1 [Influenza A virus (A/duck/Hubei/Hangmei01/2006(H5N1))]|Influenza A virus (A/duck/Hubei/Hangmei01/2006(H5N1))|GenBank|2009-03-25||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||Anatidae||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFGVIFDRLETLIMLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGF
+EWNDNTVRVSETIQRYAWRSSDEDRRLPLLPNQKRKMARTIESEV
+
+>ACF16406.1 |nonstructural protein 2 [Influenza A virus (A/duck/Hubei/Hangmei01/2006(H5N1))]|Influenza A virus (A/duck/Hubei/Hangmei01/2006(H5N1))|GenBank|2009-03-25||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||Anatidae||
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDTLGEAVMRIGDFHSFQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABX10520.1 |nonstructural protein 1 [Influenza A virus (A/Thailand/16/2004(H5N1))]|Influenza A virus (A/Thailand/16/2004(H5N1))|GenBank|2008-05-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|Thailand||||2004
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDKALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KVVILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVTETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>ABX10521.1 |nonstructural protein 2 [Influenza A virus (A/Thailand/16/2004(H5N1))]|Influenza A virus (A/Thailand/16/2004(H5N1))|GenBank|2008-05-13||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|Thailand||||2004
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABQ45855.1 |nonstructural protein 1 [Influenza A virus (A/chicken/India/NIV33487/06(H5N1))]|Influenza A virus (A/chicken/India/NIV33487/06(H5N1))|GenBank|2008-01-31||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|India||Gallus gallus|spleen, abdominal cavity|
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVIYDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFAWRSIGEDGRLPLPPDQKRKMARTIESKV
+
+>ABQ45856.1 |nonstructural protein 2 [Influenza A virus (A/chicken/India/NIV33487/06(H5N1))]|Influenza A virus (A/chicken/India/NIV33487/06(H5N1))|GenBank|2008-01-31||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|India||Gallus gallus|spleen, abdominal cavity|
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEALVRMGDFHSLQT
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABQ45865.1 |nonstructural protein 1 [Influenza A virus (A/chicken/India/NIV33491/06(H5N1))]|Influenza A virus (A/chicken/India/NIV33491/06(H5N1))|GenBank|2008-01-31||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|India||Gallus gallus|lung|
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVIYDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFAWRSIGEDGRLPLPPDQKRKMARTIESKV
+
+>ABQ45866.1 |nonstructural protein 2 [Influenza A virus (A/chicken/India/NIV33491/06(H5N1))]|Influenza A virus (A/chicken/India/NIV33491/06(H5N1))|GenBank|2008-01-31||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|India||Gallus gallus|lung|
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEALVRMGDFHSLQT
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABX83943.1 |nonstructural protein 1 [Influenza A virus (A/wild duck/Hunan/021/2005(H5N1))]|Influenza A virus (A/wild duck/Hunan/021/2005(H5N1))|GenBank|2007-12-16||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPTSRYLTDMTLEEMSGDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRYAWRSSDEDGRLPLLPNQKRKMARTIESEV
+
+>ABX83944.1 |nonstructural protein 2 [Influenza A virus (A/wild duck/Hunan/021/2005(H5N1))]|Influenza A virus (A/wild duck/Hunan/021/2005(H5N1))|GenBank|2007-12-16||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDTLGEAVMRMGDFHSFQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABX83945.1 |nonstructural protein 1 [Influenza A virus (A/wild duck/Hunan/211/2005(H5N1))]|Influenza A virus (A/wild duck/Hunan/211/2005(H5N1))|GenBank|2007-12-16||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRYAWRSSDEDGRLPLLPNQKRKMARTIESEV
+
+>ABX83946.1 |nonstructural protein 2 [Influenza A virus (A/wild duck/Hunan/211/2005(H5N1))]|Influenza A virus (A/wild duck/Hunan/211/2005(H5N1))|GenBank|2007-12-16||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDTLGEAVMRMGDFHSFQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABQ58984.1 |nonstructural protein 1 [Influenza A virus (A/Beijing/01/2003(H5N1))]|Influenza A virus (A/Beijing/01/2003(H5N1))|GenBank|2007-05-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|||Homo sapiens|blood|
+MDPNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWGSSDEDRRPPLPPNQKRKMARTIESEV
+
+>ABQ58985.1 |nonstructural protein 2 [Influenza A virus (A/Beijing/01/2003(H5N1))]|Influenza A virus (A/Beijing/01/2003(H5N1))|GenBank|2007-05-30||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|||Homo sapiens|blood|
+MDPNTVSSFQDILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRIGDLHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABO76673.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Suzdalka/06/05(H5N1))]|Influenza A virus (A/chicken/Suzdalka/06/05(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVIYDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFAWRSIDEDGRLPLPPDQKRKMARTIESKV
+
+>ABO76674.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Suzdalka/06/05(H5N1))]|Influenza A virus (A/chicken/Suzdalka/06/05(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|||||
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEALMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABO76675.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Omsk/14/05(H5N1))]|Influenza A virus (A/chicken/Omsk/14/05(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|||||
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEALMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABO76676.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Omsk/14/05(H5N1))]|Influenza A virus (A/chicken/Omsk/14/05(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVIYDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSIDEDGRLPLPPDQKRKMARTIESKV
+
+>ABO76677.1 |nonstructural protein 2 [Influenza A virus (A/goose/Suzdalka/10/05(H5N1))]|Influenza A virus (A/goose/Suzdalka/10/05(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|||||
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEALMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABO76678.1 |nonstructural protein 1 [Influenza A virus (A/goose/Suzdalka/10/05(H5N1))]|Influenza A virus (A/goose/Suzdalka/10/05(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVIYDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFAWRSIDEDGRLPLPPDQKRKMARTIESKV
+
+>ABO76679.1 |nonstructural protein 2 [Influenza A virus (A/goose/Krasnoozerskoye/627/2005(H5N1))]|Influenza A virus (A/goose/Krasnoozerskoye/627/2005(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|||||
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEALMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABO76680.1 |nonstructural protein 1 [Influenza A virus (A/goose/Krasnoozerskoye/627/2005(H5N1))]|Influenza A virus (A/goose/Krasnoozerskoye/627/2005(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVIYDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFAWRSIDEDGRLPLPPDQKRKMARTIESKV
+
+>ABO76681.1 |nonstructural protein 2 [Influenza A virus (A/turkey/Suzdalka/12/05(H5N1))]|Influenza A virus (A/turkey/Suzdalka/12/05(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|||||
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEALMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABO76682.1 |nonstructural protein 1 [Influenza A virus (A/turkey/Suzdalka/12/05(H5N1))]|Influenza A virus (A/turkey/Suzdalka/12/05(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVIYDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFAWRSIDEDGRLPLPPDQKRKMARTIESKV
+
+>ABO76683.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Krasnodar/123/06(H5N1))]|Influenza A virus (A/chicken/Krasnodar/123/06(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|||||
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEALVRMGDFHSLQT
+RNGTWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABO76684.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Krasnodar/123/06(H5N1))]|Influenza A virus (A/chicken/Krasnodar/123/06(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVIYDRLETLILLRAFTEEGAIVGEISPLHSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFAWRSIGEDGRLPLPPDQKRNMARTIESKV
+
+>ABO76685.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Tula/4/05(H5N1))]|Influenza A virus (A/chicken/Tula/4/05(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|||||
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEALMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEMRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABO76686.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Tula/4/05(H5N1))]|Influenza A virus (A/chicken/Tula/4/05(H5N1))|GenBank|2007-04-07||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVTGSLCIKMDQAIMD
+KTIILKANFSVIYDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSEIIQRFAWRSIDEDGRLPLPPDQKRKMARTIESKV
+
+>ABI16509.1 |nonstructural protein NS2 [Influenza A virus (A/China/GD01/2006(H5N1))]|Influenza A virus (A/China/GD01/2006(H5N1))|GenBank|2007-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein NS2|China||Homo sapiens||
+MDSNTVSSFQDILVRMSKMQLASSSEDLNGMITQFGSLKLYRDTLGEAVMRMGDFHSFQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABI16510.1 |nonstructural protein NS1 [Influenza A virus (A/China/GD01/2006(H5N1))]|Influenza A virus (A/China/GD01/2006(H5N1))|GenBank|2007-01-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein NS1|China||Homo sapiens||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPTSRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRYAWRSSDEDGRLPLLPNQKRKMARTIESEV
+
+>ABJ98937.1 |nonstructural protein 1 [Influenza A virus (A/duck/Hubei/wq/2003(H5N1))]|Influenza A virus (A/duck/Hubei/wq/2003(H5N1))|GenBank|2006-10-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDPNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>ABJ98938.1 |nonstructural protein 2 [Influenza A virus (A/duck/Hubei/wq/2003(H5N1))]|Influenza A virus (A/duck/Hubei/wq/2003(H5N1))|GenBank|2006-10-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDPNTVSSFQDILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABJ16476.1 |nonstructural protein 1 [Influenza A virus (A/swine/Henan/wy/2004(H5N1))]|Influenza A virus (A/swine/Henan/wy/2004(H5N1))|GenBank|2006-10-11||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIIWKANFSVIFDRWETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>ABJ16477.1 |nonstructural protein 2 [Influenza A virus (A/swine/Henan/wy/2004(H5N1))]|Influenza A virus (A/swine/Henan/wy/2004(H5N1))|GenBank|2006-10-11||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABJ09469.1 |nonstructural protein 1 [Influenza A virus (A/duck/Guangxi/xa/2001(H5N1))]|Influenza A virus (A/duck/Guangxi/xa/2001(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELSDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIEVLIGGL
+EWNDNTVRVSETLQRFAWRSSDEDGRPPLPPNQKRKMARTIESEV
+
+>ABJ09470.1 |nonstructural protein 2 [Influenza A virus (A/duck/Guangxi/xa/2001(H5N1))]|Influenza A virus (A/duck/Guangxi/xa/2001(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILVRMSKMQLRSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABJ09479.1 |nonstructural protein 1 [Influenza A virus (A/duck/Hubei/wp/2003(H5N1))]|Influenza A virus (A/duck/Hubei/wp/2003(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDPNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>ABJ09480.1 |nonstructural protein 2 [Influenza A virus (A/duck/Hubei/wp/2003(H5N1))]|Influenza A virus (A/duck/Hubei/wp/2003(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDPNTVSSFQDILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABJ09491.1 |nonstructural protein 1 [Influenza A virus (A/duck/Shanghai/xj/2002(H5N1))]|Influenza A virus (A/duck/Shanghai/xj/2002(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLVLIRAFTEEGAIVGEISPLPSLPGHNDEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEGGRPPLPPNQKRKMARTIESEV
+
+>ABJ09492.1 |nonstructural protein 2 [Influenza A virus (A/duck/Shanghai/xj/2002(H5N1))]|Influenza A virus (A/duck/Shanghai/xj/2002(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDIMMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRVGDLHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABJ09501.1 |nonstructural protein 1 [Influenza A virus (A/duck/Zhejiang/bj/2002(H5N1))]|Influenza A virus (A/duck/Zhejiang/bj/2002(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGVLIGGL
+EWNDNTVRVSEALQRFAWRSSDENGRPPLPPNQKRKMARTIESEV
+
+>ABJ09502.1 |nonstructural protein 2 [Influenza A virus (A/duck/Zhejiang/bj/2002(H5N1))]|Influenza A virus (A/duck/Zhejiang/bj/2002(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITRFESLKLYRDSLGEAVMRMGDLHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABJ09514.1 |nonstructural protein 1 [Influenza A virus (A/goose/Fujian/bb/2003(H5N1))]|Influenza A virus (A/goose/Fujian/bb/2003(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEKESDKALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KNIILKANFSVISGRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGVLIGGL
+EWNDNTVRVSETLQRFAWRSSNEDGRPPLPPNQKREMARTIESEV
+
+>ABJ09515.1 |nonstructural protein 2 [Influenza A virus (A/goose/Fujian/bb/2003(H5N1))]|Influenza A virus (A/goose/Fujian/bb/2003(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABJ09521.1 |nonstructural protein 1 [Influenza A virus (A/goose/Guangdong/xb/2001(H5N1))]|Influenza A virus (A/goose/Guangdong/xb/2001(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEKESDEALKMTIASLPALRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEGGRPSLPPKQKRKMARTTESEV
+
+>ABJ09522.1 |nonstructural protein 2 [Influenza A virus (A/goose/Guangdong/xb/2001(H5N1))]|Influenza A virus (A/goose/Guangdong/xb/2001(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRVGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABJ09531.1 |nonstructural protein 1 [Influenza A virus (A/goose/Jilin/hb/2003(H5N1))]|Influenza A virus (A/goose/Jilin/hb/2003(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDPNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRNSDEDGRLPLPPNQKRKMARTIESEV
+
+>ABJ09532.1 |nonstructural protein 2 [Influenza A virus (A/goose/Jilin/hb/2003(H5N1))]|Influenza A virus (A/goose/Jilin/hb/2003(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDPNTVSSFQDILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGETVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABJ09538.1 |nonstructural protein 1 [Influenza A virus (A/mallard/Guangxi/wt/2004(H5N1))]|Influenza A virus (A/mallard/Guangxi/wt/2004(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLIDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGV
+LIGGLEWNDNTVRVSETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>ABJ09539.1 |nonstructural protein 2 [Influenza A virus (A/mallard/Guangxi/wt/2004(H5N1))]|Influenza A virus (A/mallard/Guangxi/wt/2004(H5N1))|GenBank|2006-10-09||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABI98905.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Hubei/wo/2003(H5N1))]|Influenza A virus (A/chicken/Hubei/wo/2003(H5N1))|GenBank|2006-10-08||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDPNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVISDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>ABI98906.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Hubei/wo/2003(H5N1))]|Influenza A virus (A/chicken/Hubei/wo/2003(H5N1))|GenBank|2006-10-08||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDPNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABI98916.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Jilin/ha/2003(H5N1))]|Influenza A virus (A/chicken/Jilin/ha/2003(H5N1))|GenBank|2006-10-08||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIAPVPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPSKQKRKMARTIESEV
+
+>ABI98917.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Jilin/ha/2003(H5N1))]|Influenza A virus (A/chicken/Jilin/ha/2003(H5N1))|GenBank|2006-10-08||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLGSSSGDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABI98922.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Jilin/hd/2002(H5N1))]|Influenza A virus (A/chicken/Jilin/hd/2002(H5N1))|GenBank|2006-10-08||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDPNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTITLKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGILIGGL
+EWNDNTVRVSEALQRFAWRSSDENGRPPLPPNQKRKMARTIESEV
+
+>ABI98923.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Jilin/hd/2002(H5N1))]|Influenza A virus (A/chicken/Jilin/hd/2002(H5N1))|GenBank|2006-10-08||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDPNTVSSFQDILMRMSKMQLGSSSEDLNGMITRFESLKLYRDSLGEAVMRTGDLHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABI98932.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Jilin/hf/2002(H5N1))]|Influenza A virus (A/chicken/Jilin/hf/2002(H5N1))|GenBank|2006-10-08||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDPNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPAPRYLTDMTLEEMSRDWFMLIPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRNSDEDRRLPLPPNQKRKMARTIESEV
+
+>ABI98933.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Jilin/hf/2002(H5N1))]|Influenza A virus (A/chicken/Jilin/hf/2002(H5N1))|GenBank|2006-10-08||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDPNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGETVMRIGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABI98941.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Jilin/xw/2003(H5N1))]|Influenza A virus (A/chicken/Jilin/xw/2003(H5N1))|GenBank|2006-10-08||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|China||||
+MDPNTVSSFQVDCFLWQVRKRFADQKLGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKHIVERILEEESDEELKMTIASVPALRYLTDMTLEEMSRDWLMLMPKQKVAGSLCIRMD
+QAIVDKTITLKANFSVIFNRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSDEDGRPPLPPNQKRKMARTIESEV
+
+>ABI98942.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Jilin/xw/2003(H5N1))]|Influenza A virus (A/chicken/Jilin/xw/2003(H5N1))|GenBank|2006-10-08||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDPNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>ABI96722.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Hubei/wj/1997(H5N1))]|Influenza A virus (A/chicken/Hubei/wj/1997(H5N1))|GenBank|2006-10-03||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLIDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>ABI96723.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Hubei/wj/1997(H5N1))]|Influenza A virus (A/chicken/Hubei/wj/1997(H5N1))|GenBank|2006-10-03||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABI96744.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Hubei/wl/1997(H5N1))]|Influenza A virus (A/chicken/Hubei/wl/1997(H5N1))|GenBank|2006-10-03||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLIDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>ABI96745.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Hubei/wl/1997(H5N1))]|Influenza A virus (A/chicken/Hubei/wl/1997(H5N1))|GenBank|2006-10-03||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABI96770.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Jiangsu/cz1/2002(H5N1))]|Influenza A virus (A/chicken/Jiangsu/cz1/2002(H5N1))|GenBank|2006-10-03||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>ABI96771.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Jiangsu/cz1/2002(H5N1))]|Influenza A virus (A/chicken/Jiangsu/cz1/2002(H5N1))|GenBank|2006-10-03||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGVLIGGL
+EWNDNTVRVSEALQRFAWRSSDENGRPPLPPNQKRKMARTIESEV
+
+>AAX53538.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Henan/01/2004(H5N1))]|Influenza A virus (A/chicken/Henan/01/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGVLIGGL
+EWNDNTVRVSETLQRFAWRSSDEDGRPPLPPKQKRKMARTIESEV
+
+>AAX53539.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Henan/01/2004(H5N1))]|Influenza A virus (A/chicken/Henan/01/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKVTENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AAX53540.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Henan/210/2004(H5N1))]|Influenza A virus (A/chicken/Henan/210/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQS
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AAX53541.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Henan/210/2004(H5N1))]|Influenza A virus (A/chicken/Henan/210/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGSTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLIDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGV
+LIGGLEWNDNTVRVSETLQRFAWRSSNEDGRPPLPPKQKRKMARTIESEV
+
+>AAX53542.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Henan/12/2004(H5N1))]|Influenza A virus (A/chicken/Henan/12/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AAX53543.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Henan/12/2004(H5N1))]|Influenza A virus (A/chicken/Henan/12/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>AAX53544.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Henan/13/2004(H5N1))]|Influenza A virus (A/chicken/Henan/13/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AAX53545.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Henan/13/2004(H5N1))]|Influenza A virus (A/chicken/Henan/13/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>AAX53546.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Henan/16/2004(H5N1))]|Influenza A virus (A/chicken/Henan/16/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AAX53547.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Henan/16/2004(H5N1))]|Influenza A virus (A/chicken/Henan/16/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>AAX53548.1 |nonstructural protein 2 [Influenza A virus (A/wild duck/Guangdong/314/2004(H5N1))]|Influenza A virus (A/wild duck/Guangdong/314/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+
+>AAX53549.1 |nonstructural protein 1 [Influenza A virus (A/wild duck/Guangdong/314/2004(H5N1))]|Influenza A virus (A/wild duck/Guangdong/314/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|230|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMTIASVPASRYLIDMTLEEMSRDWFMLMPKQKVAGSLCIRMD
+QAIMDKNIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTNEDVKNAIGV
+LIGGLEWNDNTVRVSETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESEV
+
+>AAX53550.1 |nonstructural protein 2 [Influenza A virus (A/swan/Guangxi/307/2004(H5N1))]|Influenza A virus (A/swan/Guangxi/307/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDSNTVSSFQDILMRMSKLQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDFHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AAX53551.1 |nonstructural protein 1 [Influenza A virus (A/swan/Guangxi/307/2004(H5N1))]|Influenza A virus (A/swan/Guangxi/307/2004(H5N1))|GenBank|2006-02-28||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDSNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKIAIGVLIGGL
+EWNDNTVRVSETIQRFAWRSSDEDGRLPLPPNQKRKMARTIESKV
+
+>AAT76162.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Jilin/9/2004(H5N1))]|Influenza A virus (A/chicken/Jilin/9/2004(H5N1))|GenBank|2004-07-24||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDPNTVSSFQDILMRMSKMQLGSSSEDLNGMITRFESLKLYRDSLGEAVMRTGDLHSLQI
+RNGKWREQLSQKFEEIRWLIEEVRHRLKITENSFEQITFMQALQLLLEVEQEIRTFSFQL
+I
+
+>AAT76163.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Jilin/9/2004(H5N1))]|Influenza A virus (A/chicken/Jilin/9/2004(H5N1))|GenBank|2004-07-24||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDPNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKVAGSLCIKMDQAIMD
+KTITLKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTDEDVKNAIGILIGGL
+EWNDNTVRVSEALQRFAWRSSDENGRPPLPPNQKRKMARTIESEV
+
+>AAT37568.1 |nonstructural protein 1 [Influenza A virus (A/chicken/Guangdong/174/04(H5N1))]|Influenza A virus (A/chicken/Guangdong/174/04(H5N1))|GenBank|2004-06-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|225|nonstructural protein 1|China||||
+MDPNTVSSFQVDCFLWHVRKRFADQELGDAPFLDRLRRDQKSLRGRGNTLGLDIETATRA
+GKQIVERILEEESDEALKMPASRYLTDMTLEEMSRDWFMLMPKQKMAGSLCIKMDQAIMD
+KTIILKANFSVIFDRLETLILLRAFTEEGAIVGEISPLPSLPGHTGEDVKNAIGVLIGGL
+EWNDNTVRVSETIQRFAWRGSDEDGRLTLPPNQKRKMARTIESEV
+
+>AAT37569.1 |nonstructural protein 2 [Influenza A virus (A/chicken/Guangdong/174/04(H5N1))]|Influenza A virus (A/chicken/Guangdong/174/04(H5N1))|GenBank|2004-06-01||Alphainfluenzavirus influenzae|Alphainfluenzavirus|Orthomyxoviridae|121|nonstructural protein 2|China||||
+MDPNTVSSFQDILVRMSKMQLASSSEDLNGMITQFESLKLYRDSLGEAVMRMGDLHSLQI
+RNGKWREQLSQKFEEIRWLIEEIRHRLKITENSFEQITFMQALQLLLEVEQEIRAFSFQL
+I
+

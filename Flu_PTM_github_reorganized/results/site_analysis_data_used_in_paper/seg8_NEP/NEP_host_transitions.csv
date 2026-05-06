@@ -1,0 +1,8 @@
+parent_state,child_state,n,transition
+Homo sapiens,Sus scrofa,4,Homo sapiens → Sus scrofa
+Homo sapiens,Gallus gallus,3,Homo sapiens → Gallus gallus
+Homo sapiens,Anatidae,2,Homo sapiens → Anatidae
+Aves,Anas cyanoptera,1,Aves → Anas cyanoptera
+Aves,Spatula clypeata,1,Aves → Spatula clypeata
+Gallus gallus,Columbidae,1,Gallus gallus → Columbidae
+Gallus gallus,Sus scrofa,1,Gallus gallus → Sus scrofa

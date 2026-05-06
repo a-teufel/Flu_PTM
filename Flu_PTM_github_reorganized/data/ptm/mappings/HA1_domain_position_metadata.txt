@@ -1,0 +1,23 @@
+# PTM Position Metadata
+# Format: Alignment_Position	PTM_Type_Found	Sequences_With_PTM	Consensus_Position	Consensus_AA
+2	Methyllysine,Pyrrolidone_carboxylic_acid	YP_529486,YP_009118482	2	I
+10	N-linked_glycosylation	YP_009121768,YP_163735,YP_529486	10	N
+11	N-linked_glycosylation	YP_009121768,YP_163735,YP_529486	11	S
+12	N-linked_glycosylation	YP_009118482	12	T
+23	N-linked_glycosylation	YP_009121768,YP_163735,YP_529486	23	V
+28	N-linked_glycosylation	YP_009118482	28	S
+87	N-linked_glycosylation	YP_009121768	87	G
+89	O-linked_glycosylation	YP_009121768	89	C
+98	Phosphotyrosine	YP_529486	98	E
+110	Phosphoserine	YP_009121768,YP_163735	110	F
+127	N-linked_glycosylation	YP_163735	127	S
+168	N-linked_glycosylation	YP_529486	168	N
+213	Phosphothreonine	YP_163735	213	P
+215	Phosphoserine	YP_009118482	215	I
+239	N-linked_glycosylation	YP_009118482	239	D
+261	Methylarginine	YP_163735	261	G
+264	Phosphoserine	YP_009118482	264	S
+271	N-linked_glycosylation	YP_163735	271	T
+278	N-linked_glycosylation	YP_009121768	278	T
+289	N-linked_glycosylation	YP_009121768,YP_163735,YP_529486	289	S
+323	Phosphothreonine	YP_529486	323	P

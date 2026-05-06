@@ -1,0 +1,20 @@
+parent_state,child_state,n,transition
+Homo sapiens,Sus scrofa,13,Homo sapiens → Sus scrofa
+Sus scrofa,Homo sapiens,3,Sus scrofa → Homo sapiens
+Gallus gallus,Anas platyrhynchos,2,Gallus gallus → Anas platyrhynchos
+Gallus gallus,Anatidae,2,Gallus gallus → Anatidae
+Homo sapiens,Gallus gallus,2,Homo sapiens → Gallus gallus
+Anas platyrhynchos,Gallus gallus,1,Anas platyrhynchos → Gallus gallus
+Anatidae,Sus scrofa,1,Anatidae → Sus scrofa
+Aves,Anatidae,1,Aves → Anatidae
+Aves,Panthera tigris,1,Aves → Panthera tigris
+Gallus gallus,Accipitridae,1,Gallus gallus → Accipitridae
+Gallus gallus,Aves,1,Gallus gallus → Aves
+Gallus gallus,Columbidae,1,Gallus gallus → Columbidae
+Gallus gallus,Homo sapiens,1,Gallus gallus → Homo sapiens
+Gallus gallus,Panthera tigris,1,Gallus gallus → Panthera tigris
+Homo sapiens,Anas platyrhynchos,1,Homo sapiens → Anas platyrhynchos
+Homo sapiens,Anatidae,1,Homo sapiens → Anatidae
+Homo sapiens,Meleagris gallopavo,1,Homo sapiens → Meleagris gallopavo
+Homo sapiens,Passer montanus,1,Homo sapiens → Passer montanus
+Mustela lutreola,Gallus gallus,1,Mustela lutreola → Gallus gallus

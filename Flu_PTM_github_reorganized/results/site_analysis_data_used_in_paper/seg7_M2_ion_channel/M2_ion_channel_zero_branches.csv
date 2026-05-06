@@ -1,0 +1,807 @@
+parent,child,parent_state,child_state,host_switch,rate,zero_branch,group,segment,protein
+487,571,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+571,572,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+572,573,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+573,574,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+574,575,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+575,576,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+576,577,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+577,578,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+578,579,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+579,580,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+580,581,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+581,582,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+582,583,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+583,584,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+584,585,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+585,586,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+586,587,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+587,588,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+588,589,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+589,590,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+590,591,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+591,592,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+592,593,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+593,594,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+594,595,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+595,596,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+596,900,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+900,901,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+901,902,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+902,903,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+903,904,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+904,905,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+905,913,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+913,914,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+914,915,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+915,916,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+916,917,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+917,918,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+918,919,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+919,920,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+920,921,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+921,922,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+922,923,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+923,924,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+924,925,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+925,926,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+926,927,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+927,928,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+928,929,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+929,930,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+930,931,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+931,932,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+932,933,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+933,934,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+934,935,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+935,936,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+936,937,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+937,938,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+938,939,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+939,940,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+940,941,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+941,942,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+942,943,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+943,944,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+944,945,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+945,946,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+946,947,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+947,948,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+948,949,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+949,950,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+950,951,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+951,952,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+952,953,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+953,954,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+954,955,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+955,956,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+956,957,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+957,958,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+958,959,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+959,960,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+960,961,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+961,962,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+962,971,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+971,314,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+971,315,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+962,316,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+961,317,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+960,318,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+959,319,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+958,320,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+957,321,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+956,322,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+955,323,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+954,324,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+953,325,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+952,326,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+951,327,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+950,328,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+949,329,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+948,330,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+947,331,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+946,332,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+945,333,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+944,334,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+943,335,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+942,336,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+941,337,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+940,338,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+939,339,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+937,341,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+936,342,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+935,343,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+934,344,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+933,345,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+929,349,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+928,350,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+927,351,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+926,352,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+925,353,Homo sapiens,Mustela putorius furo,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+924,354,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+923,355,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+922,356,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+921,357,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+920,358,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+919,359,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+918,360,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+917,361,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+916,362,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+915,363,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+914,364,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+913,365,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+905,906,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+906,907,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+907,306,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+907,908,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+908,909,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+909,910,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+910,911,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+911,912,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+912,307,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+912,308,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+911,309,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+910,310,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+909,311,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+908,312,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+906,313,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+904,963,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+963,964,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+964,965,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+965,366,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+965,367,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+964,368,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+963,369,Homo sapiens,Meleagris gallopavo,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+903,370,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+902,371,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+901,966,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+966,372,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+966,373,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+900,967,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+967,968,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+968,969,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+969,970,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+970,374,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+970,375,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+969,376,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+968,377,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+967,378,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+596,597,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+597,598,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+598,599,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+599,600,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+600,601,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+601,602,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+602,603,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+603,604,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+604,605,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+606,607,Sus scrofa,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+608,609,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+609,610,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+613,614,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+614,615,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+615,616,Unknown,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+616,617,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+618,619,Sus scrofa,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+619,620,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+620,2,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+620,3,Unknown,Mus musculus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+621,622,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+622,623,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+624,625,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+625,626,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+626,627,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+627,628,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+624,11,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+623,12,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+622,13,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+621,14,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+618,631,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+631,15,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+631,16,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+617,632,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+632,633,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+633,17,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+633,634,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+634,635,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+635,18,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+635,19,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+634,20,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+632,636,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+636,637,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+637,21,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+637,22,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+636,638,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+638,639,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+639,640,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+643,644,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+644,645,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+645,23,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+641,28,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+640,646,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+646,29,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+646,647,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+647,30,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+647,31,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+639,648,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+648,32,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+648,33,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+649,34,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+649,650,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+650,651,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+651,35,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+616,652,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+652,653,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+653,38,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+655,656,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+656,657,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+657,41,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+657,42,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+656,43,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+654,45,Homo sapiens,Anatidae,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+614,658,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+661,662,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+662,663,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+663,664,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+664,665,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+665,666,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+666,667,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+667,668,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+668,669,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+669,670,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+671,672,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+673,674,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+674,675,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+675,46,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+675,47,Aves,Gallus gallus,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+674,48,Aves,Meleagris gallopavo,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+673,49,Aves,Spatula discors,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+672,50,Aves,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+671,51,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+670,52,Aves,Anas cyanoptera,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+669,53,Aves,Spatula clypeata,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+668,54,Aves,Gallus gallus,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+667,55,Aves,Numididae sp.,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+666,56,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+665,57,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+676,677,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+677,58,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+677,678,Anatidae,Meleagris gallopavo,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+678,60,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+680,61,Anatidae,Arenaria interpres,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+680,62,Anatidae,Gallus gallus,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+679,681,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+681,63,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+682,65,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+682,683,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+683,684,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+684,685,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+685,686,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+685,68,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+683,70,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+662,687,Aves,Meleagris gallopavo,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+687,71,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+687,72,Meleagris gallopavo,Meleagris gallopavo,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+661,73,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+660,688,Aves,Spatula clypeata,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+688,74,Spatula clypeata,Spatula clypeata,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+688,75,Spatula clypeata,Anas carolinensis,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+659,76,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+658,689,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+690,78,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+689,79,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+613,691,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+691,692,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+692,693,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+693,694,Unknown,Accipitriformes,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+694,695,Accipitriformes,Gallus gallus,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+695,696,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+700,701,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+701,702,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+702,703,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+703,704,Gallus gallus,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+704,705,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+705,706,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+706,707,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+707,708,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+708,709,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+709,710,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+711,712,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+712,713,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+713,714,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+714,715,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+715,81,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+715,82,Gallus gallus,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+714,83,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+713,84,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+712,85,Gallus gallus,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+710,87,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+709,88,Gallus gallus,Anatidae,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+707,90,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+706,91,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+705,92,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+704,93,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+703,94,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+700,716,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+716,717,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+717,97,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+718,719,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+719,99,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+719,100,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+718,101,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+699,102,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+698,103,Gallus gallus,Columbidae,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+697,720,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+720,721,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+721,722,Gallus gallus,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+722,723,Unknown,Anatidae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+723,104,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+723,105,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+722,106,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+721,107,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+720,108,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+695,724,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+724,110,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+694,111,Accipitriformes,Accipitriformes,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+693,112,Unknown,Psittacidae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+725,726,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+726,727,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+728,729,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+729,730,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+730,731,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+731,732,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+732,113,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+732,114,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+731,115,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+729,117,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+728,118,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+725,121,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+691,733,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+733,734,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+734,735,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+735,123,Gallus gallus,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+735,124,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+734,125,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+612,736,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+736,737,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+737,738,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+738,739,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+739,740,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+740,741,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+741,742,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+743,744,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+744,126,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+744,127,Gallus gallus,Cairina moschata,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+743,128,Gallus gallus,Anas platyrhynchos,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+742,129,Gallus gallus,Suricata suricatta,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+741,130,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+740,745,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+745,746,Unknown,Cygnus olor,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+746,131,Cygnus olor,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+746,132,Cygnus olor,Cygnus olor,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+748,749,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+748,750,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+750,136,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+750,137,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+747,751,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+751,752,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+752,753,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+755,756,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+756,757,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+757,138,Unknown,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+755,141,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+754,142,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+753,143,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+752,144,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+751,145,Unknown,Anatidae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+738,146,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+737,147,Unknown,Panthera tigris,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+736,758,Unknown,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+758,148,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+758,149,Aves,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+611,150,Unknown,Aves,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+610,759,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+759,760,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+760,761,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+761,762,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+762,763,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+763,764,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+764,151,Unknown,Columbidae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+764,152,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+763,153,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+762,154,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+761,155,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+760,156,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+759,157,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+767,160,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+769,162,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+769,163,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+768,164,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+607,770,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+770,771,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+772,165,Anas platyrhynchos,Anas platyrhynchos,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+772,166,Anas platyrhynchos,Parus major,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+771,167,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+770,168,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+606,169,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+605,170,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+777,171,Anatidae,Anatidae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+776,173,Unknown,Mustela lutreola,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+775,174,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+774,175,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+773,778,Sus scrofa,Mareca americana,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+780,781,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+781,782,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+782,783,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+783,784,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+784,785,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+785,786,Homo sapiens,Phasianinae,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+786,787,Phasianinae,Panthera tigris,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+787,176,Panthera tigris,Mustela lutreola,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+787,177,Panthera tigris,Panthera tigris,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+786,788,Phasianinae,Phasianinae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+788,178,Phasianinae,Phasianinae,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+785,180,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+784,789,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+790,791,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+791,792,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+792,793,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+793,794,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+794,795,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+795,796,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+797,798,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+798,799,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+800,801,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+801,182,Gallus gallus,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+800,183,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+798,185,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+797,186,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+795,188,Homo sapiens,Passer montanus,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+794,189,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+793,190,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+792,191,Homo sapiens,Anatidae,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+791,192,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+790,193,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+789,194,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+783,195,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+782,802,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+802,196,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+802,197,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+781,803,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+803,804,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+804,805,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+805,806,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+806,807,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+807,808,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+808,809,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+809,810,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+810,811,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+811,812,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+813,198,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+813,199,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+812,200,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+811,201,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+810,202,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+809,203,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+807,205,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+814,815,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+815,207,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+815,208,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+814,209,Homo sapiens,Gallus gallus,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+804,210,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+803,211,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+780,212,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+779,816,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+816,213,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+816,214,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+818,215,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+817,217,Mareca americana,Mareca americana,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+603,819,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+819,820,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+820,821,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+822,823,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+824,825,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+825,826,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+826,827,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+827,218,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+827,219,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+826,220,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+825,221,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+824,828,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+828,829,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+829,830,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+830,831,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+831,832,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+832,833,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+833,222,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+831,225,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+830,226,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+829,834,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+834,835,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+835,836,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+836,227,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+836,228,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+835,229,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+834,230,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+828,231,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+823,837,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+838,839,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+839,840,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+842,232,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+842,233,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+841,234,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+839,236,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+837,238,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+822,239,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+843,844,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+844,240,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+845,243,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+820,846,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+846,847,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+847,244,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+847,848,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+848,849,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+849,850,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+850,245,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+850,246,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+849,247,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+848,851,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+851,248,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+851,249,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+846,250,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+819,251,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+853,854,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+854,855,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+855,252,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+855,253,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+854,254,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+853,255,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+852,256,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+601,856,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+856,257,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+600,857,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+858,859,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+859,860,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+860,861,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+862,863,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+864,865,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+864,261,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+861,264,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+860,265,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+859,266,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+858,866,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+866,867,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+868,869,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+869,870,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+870,268,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+869,269,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+868,270,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+867,271,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+866,272,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+857,273,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+599,871,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+871,872,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+872,873,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+873,274,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+873,874,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+872,875,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+875,277,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+875,278,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+871,876,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+876,877,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+877,279,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+877,280,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+879,880,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+880,881,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+881,882,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+882,283,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+880,883,Sus scrofa,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+883,286,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+883,884,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+884,287,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+884,288,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+879,885,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+885,289,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+885,886,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+886,887,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+887,888,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+888,290,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+888,291,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+597,889,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+889,890,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+890,891,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+891,892,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+892,294,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+892,295,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+891,893,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+893,894,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+894,296,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+894,297,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+889,895,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+896,897,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+897,898,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+898,300,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+897,899,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+899,302,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+899,303,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+896,304,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+593,381,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+592,382,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+588,386,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+587,387,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+586,388,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+585,389,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+584,390,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+583,391,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+582,392,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+581,393,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+579,395,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+578,396,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+577,397,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+576,398,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+575,399,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+574,400,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+573,401,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+572,402,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+571,403,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+487,570,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+570,569,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+569,568,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+568,567,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+567,566,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+566,565,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+565,564,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+564,563,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+563,562,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+562,561,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+561,560,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+560,559,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+559,558,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+558,557,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+557,556,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+556,555,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+555,554,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+554,553,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+553,552,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+552,551,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+551,550,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+550,549,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+549,548,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+548,547,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+547,546,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+546,545,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+545,544,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+544,543,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+543,542,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+542,541,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+541,540,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+540,539,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+539,538,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+538,537,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+537,536,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+536,535,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+535,534,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+534,533,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+533,532,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+532,531,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+531,530,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+530,529,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+529,528,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+528,527,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+527,526,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+526,525,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+524,523,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+523,522,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+519,518,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+518,517,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+516,515,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+515,514,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+514,513,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+513,512,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+512,511,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+511,510,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+510,509,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+509,508,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+508,507,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+507,506,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+506,505,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+505,504,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+504,503,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+503,502,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+502,501,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+501,500,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+500,499,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+499,498,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+498,497,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+497,496,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+496,495,Sus scrofa,Homo sapiens,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+495,494,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+494,493,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+493,492,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+492,491,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+491,490,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+490,489,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+489,488,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+488,486,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+488,1,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+489,485,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+490,484,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+491,483,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+492,482,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+493,481,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+494,480,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+495,479,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+496,478,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+497,477,Sus scrofa,Felis catus,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+498,476,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+499,475,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+500,474,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+501,473,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+502,472,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+503,471,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+504,470,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+505,469,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+506,468,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+507,467,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+508,466,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+509,465,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+510,464,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+511,463,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+512,462,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+513,461,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+514,460,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+515,459,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+516,458,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+517,457,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+518,456,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+519,455,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+520,454,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+521,453,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+522,452,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+523,451,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+524,450,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+525,449,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+526,448,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+527,447,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+528,446,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+529,445,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+530,444,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+531,443,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+532,442,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+533,441,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+534,440,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+535,439,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+536,438,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+537,437,Sus scrofa,Sus scrofa,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+538,436,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+539,435,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+540,434,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+541,433,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+542,432,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+543,431,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+544,430,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+545,429,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+546,428,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+547,427,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+548,426,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+549,425,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+550,424,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+551,423,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+552,422,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+553,421,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+554,420,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+555,419,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+556,418,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+557,417,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+558,416,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+559,415,Homo sapiens,Unknown,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+560,414,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+561,413,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+562,412,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+563,411,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+564,410,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+565,409,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+566,408,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+567,407,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel
+568,406,Homo sapiens,Sus scrofa,TRUE,0,TRUE,Host Shift,seg7,M2_ion_channel
+569,405,Homo sapiens,Homo sapiens,FALSE,0,TRUE,No Shift,seg7,M2_ion_channel

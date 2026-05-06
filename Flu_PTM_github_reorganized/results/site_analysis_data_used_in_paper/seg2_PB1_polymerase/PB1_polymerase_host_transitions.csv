@@ -1,0 +1,25 @@
+parent_state,child_state,n,transition
+Sus scrofa,Homo sapiens,8,Sus scrofa → Homo sapiens
+Homo sapiens,Sus scrofa,5,Homo sapiens → Sus scrofa
+Homo sapiens,Anatidae,3,Homo sapiens → Anatidae
+Homo sapiens,Gallus gallus,3,Homo sapiens → Gallus gallus
+Anas carolinensis,Meleagris gallopavo,1,Anas carolinensis → Meleagris gallopavo
+Anas cyanoptera,Meleagris gallopavo,1,Anas cyanoptera → Meleagris gallopavo
+Anatidae,Arenaria interpres,1,Anatidae → Arenaria interpres
+Anatidae,Numididae,1,Anatidae → Numididae
+Anatidae,Panthera tigris,1,Anatidae → Panthera tigris
+Anatidae,Sus scrofa,1,Anatidae → Sus scrofa
+Gallus gallus,Anas carolinensis,1,Gallus gallus → Anas carolinensis
+Gallus gallus,Homo sapiens,1,Gallus gallus → Homo sapiens
+Gallus gallus,Mareca americana,1,Gallus gallus → Mareca americana
+Gallus gallus,Numididae sp.,1,Gallus gallus → Numididae sp.
+Gallus gallus,Suricata suricatta,1,Gallus gallus → Suricata suricatta
+Gallus gallus,Sus scrofa,1,Gallus gallus → Sus scrofa
+Homo sapiens,Anas platyrhynchos,1,Homo sapiens → Anas platyrhynchos
+Homo sapiens,Cairina moschata,1,Homo sapiens → Cairina moschata
+Homo sapiens,Parus major,1,Homo sapiens → Parus major
+Homo sapiens,Passer montanus,1,Homo sapiens → Passer montanus
+Meleagris gallopavo,Anatidae,1,Meleagris gallopavo → Anatidae
+Mus musculus,Homo sapiens,1,Mus musculus → Homo sapiens
+Panthera tigris,Homo sapiens,1,Panthera tigris → Homo sapiens
+Panthera tigris,Mustela lutreola,1,Panthera tigris → Mustela lutreola

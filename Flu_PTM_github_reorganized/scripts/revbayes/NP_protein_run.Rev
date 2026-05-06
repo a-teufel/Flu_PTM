@@ -1,0 +1,237 @@
+# Optimized RevBayes script for morphological character analysis
+# Using direct per-site rates for clearer detection of selection
+
+#######################
+# DATA LOADING
+#######################
+# Load the character data
+data = readDiscreteCharacterData("processed_segments_fixed_final/seg5/NP_protein_multistate.txt")
+# Use the provided tree
+tree = readTrees("processed_segments_fixed_final/seg5/NP_protein_tree.nex")[1]
+
+#######################
+# DATA DIMENSIONS
+#######################
+# Get dimensions of the data
+num_taxa <- data.ntaxa()
+num_branches <- 2 * num_taxa - 3
+num_sites <- data.nchar()
+num_states <- data.getStateDescriptions().size()
+
+#######################
+# BRANCH FILTERING
+#######################
+# Access branch lengths from the tree correctly
+# Create a vector to track which branches to include in rate variation
+branch_mask = rep(1, num_branches)
+
+# Set a threshold for "effectively zero" branch lengths
+zero_threshold = 0.00001
+
+# Count valid branches
+valid_branch_count = 0
+
+# Create a vector to hold branch lengths
+branch_lengths = rep(0.0, num_branches)
+
+# Iterate through the tree's nodes to get branch lengths
+# We need to use node methods in RevBayes
+index = 1
+for(i in 1:tree.nnodes()) {
+    if (!tree.isRoot(i)) {  # Skip the root as it has no branch
+        branch_lengths[index] = tree.branchLength(i)
+        
+        # Apply mask based on threshold
+        if(branch_lengths[index] < zero_threshold) {
+            branch_mask[index] = 0
+        } else {
+            valid_branch_count += 1
+        }
+        
+        index += 1
+    }
+}
+
+# Print summary of branch filtering
+print("Total branches: " + num_branches)
+print("Branches with non-zero lengths: " + valid_branch_count)
+print("Branches with effectively zero length: " + (num_branches - valid_branch_count))
+
+#######################
+# MOVES AND MONITORS
+#######################
+# Initialize moves and monitors
+moves = VectorMoves()
+monitors = VectorMonitors()
+
+#######################
+# STATE FREQUENCIES
+#######################
+# Prior on state frequencies
+pi ~ dnDirichlet(rep(1.0, num_states))
+moves.append(mvSimplexElementScale(pi, alpha=1, tune=true, weight=1.5))
+moves.append(mvBetaSimplex(pi, tune=true, weight=1.0))
+
+#######################
+# RATE MATRIX
+#######################
+# Exchangeability rates
+n_rates <- num_states * (num_states - 1) / 2
+er ~ dnDirichlet(rep(0.5, n_rates))
+moves.append(mvSimplexElementScale(er, alpha=1, tune=true, weight=1.5))
+moves.append(mvBetaSimplex(er, tune=true, weight=1.0))
+
+# Use the GTR model
+Q := fnGTR(er, pi)
+
+#######################
+# SITE RATE VARIATION - DIRECT APPROACH
+#######################
+# Create a direct rate parameter for each site
+# This assigns a unique rate to each morphological character
+site_rates ~ dnDirichlet(rep(1.0, num_sites))
+
+# Add moves to efficiently sample site rates
+moves.append(mvSimplexElementScale(site_rates, alpha=10, tune=true, weight=2.0))
+moves.append(mvBetaSimplex(site_rates, tune=true, weight=2.0))
+
+#######################
+# BRANCH RATE VARIATION
+#######################
+# Only model rate variation for non-zero length branches
+if (valid_branch_count > 0) {
+    # For the branches with non-zero lengths
+    branch_rates ~ dnDirichlet(rep(1.0, valid_branch_count))
+    moves.append(mvSimplexElementScale(branch_rates, alpha=10, tune=true, weight=1.5))
+    moves.append(mvBetaSimplex(branch_rates, tune=true, weight=2.0))
+    
+    # Create a full branch rates vector initialized with 0.0
+    full_branch_rates = rep(0.0, num_branches)
+    
+    # Map the estimated rates to non-zero branches
+    index = 1
+    for(i in 1:num_branches) {
+        if(branch_mask[i] == 1) {
+            full_branch_rates[i] := branch_rates[index]
+            index += 1
+        }
+    }
+} else {
+    # If all branches have zero length (unlikely but safe)
+    full_branch_rates = rep(0.0, num_branches)
+}
+
+#######################
+# PHYLOGENETIC MODEL
+#######################
+# Create phylogenetic model
+seq ~ dnPhyloCTMC(tree=tree, Q=Q, siteRates=site_rates, branchRates=full_branch_rates, type="Standard", coding="all")
+seq.clamp(data)
+
+#######################
+# MODEL OBJECT
+#######################
+# Create model object
+mymodel = model(seq)
+
+#######################
+# MONITORS
+#######################
+# Main model log
+monitors.append(mnModel(filename="processed_segments_fixed_final/seg5/NP_protein_model.log", printgen=50))
+
+# Site rates log - THIS WILL GIVE YOU DIRECT SITE-SPECIFIC RATES
+monitors.append(mnFile(filename="processed_segments_fixed_final/seg5/NP_protein_site_rates.log", printgen=50, site_rates))
+
+# Branch rates log (only for non-zero branches)
+if (valid_branch_count > 0) {
+    monitors.append(mnFile(filename="processed_segments_fixed_final/seg5/NP_protein_branch_rates.log", printgen=50, full_branch_rates))
+}
+
+# Create a simple screen monitor
+monitors.append(mnScreen(printgen=100))
+
+#######################
+# MCMC SETTINGS
+#######################
+# Use adaptive MCMC to improve mixing
+moves.append(mvAVMVN(weight=5.0))
+
+#######################
+# MCMC EXECUTION
+#######################
+# Print status message
+print("\nStarting analysis with " + valid_branch_count + " variable branches out of " + num_branches + " total branches")
+print("Using direct site-specific rates for all " + num_sites + " sites")
+print("Burnin phase beginning - you will see screen output during this phase\n")
+
+# Run MCMC with burnin included in the main run (so monitoring works)
+# We'll manually discard burnin samples during analysis
+heat_chains = mcmcmc(mymodel, monitors, moves, nchains=4, 
+                    heat=v(1.0, 0.7, 0.4, 0.1),
+                    moveschedule="random")
+heat_chains.run(generations=505000)
+#heat_chains.run(generations=100)
+
+#######################
+# ANALYSIS OF RESULTS
+#######################
+# Load and analyze the trace
+trace = readTrace("processed_segments_fixed_final/seg5/NP_protein_model.log")
+#trace.setBurnin(5000)  # Remove the specified burnin
+#trace.setBurnin(50)  # Remove the specified burnin
+
+#trace.summarize()
+
+for (i in 1:trace.size()) {
+    print("Summary for trace " + i + ":")
+    trace[i].setBurnin(5000)
+    trace[i].summarize()
+}
+
+# Extract site rates for selection analysis
+siteRateTrace = readTrace("processed_segments_fixed_final/seg5/NP_protein_site_rates.log")
+#siteRateTrace.setBurnin(5000)
+#siteRateTrace.setBurnin(500)
+
+mean_rates = rep(0.0, num_sites)
+for(i in 1:num_sites) {
+    mean_rates[i] = mean(siteRateTrace[i + 4].getValues())
+}
+
+# Calculate average rate across all sites
+total_rate = 0.0
+for(i in 1:num_sites) {
+    total_rate += mean_rates[i]
+}
+avg_rate = total_rate / num_sites
+
+# Calculate standard deviation of rates
+sum_squared_diff = 0.0
+for(i in 1:num_sites) {
+    sum_squared_diff += (mean_rates[i] - avg_rate)^2
+}
+stdev_rate = sqrt(sum_squared_diff / num_sites)
+
+# Print selection results
+print("\n----- SITE SELECTION ANALYSIS -----")
+print("Average site rate: " + avg_rate)
+print("Standard deviation: " + stdev_rate)
+print("\nSites potentially under positive selection (rate > avg + 2*stdev):")
+for(i in 1:num_sites) {
+    if(mean_rates[i] > (avg_rate + 2*stdev_rate)) {
+        print("Site " + i + ": rate = " + mean_rates[i] + " (high)")
+    }
+}
+
+print("\nSites potentially under purifying selection (rate < avg - 1*stdev):")
+for(i in 1:num_sites) {
+    if(mean_rates[i] < (avg_rate - stdev_rate)) {
+        print("Site " + i + ": rate = " + mean_rates[i] + " (low)")
+    }
+}
+
+print("\nAnalysis complete. Results are in the 'processed_segments_fixed_final\seg5' folder.")
+print("This script directly estimated site-specific rates for all " + num_sites + " sites.")
+print("Sites with high rates are candidates for positive selection.")
+print("Sites with low rates are candidates for purifying selection.")

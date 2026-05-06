@@ -1,0 +1,9 @@
+parent_state,child_state,n,transition
+Homo sapiens,Gallus gallus,2,Homo sapiens → Gallus gallus
+Aves,Phasianinae,1,Aves → Phasianinae
+Aves,Sus scrofa,1,Aves → Sus scrofa
+Gallus gallus,Meleagris gallopavo,1,Gallus gallus → Meleagris gallopavo
+Homo sapiens,Sus scrofa,1,Homo sapiens → Sus scrofa
+Panthera tigris,Anas platyrhynchos,1,Panthera tigris → Anas platyrhynchos
+Phasianinae,Panthera tigris,1,Phasianinae → Panthera tigris
+Sus scrofa,Homo sapiens,1,Sus scrofa → Homo sapiens

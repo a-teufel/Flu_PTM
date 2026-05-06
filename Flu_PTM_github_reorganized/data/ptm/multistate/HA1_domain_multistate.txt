@@ -1,0 +1,34 @@
+#NEXUS
+BEGIN DATA;
+	DIMENSIONS NTAX=4 NCHAR=21;
+	FORMAT DATATYPE=STANDARD MISSING=? GAP=- SYMBOLS="KNOQRSTXY";
+	CHARSTATELABELS
+		1 pos_2_cons_2
+		,2 pos_10_cons_10
+		,3 pos_11_cons_11
+		,4 pos_12_cons_12
+		,5 pos_23_cons_23
+		,6 pos_28_cons_28
+		,7 pos_87_cons_87
+		,8 pos_89_cons_89
+		,9 pos_98_cons_98
+		,10 pos_110_cons_110
+		,11 pos_127_cons_127
+		,12 pos_168_cons_168
+		,13 pos_213_cons_213
+		,14 pos_215_cons_215
+		,15 pos_239_cons_239
+		,16 pos_261_cons_261
+		,17 pos_264_cons_264
+		,18 pos_271_cons_271
+		,19 pos_278_cons_278
+		,20 pos_289_cons_289
+		,21 pos_323_cons_323
+	;
+MATRIX
+YP_009121768 X N N X N X N O X S X X X X X X X X N N X
+YP_163735 X N N X N X X X X S N X T X X R X N X N X
+YP_529486 Q N N X N X X X Y X X N X X X X X X X N T
+YP_009118482 K X X N X N X X X X X X X S N X S X X X X
+;
+END;

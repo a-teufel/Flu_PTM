@@ -1,0 +1,14 @@
+protein,fast_sites,slow_sites,total_sites_classified,fast_site_idx,slow_site_idx
+PB2_polymerase,3,0,3,"4,20,38",
+PB1-F2_protein,0,3,3,,"7,8,12"
+PB1_polymerase,0,5,5,,"1,8,13,14,23"
+PA_polymerase,2,0,2,"13,25",
+PA-X_protein,0,3,3,,"2,4,11"
+HA_full,2,4,6,"36,77","9,24,51,73"
+NP_protein,2,0,2,"13,15",
+NA_neuraminidase,2,0,2,"33,53",
+M1_matrix_protein,0,1,1,,6
+M2_ion_channel,0,2,2,,"4,8"
+NEP_protein,0,0,0,,
+NS1_protein,0,5,5,,"5,13,15,17,18"
+NS2_protein,0,0,0,,

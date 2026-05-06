@@ -1,0 +1,42 @@
+host_shift_type,n
+Homo sapiens → Sus scrofa,15
+Sus scrofa → Homo sapiens,8
+Gallus gallus → Homo sapiens,7
+Homo sapiens → Gallus gallus,3
+Gallus gallus → Anatidae,2
+Meleagris gallopavo → Gallus gallus,2
+Accipitriformes → Anatidae,1
+Accipitriformes → Arenaria interpres,1
+Anas carolinensis → Mareca americana,1
+Anas platyrhynchos → Mustela lutreola,1
+Anas platyrhynchos → Panthera tigris,1
+Anas platyrhynchos → Parus major,1
+Anatidae → Columbidae,1
+Anatidae → Gallus gallus,1
+Anatidae → Homo sapiens,1
+Anatidae → Numididae,1
+Anatidae → Phasianinae,1
+Anatidae → Sus scrofa,1
+Gallus gallus → Anas platyrhynchos,1
+Gallus gallus → Numididae sp.,1
+Gallus gallus → Sus scrofa,1
+Gallus gallus → Tachybaptus ruficollis,1
+Homo sapiens → Anatidae,1
+Homo sapiens → Meleagris gallopavo,1
+Homo sapiens → Passer montanus,1
+Meleagris gallopavo → Anas cyanoptera,1
+Meleagris gallopavo → Anatidae,1
+Meleagris gallopavo → Mustela putorius furo,1
+Meleagris gallopavo → Spatula clypeata,1
+Meleagris gallopavo → Spatula discors,1
+Meleagris gallopavo → Sus scrofa,1
+Mus musculus → Homo sapiens,1
+Panthera tigris → Gallus gallus,1
+Phasianinae → Mustela lutreola,1
+Phasianinae → Panthera tigris,1
+Spatula clypeata → Anas carolinensis,1
+Suricata suricatta → Gallus gallus,1
+Sus scrofa → Aves,1
+Sus scrofa → Meleagris gallopavo,1
+Sus scrofa → Mus musculus,1
+Sus scrofa → Spatula clypeata,1

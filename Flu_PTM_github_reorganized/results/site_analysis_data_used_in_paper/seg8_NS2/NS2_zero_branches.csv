@@ -1,0 +1,69 @@
+parent,child,parent_state,child_state,host_switch,rate,zero_branch,group,segment,protein
+58,113,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+113,67,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+67,66,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+66,62,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+59,57,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+59,1,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+60,56,Mus musculus,Mus musculus,FALSE,0,TRUE,No Shift,seg8,NS2
+61,112,Mus musculus,Mus musculus,FALSE,0,TRUE,No Shift,seg8,NS2
+112,54,Mus musculus,Mus musculus,FALSE,0,TRUE,No Shift,seg8,NS2
+112,55,Mus musculus,Homo sapiens,TRUE,0,TRUE,Host Shift,seg8,NS2
+63,64,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+64,2,Unknown,Sus scrofa,FALSE,0,TRUE,No Shift,seg8,NS2
+64,65,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+63,5,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+66,68,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+68,69,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+69,70,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+70,71,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+71,72,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+73,74,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+75,76,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+77,78,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+81,10,Unknown,Anatidae,FALSE,0,TRUE,No Shift,seg8,NS2
+81,82,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+82,83,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+83,11,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+83,12,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg8,NS2
+79,14,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+78,84,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+84,85,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+85,86,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+86,87,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+87,88,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+90,15,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg8,NS2
+90,16,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg8,NS2
+87,91,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+91,92,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+92,93,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+93,19,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+92,21,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+84,94,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+94,95,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+98,99,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+100,25,Unknown,Homo sapiens,FALSE,0,TRUE,No Shift,seg8,NS2
+100,26,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+99,27,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+98,28,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+77,101,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+101,102,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+103,33,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+102,35,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+101,36,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+76,37,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+75,38,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+74,39,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+73,104,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+104,105,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+107,43,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+105,44,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+72,45,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+108,46,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+108,47,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+70,109,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+111,48,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg8,NS2
+111,49,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg8,NS2
+110,50,Gallus gallus,Gallus gallus,FALSE,0,TRUE,No Shift,seg8,NS2
+68,53,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2
+113,7,Unknown,Unknown,FALSE,0,TRUE,No Shift,seg8,NS2

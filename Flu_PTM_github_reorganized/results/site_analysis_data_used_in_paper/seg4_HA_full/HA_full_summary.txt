@@ -1,0 +1,49 @@
+=============================================
+seg4 - HA_full PROTEIN EVOLUTIONARY ANALYSIS
+=============================================
+
+ANALYSIS OVERVIEW:
+- Sites analyzed: 80 
+- Non-zero branches: 716 
+- Zero branches excluded: 898 
+- Host shifts identified: 56  ( 7.8 %)
+- Fast-evolving sites: 2
+- Slow-evolving sites: 4
+
+HOST SHIFT SUMMARY:
+  * Homo sapiens → Sus scrofa: 10 occurrences
+  * Gallus gallus → Homo sapiens: 6 occurrences
+  * Anatidae → Gallus gallus: 4 occurrences
+  * Homo sapiens → Gallus gallus: 3 occurrences
+  * Sus scrofa → Homo sapiens: 3 occurrences
+
+BRANCH RATE ANALYSIS:
+- Host shift branches (n = 56 ): median rate = 0.001239633 
+- Non-host shift branches (n = 660 ): median rate = 0.0012011 
+- Wilcoxon test p-value: 0.2167749 
+- KS test p-value: 0.2932678 
+
+SITE RATE ANALYSIS:
+- Mean site rate: 0.0125 
+- SD: 0.01725131 
+- Median site rate: 0.01022333 
+- MAD: 0.0003747061 
+- Coefficient of variation: 138 %
+- Range: 0.008907378 to 0.1602318 
+
+FILES GENERATED:
+- Site rate plot: site_specific_analysis_results/seg4_HA_full/HA_full_site_rates.pdf 
+- Quartile plot: site_specific_analysis_results/seg4_HA_full/HA_full_rate_quartiles.pdf 
+- Site significance plot: site_specific_analysis_results/seg4_HA_full/HA_full_significant_sites.pdf 
+- Branch rate density plot: site_specific_analysis_results/seg4_HA_full/HA_full_branch_rates.pdf 
+- Branch rate violin plot: site_specific_analysis_results/seg4_HA_full/HA_full_branch_rates_violin.pdf 
+- Host transitions table: site_specific_analysis_results/seg4_HA_full/HA_full_host_transitions.csv 
+- Zero branch list: site_specific_analysis_results/seg4_HA_full/HA_full_zero_branches.csv 
+- Fast-evolving sites table: site_specific_analysis_results/seg4_HA_full/HA_full_fast_sites.csv 
+- Slow-evolving sites table: site_specific_analysis_results/seg4_HA_full/HA_full_slow_sites.csv 
+
+INTERPRETATION:
+This analysis has identified sites that evolve at significantly different rates
+compared to the protein average. Fast-evolving sites may be under positive
+selection or relaxed constraints, while slow-evolving sites typically represent
+functionally or structurally critical regions under purifying selection.

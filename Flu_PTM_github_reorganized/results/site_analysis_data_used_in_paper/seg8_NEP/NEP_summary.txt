@@ -1,0 +1,41 @@
+=============================================
+seg8 - NEP PROTEIN EVOLUTIONARY ANALYSIS
+=============================================
+
+ANALYSIS OVERVIEW:
+- Sites analyzed: 2 
+- Non-zero branches: 138 
+- Zero branches excluded: 630 
+- Host shifts identified: 37  ( 26.8 %)
+- Fast-evolving sites: 0
+- Slow-evolving sites: 0
+
+HOST SHIFT SUMMARY:
+  * Homo sapiens → Sus scrofa: 24 occurrences
+  * Homo sapiens → Gallus gallus: 5 occurrences
+  * Homo sapiens → Anatidae: 2 occurrences
+  * Homo sapiens → Anas platyrhynchos: 1 occurrences
+  * Homo sapiens → Aves: 1 occurrences
+
+BRANCH RATE ANALYSIS:
+- Host shift branches (n = 37 ): median rate = 0.006888259 
+- Non-host shift branches (n = 101 ): median rate = 0.00681232 
+- Wilcoxon test p-value: 0.7767332 
+- KS test p-value: 0.6552817 
+
+SITE RATE ANALYSIS:
+- Mean site rate: 0.5 
+- SD: 0.007266206 
+- Median site rate: 0.5 
+- MAD: 0.007617575 
+- Coefficient of variation: 1.5 %
+- Range: 0.494862 to 0.505138 
+
+FILES GENERATED:
+- Site rate plot: site_specific_analysis_results/seg8_NEP/NEP_site_rates.pdf 
+- Quartile plot: site_specific_analysis_results/seg8_NEP/NEP_rate_quartiles.pdf 
+- Site significance plot: site_specific_analysis_results/seg8_NEP/NEP_significant_sites.pdf 
+- Branch rate density plot: site_specific_analysis_results/seg8_NEP/NEP_branch_rates.pdf 
+- Branch rate violin plot: site_specific_analysis_results/seg8_NEP/NEP_branch_rates_violin.pdf 
+- Host transitions table: site_specific_analysis_results/seg8_NEP/NEP_host_transitions.csv 
+- Zero branch list: site_specific_analysis_results/seg8_NEP/NEP_zero_branches.csv 

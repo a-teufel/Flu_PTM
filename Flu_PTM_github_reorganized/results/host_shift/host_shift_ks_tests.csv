@@ -1,0 +1,947 @@
+comparison,p_value
+Homo sapiens → Sus scrofa vs Spatula clypeata → Anas carolinensis,0.24292442526909125
+Homo sapiens → Sus scrofa vs Mus musculus → Homo sapiens,0.05262234026114074
+Homo sapiens → Sus scrofa vs Meleagris gallopavo → Gallus gallus,0.8437836283219161
+Homo sapiens → Sus scrofa vs Meleagris gallopavo → Anatidae,0.08352787362840128
+Homo sapiens → Sus scrofa vs Anatidae → Numididae,0.22502956954586056
+Homo sapiens → Sus scrofa vs Gallus gallus → Numididae sp.,0.2441867389875847
+Homo sapiens → Sus scrofa vs Homo sapiens → Gallus gallus,0.45621135899128706
+Homo sapiens → Sus scrofa vs Gallus gallus → Anas platyrhynchos,0.004927195786391225
+Homo sapiens → Sus scrofa vs Anas platyrhynchos → Parus major,0.9133318791567261
+Homo sapiens → Sus scrofa vs Gallus gallus → Homo sapiens,0.8795652794789093
+Homo sapiens → Sus scrofa vs Homo sapiens → Passer montanus,0.9273614732582998
+Homo sapiens → Sus scrofa vs Homo sapiens → Anatidae,0.5405092975433634
+Homo sapiens → Sus scrofa vs Phasianinae → Mustela lutreola,0.07048781629410569
+Homo sapiens → Sus scrofa vs Phasianinae → Panthera tigris,0.06972521290204645
+Homo sapiens → Sus scrofa vs Gallus gallus → Anatidae,0.10358817890745925
+Homo sapiens → Sus scrofa vs Anatidae → Sus scrofa,0.030233215637070474
+Homo sapiens → Sus scrofa vs Anatidae → Homo sapiens,0.18131623523865842
+Homo sapiens → Sus scrofa vs Panthera tigris → Gallus gallus,0.2423258521558706
+Homo sapiens → Sus scrofa vs Anatidae → Columbidae,0.07048781629410569
+Homo sapiens → Sus scrofa vs Gallus gallus → Sus scrofa,0.3464094331622618
+Homo sapiens → Sus scrofa vs Anatidae → Gallus gallus,0.09169700917474743
+Homo sapiens → Sus scrofa vs Sus scrofa → Homo sapiens,0.4542719032904783
+Homo sapiens → Sus scrofa vs Homo sapiens → Meleagris gallopavo,0.995919358116902
+Homo sapiens → Sus scrofa vs Gallus gallus → Meleagris gallopavo,0.3124333012450808
+Homo sapiens → Sus scrofa vs Meleagris gallopavo → Numididae,0.6731137508069687
+Homo sapiens → Sus scrofa vs Mareca americana → Anas carolinensis,0.5724661904718513
+Homo sapiens → Sus scrofa vs Sus scrofa → Gallus gallus,0.03506792576481432
+Homo sapiens → Sus scrofa vs Cygnus olor → Anatidae,0.015447746762434173
+Homo sapiens → Sus scrofa vs Panthera tigris → Mustela lutreola,0.3403906256361065
+Homo sapiens → Sus scrofa vs Anas platyrhynchos → Gallus gallus,0.18131623523865842
+Homo sapiens → Sus scrofa vs Gallus gallus → Suricata suricatta,0.8152516146830465
+Homo sapiens → Sus scrofa vs Homo sapiens → Anas platyrhynchos,0.583683843279836
+Homo sapiens → Sus scrofa vs Mustela lutreola → Panthera tigris,0.24804377256707005
+Homo sapiens → Sus scrofa vs Homo sapiens → Mustela putorius furo,0.999022328107252
+Homo sapiens → Sus scrofa vs Gallus gallus → Spatula discors,0.6706255802357017
+Homo sapiens → Sus scrofa vs Homo sapiens → Mus musculus,0.8690600472760439
+Homo sapiens → Sus scrofa vs Anas platyrhynchos → Cairina moschata,0.6740329712085149
+Homo sapiens → Sus scrofa vs Gallus gallus → Aves,0.07268079039524186
+Homo sapiens → Sus scrofa vs Aves → Gallus gallus,0.667791247989033
+Homo sapiens → Sus scrofa vs Gallus gallus → Columbidae,0.7225043610351359
+Homo sapiens → Sus scrofa vs Meleagris gallopavo → Anas carolinensis,0.6694515172382094
+Homo sapiens → Sus scrofa vs Aves → Anatidae,0.9097916276947112
+Homo sapiens → Sus scrofa vs Aves → Spatula clypeata,0.5258083628072319
+Spatula clypeata → Anas carolinensis vs Mus musculus → Homo sapiens,0.7142857142857143
+Spatula clypeata → Anas carolinensis vs Meleagris gallopavo → Gallus gallus,0.8095238095238095
+Spatula clypeata → Anas carolinensis vs Meleagris gallopavo → Anatidae,0.8741258741258741
+Spatula clypeata → Anas carolinensis vs Anatidae → Numididae,0.5714285714285714
+Spatula clypeata → Anas carolinensis vs Gallus gallus → Numididae sp.,0.994005994005994
+Spatula clypeata → Anas carolinensis vs Homo sapiens → Gallus gallus,0.5070383520938783
+Spatula clypeata → Anas carolinensis vs Gallus gallus → Anas platyrhynchos,0.0913312693498452
+Spatula clypeata → Anas carolinensis vs Anas platyrhynchos → Parus major,0.8095238095238095
+Spatula clypeata → Anas carolinensis vs Gallus gallus → Homo sapiens,0.32447709220256016
+Spatula clypeata → Anas carolinensis vs Homo sapiens → Passer montanus,0.919080919080919
+Spatula clypeata → Anas carolinensis vs Homo sapiens → Anatidae,0.6481246457527292
+Spatula clypeata → Anas carolinensis vs Phasianinae → Mustela lutreola,1
+Spatula clypeata → Anas carolinensis vs Phasianinae → Panthera tigris,0.857142857142857
+Spatula clypeata → Anas carolinensis vs Gallus gallus → Anatidae,0.3677887577318318
+Spatula clypeata → Anas carolinensis vs Anatidae → Sus scrofa,0.9090909090909091
+Spatula clypeata → Anas carolinensis vs Anatidae → Homo sapiens,1
+Spatula clypeata → Anas carolinensis vs Panthera tigris → Gallus gallus,1
+Spatula clypeata → Anas carolinensis vs Anatidae → Columbidae,1
+Spatula clypeata → Anas carolinensis vs Gallus gallus → Sus scrofa,0.8831168831168829
+Spatula clypeata → Anas carolinensis vs Anatidae → Gallus gallus,0.8899208806329549
+Spatula clypeata → Anas carolinensis vs Sus scrofa → Homo sapiens,0.44506414036867703
+Spatula clypeata → Anas carolinensis vs Homo sapiens → Meleagris gallopavo,0.7147435897435898
+Spatula clypeata → Anas carolinensis vs Gallus gallus → Meleagris gallopavo,0.7662337662337663
+Spatula clypeata → Anas carolinensis vs Meleagris gallopavo → Numididae,0.9653679653679654
+Spatula clypeata → Anas carolinensis vs Mareca americana → Anas carolinensis,0.9813519813519813
+Spatula clypeata → Anas carolinensis vs Sus scrofa → Gallus gallus,0.8441558441558441
+Spatula clypeata → Anas carolinensis vs Cygnus olor → Anatidae,0.7460317460317459
+Spatula clypeata → Anas carolinensis vs Panthera tigris → Mustela lutreola,0.7142857142857142
+Spatula clypeata → Anas carolinensis vs Anas platyrhynchos → Gallus gallus,1
+Spatula clypeata → Anas carolinensis vs Gallus gallus → Suricata suricatta,0.948051948051948
+Spatula clypeata → Anas carolinensis vs Homo sapiens → Anas platyrhynchos,0.844155844155844
+Spatula clypeata → Anas carolinensis vs Mustela lutreola → Panthera tigris,0.7662337662337663
+Spatula clypeata → Anas carolinensis vs Homo sapiens → Mustela putorius furo,0.5534465534465535
+Spatula clypeata → Anas carolinensis vs Gallus gallus → Spatula discors,0.873015873015873
+Spatula clypeata → Anas carolinensis vs Homo sapiens → Mus musculus,0.7727272727272727
+Spatula clypeata → Anas carolinensis vs Anas platyrhynchos → Cairina moschata,0.8095238095238095
+Spatula clypeata → Anas carolinensis vs Gallus gallus → Aves,0.14285714285714285
+Spatula clypeata → Anas carolinensis vs Aves → Gallus gallus,0.1926406926406926
+Spatula clypeata → Anas carolinensis vs Gallus gallus → Columbidae,0.18614718614718614
+Spatula clypeata → Anas carolinensis vs Meleagris gallopavo → Anas carolinensis,0.2857142857142857
+Spatula clypeata → Anas carolinensis vs Aves → Anatidae,0.19047619047619047
+Spatula clypeata → Anas carolinensis vs Aves → Spatula clypeata,0.19047619047619047
+Mus musculus → Homo sapiens vs Meleagris gallopavo → Gallus gallus,0.4206349206349206
+Mus musculus → Homo sapiens vs Meleagris gallopavo → Anatidae,0.7636363636363634
+Mus musculus → Homo sapiens vs Anatidae → Numididae,1
+Mus musculus → Homo sapiens vs Gallus gallus → Numididae sp.,0.7860139860139861
+Mus musculus → Homo sapiens vs Homo sapiens → Gallus gallus,0.1539872186718533
+Mus musculus → Homo sapiens vs Gallus gallus → Anas platyrhynchos,0.010319917440660475
+Mus musculus → Homo sapiens vs Anas platyrhynchos → Parus major,0.07936507936507936
+Mus musculus → Homo sapiens vs Gallus gallus → Homo sapiens,0.09541677834360762
+Mus musculus → Homo sapiens vs Homo sapiens → Passer montanus,0.3426573426573427
+Mus musculus → Homo sapiens vs Homo sapiens → Anatidae,0.14127997239951698
+Mus musculus → Homo sapiens vs Phasianinae → Mustela lutreola,1
+Mus musculus → Homo sapiens vs Phasianinae → Panthera tigris,1
+Mus musculus → Homo sapiens vs Gallus gallus → Anatidae,0.03042521994134897
+Mus musculus → Homo sapiens vs Anatidae → Sus scrofa,0.8909090909090909
+Mus musculus → Homo sapiens vs Anatidae → Homo sapiens,0.9365079365079365
+Mus musculus → Homo sapiens vs Panthera tigris → Gallus gallus,0.7142857142857143
+Mus musculus → Homo sapiens vs Anatidae → Columbidae,1
+Mus musculus → Homo sapiens vs Gallus gallus → Sus scrofa,0.3426573426573427
+Mus musculus → Homo sapiens vs Anatidae → Gallus gallus,0.25163398692810457
+Mus musculus → Homo sapiens vs Sus scrofa → Homo sapiens,0.050205666953035064
+Mus musculus → Homo sapiens vs Homo sapiens → Meleagris gallopavo,0.2461538461538461
+Mus musculus → Homo sapiens vs Gallus gallus → Meleagris gallopavo,0.18095238095238092
+Mus musculus → Homo sapiens vs Meleagris gallopavo → Numididae,0.5238095238095238
+Mus musculus → Homo sapiens vs Mareca americana → Anas carolinensis,0.8363636363636364
+Mus musculus → Homo sapiens vs Sus scrofa → Gallus gallus,0.6142857142857142
+Mus musculus → Homo sapiens vs Cygnus olor → Anatidae,1
+Mus musculus → Homo sapiens vs Panthera tigris → Mustela lutreola,0.2857142857142857
+Mus musculus → Homo sapiens vs Anas platyrhynchos → Gallus gallus,0.8095238095238094
+Mus musculus → Homo sapiens vs Gallus gallus → Suricata suricatta,0.4904761904761905
+Mus musculus → Homo sapiens vs Homo sapiens → Anas platyrhynchos,0.4285714285714286
+Mus musculus → Homo sapiens vs Mustela lutreola → Panthera tigris,0.45714285714285713
+Mus musculus → Homo sapiens vs Homo sapiens → Mustela putorius furo,0.2517482517482517
+Mus musculus → Homo sapiens vs Gallus gallus → Spatula discors,0.7714285714285714
+Mus musculus → Homo sapiens vs Homo sapiens → Mus musculus,0.3090909090909091
+Mus musculus → Homo sapiens vs Anas platyrhynchos → Cairina moschata,0.7714285714285714
+Mus musculus → Homo sapiens vs Gallus gallus → Aves,0.047619047619047616
+Mus musculus → Homo sapiens vs Aves → Gallus gallus,0.047619047619047616
+Mus musculus → Homo sapiens vs Gallus gallus → Columbidae,0.09523809523809523
+Mus musculus → Homo sapiens vs Meleagris gallopavo → Anas carolinensis,0.14285714285714285
+Mus musculus → Homo sapiens vs Aves → Anatidae,0.22857142857142854
+Mus musculus → Homo sapiens vs Aves → Spatula clypeata,0.22857142857142854
+Meleagris gallopavo → Gallus gallus vs Meleagris gallopavo → Anatidae,0.6146076146076146
+Meleagris gallopavo → Gallus gallus vs Anatidae → Numididae,0.5873015873015872
+Meleagris gallopavo → Gallus gallus vs Gallus gallus → Numididae sp.,0.6898101898101899
+Meleagris gallopavo → Gallus gallus vs Homo sapiens → Gallus gallus,0.79287555981799
+Meleagris gallopavo → Gallus gallus vs Gallus gallus → Anas platyrhynchos,0.24664602683178533
+Meleagris gallopavo → Gallus gallus vs Anas platyrhynchos → Parus major,0.7142857142857143
+Meleagris gallopavo → Gallus gallus vs Gallus gallus → Homo sapiens,0.9302471021132392
+Meleagris gallopavo → Gallus gallus vs Homo sapiens → Passer montanus,0.9920079920079918
+Meleagris gallopavo → Gallus gallus vs Homo sapiens → Anatidae,0.7207299342024199
+Meleagris gallopavo → Gallus gallus vs Phasianinae → Mustela lutreola,0.40476190476190477
+Meleagris gallopavo → Gallus gallus vs Phasianinae → Panthera tigris,0.47619047619047616
+Meleagris gallopavo → Gallus gallus vs Gallus gallus → Anatidae,0.7836812144212522
+Meleagris gallopavo → Gallus gallus vs Anatidae → Sus scrofa,0.2222222222222222
+Meleagris gallopavo → Gallus gallus vs Anatidae → Homo sapiens,0.5714285714285714
+Meleagris gallopavo → Gallus gallus vs Panthera tigris → Gallus gallus,0.7142857142857142
+Meleagris gallopavo → Gallus gallus vs Anatidae → Columbidae,0.47619047619047616
+Meleagris gallopavo → Gallus gallus vs Gallus gallus → Sus scrofa,0.994005994005994
+Meleagris gallopavo → Gallus gallus vs Anatidae → Gallus gallus,0.35070519435844505
+Meleagris gallopavo → Gallus gallus vs Sus scrofa → Homo sapiens,0.8698244606248693
+Meleagris gallopavo → Gallus gallus vs Homo sapiens → Meleagris gallopavo,0.9835164835164835
+Meleagris gallopavo → Gallus gallus vs Gallus gallus → Meleagris gallopavo,0.8181818181818181
+Meleagris gallopavo → Gallus gallus vs Meleagris gallopavo → Numididae,0.7012987012987013
+Meleagris gallopavo → Gallus gallus vs Mareca americana → Anas carolinensis,0.5710955710955711
+Meleagris gallopavo → Gallus gallus vs Sus scrofa → Gallus gallus,0.46753246753246747
+Meleagris gallopavo → Gallus gallus vs Cygnus olor → Anatidae,0.11904761904761904
+Meleagris gallopavo → Gallus gallus vs Panthera tigris → Mustela lutreola,0.5714285714285714
+Meleagris gallopavo → Gallus gallus vs Anas platyrhynchos → Gallus gallus,0.8095238095238095
+Meleagris gallopavo → Gallus gallus vs Gallus gallus → Suricata suricatta,0.8181818181818181
+Meleagris gallopavo → Gallus gallus vs Homo sapiens → Anas platyrhynchos,0.7056277056277056
+Meleagris gallopavo → Gallus gallus vs Mustela lutreola → Panthera tigris,0.3571428571428571
+Meleagris gallopavo → Gallus gallus vs Homo sapiens → Mustela putorius furo,0.9460539460539461
+Meleagris gallopavo → Gallus gallus vs Gallus gallus → Spatula discors,0.9841269841269841
+Meleagris gallopavo → Gallus gallus vs Homo sapiens → Mus musculus,0.8636363636363635
+Meleagris gallopavo → Gallus gallus vs Anas platyrhynchos → Cairina moschata,0.9682539682539683
+Meleagris gallopavo → Gallus gallus vs Gallus gallus → Aves,0.4199134199134199
+Meleagris gallopavo → Gallus gallus vs Aves → Gallus gallus,0.5064935064935064
+Meleagris gallopavo → Gallus gallus vs Gallus gallus → Columbidae,0.5519480519480519
+Meleagris gallopavo → Gallus gallus vs Meleagris gallopavo → Anas carolinensis,0.7142857142857143
+Meleagris gallopavo → Gallus gallus vs Aves → Anatidae,0.7460317460317459
+Meleagris gallopavo → Gallus gallus vs Aves → Spatula clypeata,0.7460317460317459
+Meleagris gallopavo → Anatidae vs Anatidae → Numididae,0.9959595959595959
+Meleagris gallopavo → Anatidae vs Gallus gallus → Numididae sp.,1
+Meleagris gallopavo → Anatidae vs Homo sapiens → Gallus gallus,0.4620361267440653
+Meleagris gallopavo → Anatidae vs Gallus gallus → Anas platyrhynchos,0.02158208821285951
+Meleagris gallopavo → Anatidae vs Anas platyrhynchos → Parus major,0.2991452991452991
+Meleagris gallopavo → Anatidae vs Gallus gallus → Homo sapiens,0.1401504789652463
+Meleagris gallopavo → Anatidae vs Homo sapiens → Passer montanus,0.7618264088852325
+Meleagris gallopavo → Anatidae vs Homo sapiens → Anatidae,0.5348252431544153
+Meleagris gallopavo → Anatidae vs Phasianinae → Mustela lutreola,0.9919191919191919
+Meleagris gallopavo → Anatidae vs Phasianinae → Panthera tigris,0.6606060606060605
+Meleagris gallopavo → Anatidae vs Gallus gallus → Anatidae,0.06204053894556241
+Meleagris gallopavo → Anatidae vs Anatidae → Sus scrofa,0.8489510489510489
+Meleagris gallopavo → Anatidae vs Anatidae → Homo sapiens,0.8135198135198136
+Meleagris gallopavo → Anatidae vs Panthera tigris → Gallus gallus,1
+Meleagris gallopavo → Anatidae vs Anatidae → Columbidae,0.9939393939393939
+Meleagris gallopavo → Anatidae vs Gallus gallus → Sus scrofa,0.8334018922254216
+Meleagris gallopavo → Anatidae vs Anatidae → Gallus gallus,0.2995997122932107
+Meleagris gallopavo → Anatidae vs Sus scrofa → Homo sapiens,0.09238786837507139
+Meleagris gallopavo → Anatidae vs Homo sapiens → Meleagris gallopavo,0.4430949167791274
+Meleagris gallopavo → Anatidae vs Gallus gallus → Meleagris gallopavo,0.5984015984015983
+Meleagris gallopavo → Anatidae vs Meleagris gallopavo → Numididae,0.9520479520479521
+Meleagris gallopavo → Anatidae vs Mareca americana → Anas carolinensis,0.9801087801087801
+Meleagris gallopavo → Anatidae vs Sus scrofa → Gallus gallus,0.7142857142857142
+Meleagris gallopavo → Anatidae vs Cygnus olor → Anatidae,0.4383838383838384
+Meleagris gallopavo → Anatidae vs Panthera tigris → Mustela lutreola,0.6923076923076922
+Meleagris gallopavo → Anatidae vs Anas platyrhynchos → Gallus gallus,0.9813519813519813
+Meleagris gallopavo → Anatidae vs Gallus gallus → Suricata suricatta,0.952047952047952
+Meleagris gallopavo → Anatidae vs Homo sapiens → Anas platyrhynchos,0.5524475524475524
+Meleagris gallopavo → Anatidae vs Mustela lutreola → Panthera tigris,0.5964035964035964
+Meleagris gallopavo → Anatidae vs Homo sapiens → Mustela putorius furo,0.6134923899629783
+Meleagris gallopavo → Anatidae vs Gallus gallus → Spatula discors,0.9878787878787878
+Meleagris gallopavo → Anatidae vs Homo sapiens → Mus musculus,0.6811188811188812
+Meleagris gallopavo → Anatidae vs Anas platyrhynchos → Cairina moschata,0.9757575757575756
+Meleagris gallopavo → Anatidae vs Gallus gallus → Aves,0.042624042624042624
+Meleagris gallopavo → Anatidae vs Aves → Gallus gallus,0.15917415917415917
+Meleagris gallopavo → Anatidae vs Gallus gallus → Columbidae,0.1558441558441558
+Meleagris gallopavo → Anatidae vs Meleagris gallopavo → Anas carolinensis,0.46868686868686865
+Meleagris gallopavo → Anatidae vs Aves → Anatidae,0.39393939393939387
+Meleagris gallopavo → Anatidae vs Aves → Spatula clypeata,0.3434343434343434
+Anatidae → Numididae vs Gallus gallus → Numididae sp.,0.9916083916083915
+Anatidae → Numididae vs Homo sapiens → Gallus gallus,0.5097849761134364
+Anatidae → Numididae vs Gallus gallus → Anas platyrhynchos,0.03637770897832818
+Anatidae → Numididae vs Anas platyrhynchos → Parus major,0.38095238095238093
+Anatidae → Numididae vs Gallus gallus → Homo sapiens,0.31314214241043514
+Anatidae → Numididae vs Homo sapiens → Passer montanus,0.7112887112887112
+Anatidae → Numididae vs Homo sapiens → Anatidae,0.5641926858720028
+Anatidae → Numididae vs Phasianinae → Mustela lutreola,1
+Anatidae → Numididae vs Phasianinae → Panthera tigris,0.6571428571428571
+Anatidae → Numididae vs Gallus gallus → Anatidae,0.1436950146627566
+Anatidae → Numididae vs Anatidae → Sus scrofa,0.6151515151515151
+Anatidae → Numididae vs Anatidae → Homo sapiens,0.7142857142857143
+Anatidae → Numididae vs Panthera tigris → Gallus gallus,1
+Anatidae → Numididae vs Anatidae → Columbidae,0.6571428571428571
+Anatidae → Numididae vs Gallus gallus → Sus scrofa,0.7112887112887112
+Anatidae → Numididae vs Anatidae → Gallus gallus,0.42647058823529405
+Anatidae → Numididae vs Sus scrofa → Homo sapiens,0.4252401018361607
+Anatidae → Numididae vs Homo sapiens → Meleagris gallopavo,0.635164835164835
+Anatidae → Numididae vs Gallus gallus → Meleagris gallopavo,0.5523809523809523
+Anatidae → Numididae vs Meleagris gallopavo → Numididae,0.6952380952380952
+Anatidae → Numididae vs Mareca americana → Anas carolinensis,0.997979797979798
+Anatidae → Numididae vs Sus scrofa → Gallus gallus,0.8095238095238094
+Anatidae → Numididae vs Cygnus olor → Anatidae,0.6571428571428571
+Anatidae → Numididae vs Panthera tigris → Mustela lutreola,0.38095238095238093
+Anatidae → Numididae vs Anas platyrhynchos → Gallus gallus,0.8095238095238095
+Anatidae → Numididae vs Gallus gallus → Suricata suricatta,0.9809523809523809
+Anatidae → Numididae vs Homo sapiens → Anas platyrhynchos,0.44285714285714284
+Anatidae → Numididae vs Mustela lutreola → Panthera tigris,0.4904761904761905
+Anatidae → Numididae vs Homo sapiens → Mustela putorius furo,0.5496503496503495
+Anatidae → Numididae vs Gallus gallus → Spatula discors,1
+Anatidae → Numididae vs Homo sapiens → Mus musculus,0.49696969696969695
+Anatidae → Numididae vs Anas platyrhynchos → Cairina moschata,0.7714285714285714
+Anatidae → Numididae vs Gallus gallus → Aves,0.047619047619047616
+Anatidae → Numididae vs Aves → Gallus gallus,0.19047619047619047
+Anatidae → Numididae vs Gallus gallus → Columbidae,0.3904761904761905
+Anatidae → Numididae vs Meleagris gallopavo → Anas carolinensis,0.7714285714285714
+Anatidae → Numididae vs Aves → Anatidae,0.6571428571428571
+Anatidae → Numididae vs Aves → Spatula clypeata,0.6571428571428571
+Gallus gallus → Numididae sp. vs Homo sapiens → Gallus gallus,0.7041706297380953
+Gallus gallus → Numididae sp. vs Gallus gallus → Anas platyrhynchos,0.03742397728802359
+Gallus gallus → Numididae sp. vs Anas platyrhynchos → Parus major,0.35064935064935066
+Gallus gallus → Numididae sp. vs Gallus gallus → Homo sapiens,0.3368686684201456
+Gallus gallus → Numididae sp. vs Homo sapiens → Passer montanus,0.9368680854748966
+Gallus gallus → Numididae sp. vs Homo sapiens → Anatidae,0.8320488033860649
+Gallus gallus → Numididae sp. vs Phasianinae → Mustela lutreola,0.8489510489510488
+Gallus gallus → Numididae sp. vs Phasianinae → Panthera tigris,0.6685314685314685
+Gallus gallus → Numididae sp. vs Gallus gallus → Anatidae,0.17492671075513383
+Gallus gallus → Numididae sp. vs Anatidae → Sus scrofa,0.7663461538461538
+Gallus gallus → Numididae sp. vs Anatidae → Homo sapiens,0.8246753246753247
+Gallus gallus → Numididae sp. vs Panthera tigris → Gallus gallus,0.9640359640359639
+Gallus gallus → Numididae sp. vs Anatidae → Columbidae,0.7734265734265734
+Gallus gallus → Numididae sp. vs Gallus gallus → Sus scrofa,0.8053432635475979
+Gallus gallus → Numididae sp. vs Anatidae → Gallus gallus,0.6194030763959423
+Gallus gallus → Numididae sp. vs Sus scrofa → Homo sapiens,0.24727927807686426
+Gallus gallus → Numididae sp. vs Homo sapiens → Meleagris gallopavo,0.7717313646106216
+Gallus gallus → Numididae sp. vs Gallus gallus → Meleagris gallopavo,0.6853146853146852
+Gallus gallus → Numididae sp. vs Meleagris gallopavo → Numididae,0.9376623376623376
+Gallus gallus → Numididae sp. vs Mareca americana → Anas carolinensis,0.9921020156314273
+Gallus gallus → Numididae sp. vs Sus scrofa → Gallus gallus,0.8561438561438562
+Gallus gallus → Numididae sp. vs Cygnus olor → Anatidae,0.46153846153846145
+Gallus gallus → Numididae sp. vs Panthera tigris → Mustela lutreola,0.6513486513486513
+Gallus gallus → Numididae sp. vs Anas platyrhynchos → Gallus gallus,1
+Gallus gallus → Numididae sp. vs Gallus gallus → Suricata suricatta,0.9968031968031967
+Gallus gallus → Numididae sp. vs Homo sapiens → Anas platyrhynchos,0.8543456543456542
+Gallus gallus → Numididae sp. vs Mustela lutreola → Panthera tigris,0.7878121878121878
+Gallus gallus → Numididae sp. vs Homo sapiens → Mustela putorius furo,0.9763060468942821
+Gallus gallus → Numididae sp. vs Gallus gallus → Spatula discors,0.9244755244755245
+Gallus gallus → Numididae sp. vs Homo sapiens → Mus musculus,0.8132867132867132
+Gallus gallus → Numididae sp. vs Anas platyrhynchos → Cairina moschata,0.8489510489510488
+Gallus gallus → Numididae sp. vs Gallus gallus → Aves,0.07552447552447553
+Gallus gallus → Numididae sp. vs Aves → Gallus gallus,0.18641358641358635
+Gallus gallus → Numididae sp. vs Gallus gallus → Columbidae,0.35144855144855147
+Gallus gallus → Numididae sp. vs Meleagris gallopavo → Anas carolinensis,0.39860139860139854
+Gallus gallus → Numididae sp. vs Aves → Anatidae,0.42657342657342656
+Gallus gallus → Numididae sp. vs Aves → Spatula clypeata,0.46153846153846145
+Homo sapiens → Gallus gallus vs Gallus gallus → Anas platyrhynchos,0.004846926688617396
+Homo sapiens → Gallus gallus vs Anas platyrhynchos → Parus major,0.6870085520427461
+Homo sapiens → Gallus gallus vs Gallus gallus → Homo sapiens,0.39766378324375595
+Homo sapiens → Gallus gallus vs Homo sapiens → Passer montanus,0.9985959186504623
+Homo sapiens → Gallus gallus vs Homo sapiens → Anatidae,0.9691879728235764
+Homo sapiens → Gallus gallus vs Phasianinae → Mustela lutreola,0.18911525602990076
+Homo sapiens → Gallus gallus vs Phasianinae → Panthera tigris,0.22128548252650818
+Homo sapiens → Gallus gallus vs Gallus gallus → Anatidae,0.10150082246703174
+Homo sapiens → Gallus gallus vs Anatidae → Sus scrofa,0.08067359316104485
+Homo sapiens → Gallus gallus vs Anatidae → Homo sapiens,0.3865537263793051
+Homo sapiens → Gallus gallus vs Panthera tigris → Gallus gallus,0.48961842532637284
+Homo sapiens → Gallus gallus vs Anatidae → Columbidae,0.19330996961521568
+Homo sapiens → Gallus gallus vs Gallus gallus → Sus scrofa,0.5716279437595303
+Homo sapiens → Gallus gallus vs Anatidae → Gallus gallus,0.39384586947280065
+Homo sapiens → Gallus gallus vs Sus scrofa → Homo sapiens,0.293581541893024
+Homo sapiens → Gallus gallus vs Homo sapiens → Meleagris gallopavo,0.9898684847403214
+Homo sapiens → Gallus gallus vs Gallus gallus → Meleagris gallopavo,0.6212956406648205
+Homo sapiens → Gallus gallus vs Meleagris gallopavo → Numididae,0.9340284935779652
+Homo sapiens → Gallus gallus vs Mareca americana → Anas carolinensis,0.9065336050833814
+Homo sapiens → Gallus gallus vs Sus scrofa → Gallus gallus,0.11698368701153972
+Homo sapiens → Gallus gallus vs Cygnus olor → Anatidae,0.06160134087425718
+Homo sapiens → Gallus gallus vs Panthera tigris → Mustela lutreola,0.41990741867051595
+Homo sapiens → Gallus gallus vs Anas platyrhynchos → Gallus gallus,0.43218140898500124
+Homo sapiens → Gallus gallus vs Gallus gallus → Suricata suricatta,0.9317686812645092
+Homo sapiens → Gallus gallus vs Homo sapiens → Anas platyrhynchos,0.6329542384405293
+Homo sapiens → Gallus gallus vs Mustela lutreola → Panthera tigris,0.6070860910758195
+Homo sapiens → Gallus gallus vs Homo sapiens → Mustela putorius furo,0.9961689640377869
+Homo sapiens → Gallus gallus vs Gallus gallus → Spatula discors,0.9427798044259605
+Homo sapiens → Gallus gallus vs Homo sapiens → Mus musculus,0.9708930080867513
+Homo sapiens → Gallus gallus vs Anas platyrhynchos → Cairina moschata,0.9977413080694457
+Homo sapiens → Gallus gallus vs Gallus gallus → Aves,0.055641175928285255
+Homo sapiens → Gallus gallus vs Aves → Gallus gallus,0.465284375588201
+Homo sapiens → Gallus gallus vs Gallus gallus → Columbidae,0.6212680312290194
+Homo sapiens → Gallus gallus vs Meleagris gallopavo → Anas carolinensis,0.7722557341196927
+Homo sapiens → Gallus gallus vs Aves → Anatidae,0.7690003495594653
+Homo sapiens → Gallus gallus vs Aves → Spatula clypeata,0.5756670759798869
+Gallus gallus → Anas platyrhynchos vs Anas platyrhynchos → Parus major,0.8142414860681114
+Gallus gallus → Anas platyrhynchos vs Gallus gallus → Homo sapiens,0.0680255301048516
+Gallus gallus → Anas platyrhynchos vs Homo sapiens → Passer montanus,0.0827879685262913
+Gallus gallus → Anas platyrhynchos vs Homo sapiens → Anatidae,0.08162319059949504
+Gallus gallus → Anas platyrhynchos vs Phasianinae → Mustela lutreola,0.030701754385964904
+Gallus gallus → Anas platyrhynchos vs Phasianinae → Panthera tigris,0.022703818369453038
+Gallus gallus → Anas platyrhynchos vs Gallus gallus → Anatidae,0.1953367713344434
+Gallus gallus → Anas platyrhynchos vs Anatidae → Sus scrofa,0.01215522094005066
+Gallus gallus → Anas platyrhynchos vs Anatidae → Homo sapiens,0.03895768833849329
+Gallus gallus → Anas platyrhynchos vs Panthera tigris → Gallus gallus,0.04540763673890609
+Gallus gallus → Anas platyrhynchos vs Anatidae → Columbidae,0.030701754385964904
+Gallus gallus → Anas platyrhynchos vs Gallus gallus → Sus scrofa,0.0032195695003609933
+Gallus gallus → Anas platyrhynchos vs Anatidae → Gallus gallus,0.07130072734530568
+Gallus gallus → Anas platyrhynchos vs Sus scrofa → Homo sapiens,3.872968477444296e-4
+Gallus gallus → Anas platyrhynchos vs Homo sapiens → Meleagris gallopavo,0.1626958281992607
+Gallus gallus → Anas platyrhynchos vs Gallus gallus → Meleagris gallopavo,0.40325077399380804
+Gallus gallus → Anas platyrhynchos vs Meleagris gallopavo → Numididae,0.3008808786672563
+Gallus gallus → Anas platyrhynchos vs Mareca americana → Anas carolinensis,0.05400824777591502
+Gallus gallus → Anas platyrhynchos vs Sus scrofa → Gallus gallus,0.009803921568627453
+Gallus gallus → Anas platyrhynchos vs Cygnus olor → Anatidae,0.005159958720330237
+Gallus gallus → Anas platyrhynchos vs Panthera tigris → Mustela lutreola,0.03895768833849329
+Gallus gallus → Anas platyrhynchos vs Anas platyrhynchos → Gallus gallus,0.07062693498452012
+Gallus gallus → Anas platyrhynchos vs Gallus gallus → Suricata suricatta,0.11749963143151995
+Gallus gallus → Anas platyrhynchos vs Homo sapiens → Anas platyrhynchos,0.3286340852130325
+Gallus gallus → Anas platyrhynchos vs Mustela lutreola → Panthera tigris,0.09007813651776499
+Gallus gallus → Anas platyrhynchos vs Homo sapiens → Mustela putorius furo,0.12306195621581272
+Gallus gallus → Anas platyrhynchos vs Gallus gallus → Spatula discors,0.26083591331269346
+Gallus gallus → Anas platyrhynchos vs Homo sapiens → Mus musculus,0.07987381555493009
+Gallus gallus → Anas platyrhynchos vs Anas platyrhynchos → Cairina moschata,0.26083591331269346
+Gallus gallus → Anas platyrhynchos vs Gallus gallus → Aves,0.9651702786377709
+Gallus gallus → Anas platyrhynchos vs Aves → Gallus gallus,0.1201533244876898
+Gallus gallus → Anas platyrhynchos vs Gallus gallus → Columbidae,0.4849255491670352
+Gallus gallus → Anas platyrhynchos vs Meleagris gallopavo → Anas carolinensis,0.22316821465428274
+Gallus gallus → Anas platyrhynchos vs Aves → Anatidae,0.32533539731682143
+Gallus gallus → Anas platyrhynchos vs Aves → Spatula clypeata,0.044117647058823525
+Anas platyrhynchos → Parus major vs Gallus gallus → Homo sapiens,0.8421106214639965
+Anas platyrhynchos → Parus major vs Homo sapiens → Passer montanus,0.7575757575757576
+Anas platyrhynchos → Parus major vs Homo sapiens → Anatidae,0.8202395327632517
+Anas platyrhynchos → Parus major vs Phasianinae → Mustela lutreola,0.38095238095238093
+Anas platyrhynchos → Parus major vs Phasianinae → Panthera tigris,0.3333333333333333
+Anas platyrhynchos → Parus major vs Gallus gallus → Anatidae,0.9767120924616179
+Anas platyrhynchos → Parus major vs Anatidae → Sus scrofa,0.20707070707070707
+Anas platyrhynchos → Parus major vs Anatidae → Homo sapiens,0.2857142857142857
+Anas platyrhynchos → Parus major vs Panthera tigris → Gallus gallus,0.873015873015873
+Anas platyrhynchos → Parus major vs Anatidae → Columbidae,0.38095238095238093
+Anas platyrhynchos → Parus major vs Gallus gallus → Sus scrofa,0.5304695304695305
+Anas platyrhynchos → Parus major vs Anatidae → Gallus gallus,0.37280701754385964
+Anas platyrhynchos → Parus major vs Sus scrofa → Homo sapiens,0.611940397156838
+Anas platyrhynchos → Parus major vs Homo sapiens → Meleagris gallopavo,0.8333333333333333
+Anas platyrhynchos → Parus major vs Gallus gallus → Meleagris gallopavo,0.6493506493506493
+Anas platyrhynchos → Parus major vs Meleagris gallopavo → Numididae,0.8008658008658007
+Anas platyrhynchos → Parus major vs Mareca americana → Anas carolinensis,0.4996114996114996
+Anas platyrhynchos → Parus major vs Sus scrofa → Gallus gallus,0.11255411255411255
+Anas platyrhynchos → Parus major vs Cygnus olor → Anatidae,0.07936507936507936
+Anas platyrhynchos → Parus major vs Panthera tigris → Mustela lutreola,0.8095238095238095
+Anas platyrhynchos → Parus major vs Anas platyrhynchos → Gallus gallus,0.3571428571428571
+Anas platyrhynchos → Parus major vs Gallus gallus → Suricata suricatta,0.6493506493506493
+Anas platyrhynchos → Parus major vs Homo sapiens → Anas platyrhynchos,0.7922077922077921
+Anas platyrhynchos → Parus major vs Mustela lutreola → Panthera tigris,0.3571428571428571
+Anas platyrhynchos → Parus major vs Homo sapiens → Mustela putorius furo,0.8921078921078922
+Anas platyrhynchos → Parus major vs Gallus gallus → Spatula discors,0.8095238095238094
+Anas platyrhynchos → Parus major vs Homo sapiens → Mus musculus,0.8636363636363635
+Anas platyrhynchos → Parus major vs Anas platyrhynchos → Cairina moschata,0.8095238095238094
+Anas platyrhynchos → Parus major vs Gallus gallus → Aves,0.4155844155844155
+Anas platyrhynchos → Parus major vs Aves → Gallus gallus,0.948051948051948
+Anas platyrhynchos → Parus major vs Gallus gallus → Columbidae,0.9653679653679652
+Anas platyrhynchos → Parus major vs Meleagris gallopavo → Anas carolinensis,0.7142857142857143
+Anas platyrhynchos → Parus major vs Aves → Anatidae,1
+Anas platyrhynchos → Parus major vs Aves → Spatula clypeata,0.7142857142857143
+Gallus gallus → Homo sapiens vs Homo sapiens → Passer montanus,0.9655331796114449
+Gallus gallus → Homo sapiens vs Homo sapiens → Anatidae,0.3443235013531148
+Gallus gallus → Homo sapiens vs Phasianinae → Mustela lutreola,0.22358616992763333
+Gallus gallus → Homo sapiens vs Phasianinae → Panthera tigris,0.22358616992763333
+Gallus gallus → Homo sapiens vs Gallus gallus → Anatidae,0.603080053469381
+Gallus gallus → Homo sapiens vs Anatidae → Sus scrofa,0.04519293021845489
+Gallus gallus → Homo sapiens vs Anatidae → Homo sapiens,0.2668133530300292
+Gallus gallus → Homo sapiens vs Panthera tigris → Gallus gallus,0.49465612851886254
+Gallus gallus → Homo sapiens vs Anatidae → Columbidae,0.23478960064325913
+Gallus gallus → Homo sapiens vs Gallus gallus → Sus scrofa,0.23208226654949637
+Gallus gallus → Homo sapiens vs Anatidae → Gallus gallus,0.08081568912399306
+Gallus gallus → Homo sapiens vs Sus scrofa → Homo sapiens,0.19419441993714767
+Gallus gallus → Homo sapiens vs Homo sapiens → Meleagris gallopavo,0.9753707694140151
+Gallus gallus → Homo sapiens vs Gallus gallus → Meleagris gallopavo,0.5019322707921686
+Gallus gallus → Homo sapiens vs Meleagris gallopavo → Numididae,0.5896774807722055
+Gallus gallus → Homo sapiens vs Mareca americana → Anas carolinensis,0.37082017836660375
+Gallus gallus → Homo sapiens vs Sus scrofa → Gallus gallus,0.1427304969562485
+Gallus gallus → Homo sapiens vs Cygnus olor → Anatidae,0.027829893683552216
+Gallus gallus → Homo sapiens vs Panthera tigris → Mustela lutreola,0.2602270106524219
+Gallus gallus → Homo sapiens vs Anas platyrhynchos → Gallus gallus,0.27711879725492883
+Gallus gallus → Homo sapiens vs Gallus gallus → Suricata suricatta,0.6876538096050289
+Gallus gallus → Homo sapiens vs Homo sapiens → Anas platyrhynchos,0.6829789609142982
+Gallus gallus → Homo sapiens vs Mustela lutreola → Panthera tigris,0.16380216493659486
+Gallus gallus → Homo sapiens vs Homo sapiens → Mustela putorius furo,0.9094148626204143
+Gallus gallus → Homo sapiens vs Gallus gallus → Spatula discors,0.7812382739212005
+Gallus gallus → Homo sapiens vs Homo sapiens → Mus musculus,0.6178750725545962
+Gallus gallus → Homo sapiens vs Anas platyrhynchos → Cairina moschata,0.7812382739212005
+Gallus gallus → Homo sapiens vs Gallus gallus → Aves,0.15163778365706895
+Gallus gallus → Homo sapiens vs Aves → Gallus gallus,0.6305107258028414
+Gallus gallus → Homo sapiens vs Gallus gallus → Columbidae,0.655176927440115
+Gallus gallus → Homo sapiens vs Meleagris gallopavo → Anas carolinensis,0.7770481550969357
+Gallus gallus → Homo sapiens vs Aves → Anatidae,0.7842401500938088
+Gallus gallus → Homo sapiens vs Aves → Spatula clypeata,0.3239346019833825
+Homo sapiens → Passer montanus vs Homo sapiens → Anatidae,0.9988533145429181
+Homo sapiens → Passer montanus vs Phasianinae → Mustela lutreola,0.4665334665334665
+Homo sapiens → Passer montanus vs Phasianinae → Panthera tigris,0.3426573426573427
+Homo sapiens → Passer montanus vs Gallus gallus → Anatidae,0.4347600304918291
+Homo sapiens → Passer montanus vs Anatidae → Sus scrofa,0.31735911147675855
+Homo sapiens → Passer montanus vs Anatidae → Homo sapiens,0.5904095904095903
+Homo sapiens → Passer montanus vs Panthera tigris → Gallus gallus,0.7575757575757576
+Homo sapiens → Passer montanus vs Anatidae → Columbidae,0.4155844155844155
+Homo sapiens → Passer montanus vs Gallus gallus → Sus scrofa,0.9812942475481174
+Homo sapiens → Passer montanus vs Anatidae → Gallus gallus,0.747712690235237
+Homo sapiens → Passer montanus vs Sus scrofa → Homo sapiens,0.8840353552729999
+Homo sapiens → Passer montanus vs Homo sapiens → Meleagris gallopavo,1
+Homo sapiens → Passer montanus vs Gallus gallus → Meleagris gallopavo,0.6494755244755245
+Homo sapiens → Passer montanus vs Meleagris gallopavo → Numididae,0.9393106893106893
+Homo sapiens → Passer montanus vs Mareca americana → Anas carolinensis,0.9333607568901687
+Homo sapiens → Passer montanus vs Sus scrofa → Gallus gallus,0.30369630369630374
+Homo sapiens → Passer montanus vs Cygnus olor → Anatidae,0.1698301698301698
+Homo sapiens → Passer montanus vs Panthera tigris → Mustela lutreola,0.8171828171828172
+Homo sapiens → Passer montanus vs Anas platyrhynchos → Gallus gallus,0.8831168831168832
+Homo sapiens → Passer montanus vs Gallus gallus → Suricata suricatta,1
+Homo sapiens → Passer montanus vs Homo sapiens → Anas platyrhynchos,0.7325174825174825
+Homo sapiens → Passer montanus vs Mustela lutreola → Panthera tigris,0.7673576423576423
+Homo sapiens → Passer montanus vs Homo sapiens → Mustela putorius furo,1
+Homo sapiens → Passer montanus vs Gallus gallus → Spatula discors,0.9640359640359639
+Homo sapiens → Passer montanus vs Homo sapiens → Mus musculus,0.9666803784450843
+Homo sapiens → Passer montanus vs Anas platyrhynchos → Cairina moschata,1
+Homo sapiens → Passer montanus vs Gallus gallus → Aves,0.14797702297702298
+Homo sapiens → Passer montanus vs Aves → Gallus gallus,0.5002497502497502
+Homo sapiens → Passer montanus vs Gallus gallus → Columbidae,0.7166583416583416
+Homo sapiens → Passer montanus vs Meleagris gallopavo → Anas carolinensis,0.8921078921078921
+Homo sapiens → Passer montanus vs Aves → Anatidae,0.8471528471528471
+Homo sapiens → Passer montanus vs Aves → Spatula clypeata,0.8021978021978022
+Homo sapiens → Anatidae vs Phasianinae → Mustela lutreola,0.28320683111954464
+Homo sapiens → Anatidae vs Phasianinae → Panthera tigris,0.2591210971191995
+Homo sapiens → Anatidae vs Gallus gallus → Anatidae,0.26259786573501287
+Homo sapiens → Anatidae vs Anatidae → Sus scrofa,0.17088104362772294
+Homo sapiens → Anatidae vs Anatidae → Homo sapiens,0.5708525345622119
+Homo sapiens → Anatidae vs Panthera tigris → Gallus gallus,0.7156472559698366
+Homo sapiens → Anatidae vs Anatidae → Columbidae,0.28320683111954464
+Homo sapiens → Anatidae vs Gallus gallus → Sus scrofa,0.3131644263610208
+Homo sapiens → Anatidae vs Anatidae → Gallus gallus,0.6731326441251753
+Homo sapiens → Anatidae vs Sus scrofa → Homo sapiens,0.355664446945295
+Homo sapiens → Anatidae vs Homo sapiens → Meleagris gallopavo,0.9770145436990431
+Homo sapiens → Anatidae vs Gallus gallus → Meleagris gallopavo,0.7983331895808179
+Homo sapiens → Anatidae vs Meleagris gallopavo → Numididae,0.9496537617979743
+Homo sapiens → Anatidae vs Mareca americana → Anas carolinensis,0.8742666474614943
+Homo sapiens → Anatidae vs Sus scrofa → Gallus gallus,0.2259727938096059
+Homo sapiens → Anatidae vs Cygnus olor → Anatidae,0.09013282732447817
+Homo sapiens → Anatidae vs Panthera tigris → Mustela lutreola,0.5357050444811355
+Homo sapiens → Anatidae vs Anas platyrhynchos → Gallus gallus,0.6162731954952066
+Homo sapiens → Anatidae vs Gallus gallus → Suricata suricatta,0.9822568323517091
+Homo sapiens → Anatidae vs Homo sapiens → Anas platyrhynchos,0.9186771482786664
+Homo sapiens → Anatidae vs Mustela lutreola → Panthera tigris,0.8202734172848027
+Homo sapiens → Anatidae vs Homo sapiens → Mustela putorius furo,0.996018453274021
+Homo sapiens → Anatidae vs Gallus gallus → Spatula discors,0.9275487321028117
+Homo sapiens → Anatidae vs Homo sapiens → Mus musculus,0.9549976921893433
+Homo sapiens → Anatidae vs Anas platyrhynchos → Cairina moschata,0.9984474728307746
+Homo sapiens → Anatidae vs Gallus gallus → Aves,0.11735955379219137
+Homo sapiens → Anatidae vs Aves → Gallus gallus,0.6033739742231204
+Homo sapiens → Anatidae vs Gallus gallus → Columbidae,0.5693585352029376
+Homo sapiens → Anatidae vs Meleagris gallopavo → Anas carolinensis,0.74146110056926
+Homo sapiens → Anatidae vs Aves → Anatidae,0.7407063998619975
+Homo sapiens → Anatidae vs Aves → Spatula clypeata,0.6027039848197343
+Phasianinae → Mustela lutreola vs Phasianinae → Panthera tigris,0.7714285714285714
+Phasianinae → Mustela lutreola vs Gallus gallus → Anatidae,0.10673624288425046
+Phasianinae → Mustela lutreola vs Anatidae → Sus scrofa,0.90303030303030285
+Phasianinae → Mustela lutreola vs Anatidae → Homo sapiens,0.7142857142857143
+Phasianinae → Mustela lutreola vs Panthera tigris → Gallus gallus,1
+Phasianinae → Mustela lutreola vs Anatidae → Columbidae,1
+Phasianinae → Mustela lutreola vs Gallus gallus → Sus scrofa,0.4065934065934065
+Phasianinae → Mustela lutreola vs Anatidae → Gallus gallus,0.8235294117647058
+Phasianinae → Mustela lutreola vs Sus scrofa → Homo sapiens,0.19894708571733716
+Phasianinae → Mustela lutreola vs Homo sapiens → Meleagris gallopavo,0.3846153846153846
+Phasianinae → Mustela lutreola vs Gallus gallus → Meleagris gallopavo,0.5523809523809523
+Phasianinae → Mustela lutreola vs Meleagris gallopavo → Numididae,0.6571428571428571
+Phasianinae → Mustela lutreola vs Mareca americana → Anas carolinensis,0.8363636363636364
+Phasianinae → Mustela lutreola vs Sus scrofa → Gallus gallus,0.657142857142857
+Phasianinae → Mustela lutreola vs Cygnus olor → Anatidae,1
+Phasianinae → Mustela lutreola vs Panthera tigris → Mustela lutreola,0.38095238095238093
+Phasianinae → Mustela lutreola vs Anas platyrhynchos → Gallus gallus,0.873015873015873
+Phasianinae → Mustela lutreola vs Gallus gallus → Suricata suricatta,0.6571428571428571
+Phasianinae → Mustela lutreola vs Homo sapiens → Anas platyrhynchos,0.4285714285714286
+Phasianinae → Mustela lutreola vs Mustela lutreola → Panthera tigris,0.8285714285714285
+Phasianinae → Mustela lutreola vs Homo sapiens → Mustela putorius furo,0.3356643356643356
+Phasianinae → Mustela lutreola vs Gallus gallus → Spatula discors,0.7714285714285714
+Phasianinae → Mustela lutreola vs Homo sapiens → Mus musculus,0.45454545454545453
+Phasianinae → Mustela lutreola vs Anas platyrhynchos → Cairina moschata,0.7714285714285714
+Phasianinae → Mustela lutreola vs Gallus gallus → Aves,0.06666666666666667
+Phasianinae → Mustela lutreola vs Aves → Gallus gallus,0.09523809523809523
+Phasianinae → Mustela lutreola vs Gallus gallus → Columbidae,0.07142857142857142
+Phasianinae → Mustela lutreola vs Meleagris gallopavo → Anas carolinensis,0.22857142857142854
+Phasianinae → Mustela lutreola vs Aves → Anatidae,0.22857142857142854
+Phasianinae → Mustela lutreola vs Aves → Spatula clypeata,0.22857142857142854
+Phasianinae → Panthera tigris vs Gallus gallus → Anatidae,0.13049853372434014
+Phasianinae → Panthera tigris vs Anatidae → Sus scrofa,0.9636363636363636
+Phasianinae → Panthera tigris vs Anatidae → Homo sapiens,0.9523809523809523
+Phasianinae → Panthera tigris vs Panthera tigris → Gallus gallus,0.5158730158730158
+Phasianinae → Panthera tigris vs Anatidae → Columbidae,0.7714285714285714
+Phasianinae → Panthera tigris vs Gallus gallus → Sus scrofa,0.2647352647352647
+Phasianinae → Panthera tigris vs Anatidae → Gallus gallus,0.39705882352941174
+Phasianinae → Panthera tigris vs Sus scrofa → Homo sapiens,0.149957672971483
+Phasianinae → Panthera tigris vs Homo sapiens → Meleagris gallopavo,0.25274725274725274
+Phasianinae → Panthera tigris vs Gallus gallus → Meleagris gallopavo,0.4904761904761905
+Phasianinae → Panthera tigris vs Meleagris gallopavo → Numididae,0.6571428571428571
+Phasianinae → Panthera tigris vs Mareca americana → Anas carolinensis,0.7636363636363634
+Phasianinae → Panthera tigris vs Sus scrofa → Gallus gallus,0.5714285714285714
+Phasianinae → Panthera tigris vs Cygnus olor → Anatidae,1
+Phasianinae → Panthera tigris vs Panthera tigris → Mustela lutreola,0.38095238095238093
+Phasianinae → Panthera tigris vs Anas platyrhynchos → Gallus gallus,0.5238095238095237
+Phasianinae → Panthera tigris vs Gallus gallus → Suricata suricatta,0.5
+Phasianinae → Panthera tigris vs Homo sapiens → Anas platyrhynchos,0.5
+Phasianinae → Panthera tigris vs Mustela lutreola → Panthera tigris,0.4904761904761905
+Phasianinae → Panthera tigris vs Homo sapiens → Mustela putorius furo,0.3356643356643356
+Phasianinae → Panthera tigris vs Gallus gallus → Spatula discors,0.7714285714285714
+Phasianinae → Panthera tigris vs Homo sapiens → Mus musculus,0.36363636363636365
+Phasianinae → Panthera tigris vs Anas platyrhynchos → Cairina moschata,0.7714285714285714
+Phasianinae → Panthera tigris vs Gallus gallus → Aves,0.047619047619047616
+Phasianinae → Panthera tigris vs Aves → Gallus gallus,0.07142857142857142
+Phasianinae → Panthera tigris vs Gallus gallus → Columbidae,0.09523809523809523
+Phasianinae → Panthera tigris vs Meleagris gallopavo → Anas carolinensis,0.22857142857142854
+Phasianinae → Panthera tigris vs Aves → Anatidae,0.22857142857142854
+Phasianinae → Panthera tigris vs Aves → Spatula clypeata,0.22857142857142854
+Gallus gallus → Anatidae vs Anatidae → Sus scrofa,0.032005137792614075
+Gallus gallus → Anatidae vs Anatidae → Homo sapiens,0.16423211513344338
+Gallus gallus → Anatidae vs Panthera tigris → Gallus gallus,0.3227408265358929
+Gallus gallus → Anatidae vs Anatidae → Columbidae,0.109086596515439
+Gallus gallus → Anatidae vs Gallus gallus → Sus scrofa,0.17727982728482075
+Gallus gallus → Anatidae vs Anatidae → Gallus gallus,0.19548167432989272
+Gallus gallus → Anatidae vs Sus scrofa → Homo sapiens,0.0887295338445625
+Gallus gallus → Anatidae vs Homo sapiens → Meleagris gallopavo,0.5825425356093415
+Gallus gallus → Anatidae vs Gallus gallus → Meleagris gallopavo,0.7372563394859409
+Gallus gallus → Anatidae vs Meleagris gallopavo → Numididae,0.6592341482047364
+Gallus gallus → Anatidae vs Mareca americana → Anas carolinensis,0.35113322786847206
+Gallus gallus → Anatidae vs Sus scrofa → Gallus gallus,0.05695988072648414
+Gallus gallus → Anatidae vs Cygnus olor → Anatidae,0.02298602725547697
+Gallus gallus → Anatidae vs Panthera tigris → Mustela lutreola,0.07558712634613962
+Gallus gallus → Anatidae vs Anas platyrhynchos → Gallus gallus,0.1713478646590601
+Gallus gallus → Anatidae vs Gallus gallus → Suricata suricatta,0.3300434543318795
+Gallus gallus → Anatidae vs Homo sapiens → Anas platyrhynchos,0.8917112299465242
+Gallus gallus → Anatidae vs Mustela lutreola → Panthera tigris,0.32145834873538864
+Gallus gallus → Anatidae vs Homo sapiens → Mustela putorius furo,0.620499323285701
+Gallus gallus → Anatidae vs Gallus gallus → Spatula discors,0.5427807486631014
+Gallus gallus → Anatidae vs Homo sapiens → Mus musculus,0.7406912475698055
+Gallus gallus → Anatidae vs Anas platyrhynchos → Cairina moschata,0.51768155942729
+Gallus gallus → Anatidae vs Gallus gallus → Aves,0.5905209591167846
+Gallus gallus → Anatidae vs Aves → Gallus gallus,0.7326372631163902
+Gallus gallus → Anatidae vs Gallus gallus → Columbidae,0.8945390472904706
+Gallus gallus → Anatidae vs Meleagris gallopavo → Anas carolinensis,0.5338537174400552
+Gallus gallus → Anatidae vs Aves → Anatidae,0.6079868897705709
+Gallus gallus → Anatidae vs Aves → Spatula clypeata,0.13049853372434014
+Anatidae → Sus scrofa vs Anatidae → Homo sapiens,1
+Anatidae → Sus scrofa vs Panthera tigris → Gallus gallus,0.797979797979798
+Anatidae → Sus scrofa vs Anatidae → Columbidae,0.9272727272727272
+Anatidae → Sus scrofa vs Gallus gallus → Sus scrofa,0.2945804195804196
+Anatidae → Sus scrofa vs Anatidae → Gallus gallus,0.4985380116959064
+Anatidae → Sus scrofa vs Sus scrofa → Homo sapiens,0.08074518634991824
+Anatidae → Sus scrofa vs Homo sapiens → Meleagris gallopavo,0.26344896933132234
+Anatidae → Sus scrofa vs Gallus gallus → Meleagris gallopavo,0.48717948717948706
+Anatidae → Sus scrofa vs Meleagris gallopavo → Numididae,0.6223776223776223
+Anatidae → Sus scrofa vs Mareca americana → Anas carolinensis,0.66013986013986
+Anatidae → Sus scrofa vs Sus scrofa → Gallus gallus,0.5454545454545454
+Anatidae → Sus scrofa vs Cygnus olor → Anatidae,0.8909090909090909
+Anatidae → Sus scrofa vs Panthera tigris → Mustela lutreola,0.26136363636363635
+Anatidae → Sus scrofa vs Anas platyrhynchos → Gallus gallus,0.7272727272727273
+Anatidae → Sus scrofa vs Gallus gallus → Suricata suricatta,0.5384615384615383
+Anatidae → Sus scrofa vs Homo sapiens → Anas platyrhynchos,0.4871794871794871
+Anatidae → Sus scrofa vs Mustela lutreola → Panthera tigris,0.5804195804195804
+Anatidae → Sus scrofa vs Homo sapiens → Mustela putorius furo,0.20865384615384613
+Anatidae → Sus scrofa vs Gallus gallus → Spatula discors,0.49696969696969695
+Anatidae → Sus scrofa vs Homo sapiens → Mus musculus,0.40559440559440557
+Anatidae → Sus scrofa vs Anas platyrhynchos → Cairina moschata,0.5363636363636364
+Anatidae → Sus scrofa vs Gallus gallus → Aves,0.023892773892773896
+Anatidae → Sus scrofa vs Aves → Gallus gallus,0.038461538461538464
+Anatidae → Sus scrofa vs Gallus gallus → Columbidae,0.038461538461538464
+Anatidae → Sus scrofa vs Meleagris gallopavo → Anas carolinensis,0.10606060606060605
+Anatidae → Sus scrofa vs Aves → Anatidae,0.12121212121212122
+Anatidae → Sus scrofa vs Aves → Spatula clypeata,0.12121212121212122
+Anatidae → Homo sapiens vs Panthera tigris → Gallus gallus,0.873015873015873
+Anatidae → Homo sapiens vs Anatidae → Columbidae,0.7142857142857143
+Anatidae → Homo sapiens vs Gallus gallus → Sus scrofa,0.5304695304695305
+Anatidae → Homo sapiens vs Anatidae → Gallus gallus,0.6899724802201582
+Anatidae → Homo sapiens vs Sus scrofa → Homo sapiens,0.2222075253373204
+Anatidae → Homo sapiens vs Homo sapiens → Meleagris gallopavo,0.39102564102564097
+Anatidae → Homo sapiens vs Gallus gallus → Meleagris gallopavo,0.2727272727272727
+Anatidae → Homo sapiens vs Meleagris gallopavo → Numididae,0.7012987012987012
+Anatidae → Homo sapiens vs Mareca americana → Anas carolinensis,0.8741258741258742
+Anatidae → Homo sapiens vs Sus scrofa → Gallus gallus,0.8441558441558441
+Anatidae → Homo sapiens vs Cygnus olor → Anatidae,0.6190476190476191
+Anatidae → Homo sapiens vs Panthera tigris → Mustela lutreola,0.873015873015873
+Anatidae → Homo sapiens vs Anas platyrhynchos → Gallus gallus,0.8095238095238095
+Anatidae → Homo sapiens vs Gallus gallus → Suricata suricatta,0.6883116883116882
+Anatidae → Homo sapiens vs Homo sapiens → Anas platyrhynchos,0.3571428571428571
+Anatidae → Homo sapiens vs Mustela lutreola → Panthera tigris,0.6298701298701298
+Anatidae → Homo sapiens vs Homo sapiens → Mustela putorius furo,0.48551448551448556
+Anatidae → Homo sapiens vs Gallus gallus → Spatula discors,0.8095238095238095
+Anatidae → Homo sapiens vs Homo sapiens → Mus musculus,0.43434343434343436
+Anatidae → Homo sapiens vs Anas platyrhynchos → Cairina moschata,0.7142857142857143
+Anatidae → Homo sapiens vs Gallus gallus → Aves,0.08008658008658008
+Anatidae → Homo sapiens vs Aves → Gallus gallus,0.15584415584415584
+Anatidae → Homo sapiens vs Gallus gallus → Columbidae,0.18614718614718612
+Anatidae → Homo sapiens vs Meleagris gallopavo → Anas carolinensis,0.2857142857142857
+Anatidae → Homo sapiens vs Aves → Anatidae,0.2857142857142857
+Anatidae → Homo sapiens vs Aves → Spatula clypeata,0.2857142857142857
+Panthera tigris → Gallus gallus vs Anatidae → Columbidae,0.9047619047619048
+Panthera tigris → Gallus gallus vs Gallus gallus → Sus scrofa,0.8181818181818183
+Panthera tigris → Gallus gallus vs Anatidae → Gallus gallus,0.7146542827657378
+Panthera tigris → Gallus gallus vs Sus scrofa → Homo sapiens,0.4142061954519255
+Panthera tigris → Gallus gallus vs Homo sapiens → Meleagris gallopavo,0.6920787545787546
+Panthera tigris → Gallus gallus vs Gallus gallus → Meleagris gallopavo,0.3376623376623376
+Panthera tigris → Gallus gallus vs Meleagris gallopavo → Numididae,0.6883116883116882
+Panthera tigris → Gallus gallus vs Mareca americana → Anas carolinensis,0.972027972027972
+Panthera tigris → Gallus gallus vs Sus scrofa → Gallus gallus,0.7748917748917747
+Panthera tigris → Gallus gallus vs Cygnus olor → Anatidae,0.5714285714285714
+Panthera tigris → Gallus gallus vs Panthera tigris → Mustela lutreola,0.7142857142857143
+Panthera tigris → Gallus gallus vs Anas platyrhynchos → Gallus gallus,1
+Panthera tigris → Gallus gallus vs Gallus gallus → Suricata suricatta,0.948051948051948
+Panthera tigris → Gallus gallus vs Homo sapiens → Anas platyrhynchos,0.2727272727272727
+Panthera tigris → Gallus gallus vs Mustela lutreola → Panthera tigris,0.6883116883116882
+Panthera tigris → Gallus gallus vs Homo sapiens → Mustela putorius furo,0.6263736263736264
+Panthera tigris → Gallus gallus vs Gallus gallus → Spatula discors,0.873015873015873
+Panthera tigris → Gallus gallus vs Homo sapiens → Mus musculus,0.6590909090909092
+Panthera tigris → Gallus gallus vs Anas platyrhynchos → Cairina moschata,0.873015873015873
+Panthera tigris → Gallus gallus vs Gallus gallus → Aves,0.11255411255411255
+Panthera tigris → Gallus gallus vs Aves → Gallus gallus,0.18614718614718612
+Panthera tigris → Gallus gallus vs Gallus gallus → Columbidae,0.18614718614718612
+Panthera tigris → Gallus gallus vs Meleagris gallopavo → Anas carolinensis,0.19047619047619047
+Panthera tigris → Gallus gallus vs Aves → Anatidae,0.2857142857142857
+Panthera tigris → Gallus gallus vs Aves → Spatula clypeata,0.2857142857142857
+Anatidae → Columbidae vs Gallus gallus → Sus scrofa,0.37962037962037953
+Anatidae → Columbidae vs Anatidae → Gallus gallus,0.7882352941176471
+Anatidae → Columbidae vs Sus scrofa → Homo sapiens,0.19985739168128605
+Anatidae → Columbidae vs Homo sapiens → Meleagris gallopavo,0.3604395604395604
+Anatidae → Columbidae vs Gallus gallus → Meleagris gallopavo,0.6142857142857142
+Anatidae → Columbidae vs Meleagris gallopavo → Numididae,0.5714285714285714
+Anatidae → Columbidae vs Mareca americana → Anas carolinensis,0.7454545454545454
+Anatidae → Columbidae vs Sus scrofa → Gallus gallus,0.6142857142857142
+Anatidae → Columbidae vs Cygnus olor → Anatidae,1
+Anatidae → Columbidae vs Panthera tigris → Mustela lutreola,0.38095238095238093
+Anatidae → Columbidae vs Anas platyrhynchos → Gallus gallus,0.8095238095238095
+Anatidae → Columbidae vs Gallus gallus → Suricata suricatta,0.6571428571428571
+Anatidae → Columbidae vs Homo sapiens → Anas platyrhynchos,0.5714285714285714
+Anatidae → Columbidae vs Mustela lutreola → Panthera tigris,0.8095238095238095
+Anatidae → Columbidae vs Homo sapiens → Mustela putorius furo,0.3356643356643356
+Anatidae → Columbidae vs Gallus gallus → Spatula discors,0.657142857142857
+Anatidae → Columbidae vs Homo sapiens → Mus musculus,0.49696969696969695
+Anatidae → Columbidae vs Anas platyrhynchos → Cairina moschata,0.657142857142857
+Anatidae → Columbidae vs Gallus gallus → Aves,0.03809523809523809
+Anatidae → Columbidae vs Aves → Gallus gallus,0.09523809523809523
+Anatidae → Columbidae vs Gallus gallus → Columbidae,0.09523809523809523
+Anatidae → Columbidae vs Meleagris gallopavo → Anas carolinensis,0.22857142857142854
+Anatidae → Columbidae vs Aves → Anatidae,0.22857142857142854
+Anatidae → Columbidae vs Aves → Spatula clypeata,0.22857142857142854
+Gallus gallus → Sus scrofa vs Anatidae → Gallus gallus,0.54417985209478
+Gallus gallus → Sus scrofa vs Sus scrofa → Homo sapiens,0.4610019855920271
+Gallus gallus → Sus scrofa vs Homo sapiens → Meleagris gallopavo,0.522811553771306
+Gallus gallus → Sus scrofa vs Gallus gallus → Meleagris gallopavo,0.20816683316683315
+Gallus gallus → Sus scrofa vs Meleagris gallopavo → Numididae,0.5571928071928072
+Gallus gallus → Sus scrofa vs Mareca americana → Anas carolinensis,0.900041135335253
+Gallus gallus → Sus scrofa vs Sus scrofa → Gallus gallus,0.2892107892107892
+Gallus gallus → Sus scrofa vs Cygnus olor → Anatidae,0.1518481518481518
+Gallus gallus → Sus scrofa vs Panthera tigris → Mustela lutreola,0.9920079920079918
+Gallus gallus → Sus scrofa vs Anas platyrhynchos → Gallus gallus,0.8831168831168832
+Gallus gallus → Sus scrofa vs Gallus gallus → Suricata suricatta,0.982017982017982
+Gallus gallus → Sus scrofa vs Homo sapiens → Anas platyrhynchos,0.23264235764235758
+Gallus gallus → Sus scrofa vs Mustela lutreola → Panthera tigris,0.5851648351648351
+Gallus gallus → Sus scrofa vs Homo sapiens → Mustela putorius furo,0.8339647968130939
+Gallus gallus → Sus scrofa vs Gallus gallus → Spatula discors,0.976023976023976
+Gallus gallus → Sus scrofa vs Homo sapiens → Mus musculus,0.8611682435211847
+Gallus gallus → Sus scrofa vs Anas platyrhynchos → Cairina moschata,0.9460539460539459
+Gallus gallus → Sus scrofa vs Gallus gallus → Aves,0.045454545454545456
+Gallus gallus → Sus scrofa vs Aves → Gallus gallus,0.46353646353646355
+Gallus gallus → Sus scrofa vs Gallus gallus → Columbidae,0.44555444555444546
+Gallus gallus → Sus scrofa vs Meleagris gallopavo → Anas carolinensis,0.8921078921078921
+Gallus gallus → Sus scrofa vs Aves → Anatidae,0.7842157842157842
+Gallus gallus → Sus scrofa vs Aves → Spatula clypeata,0.6583416583416584
+Anatidae → Gallus gallus vs Sus scrofa → Homo sapiens,0.34917196996174193
+Anatidae → Gallus gallus vs Homo sapiens → Meleagris gallopavo,0.6415118679050568
+Anatidae → Gallus gallus vs Gallus gallus → Meleagris gallopavo,0.8618421052631579
+Anatidae → Gallus gallus vs Meleagris gallopavo → Numididae,0.9721362229102166
+Anatidae → Gallus gallus vs Mareca americana → Anas carolinensis,0.616074053225756
+Anatidae → Gallus gallus vs Sus scrofa → Gallus gallus,0.6188080495356036
+Anatidae → Gallus gallus vs Cygnus olor → Anatidae,0.25359477124183005
+Anatidae → Gallus gallus vs Panthera tigris → Mustela lutreola,0.31570347437220503
+Anatidae → Gallus gallus vs Anas platyrhynchos → Gallus gallus,0.742862057103543
+Anatidae → Gallus gallus vs Gallus gallus → Suricata suricatta,0.6911764705882351
+Anatidae → Gallus gallus vs Homo sapiens → Anas platyrhynchos,0.911764705882353
+Anatidae → Gallus gallus vs Mustela lutreola → Panthera tigris,0.8662538699690401
+Anatidae → Gallus gallus vs Homo sapiens → Mustela putorius furo,0.5877274562831166
+Anatidae → Gallus gallus vs Gallus gallus → Spatula discors,0.9558823529411764
+Anatidae → Gallus gallus vs Homo sapiens → Mus musculus,0.951238390092879
+Anatidae → Gallus gallus vs Anas platyrhynchos → Cairina moschata,0.9264705882352942
+Anatidae → Gallus gallus vs Gallus gallus → Aves,0.15010319917440657
+Anatidae → Gallus gallus vs Aves → Gallus gallus,0.1398348813209494
+Anatidae → Gallus gallus vs Gallus gallus → Columbidae,0.15650154798761606
+Anatidae → Gallus gallus vs Meleagris gallopavo → Anas carolinensis,0.28398692810457504
+Anatidae → Gallus gallus vs Aves → Anatidae,0.28398692810457504
+Anatidae → Gallus gallus vs Aves → Spatula clypeata,0.25359477124183
+Sus scrofa → Homo sapiens vs Homo sapiens → Meleagris gallopavo,0.8541050791380803
+Sus scrofa → Homo sapiens vs Gallus gallus → Meleagris gallopavo,0.2460081397459193
+Sus scrofa → Homo sapiens vs Meleagris gallopavo → Numididae,0.5940215654765202
+Sus scrofa → Homo sapiens vs Mareca americana → Anas carolinensis,0.5720589595835295
+Sus scrofa → Homo sapiens vs Sus scrofa → Gallus gallus,0.08311108938030941
+Sus scrofa → Homo sapiens vs Cygnus olor → Anatidae,0.04538242745115902
+Sus scrofa → Homo sapiens vs Panthera tigris → Mustela lutreola,0.30499452719635917
+Sus scrofa → Homo sapiens vs Anas platyrhynchos → Gallus gallus,0.206850120437018
+Sus scrofa → Homo sapiens vs Gallus gallus → Suricata suricatta,0.7702056327889546
+Sus scrofa → Homo sapiens vs Homo sapiens → Anas platyrhynchos,0.2399623038234965
+Sus scrofa → Homo sapiens vs Mustela lutreola → Panthera tigris,0.4767368925256165
+Sus scrofa → Homo sapiens vs Homo sapiens → Mustela putorius furo,0.9878737592873069
+Sus scrofa → Homo sapiens vs Gallus gallus → Spatula discors,0.6938645440852885
+Sus scrofa → Homo sapiens vs Homo sapiens → Mus musculus,0.7981580476656275
+Sus scrofa → Homo sapiens vs Anas platyrhynchos → Cairina moschata,0.6938645440852885
+Sus scrofa → Homo sapiens vs Gallus gallus → Aves,0.08919497736856369
+Sus scrofa → Homo sapiens vs Aves → Gallus gallus,0.47585184045542955
+Sus scrofa → Homo sapiens vs Gallus gallus → Columbidae,0.4736154998416226
+Sus scrofa → Homo sapiens vs Meleagris gallopavo → Anas carolinensis,0.6465044470865025
+Sus scrofa → Homo sapiens vs Aves → Anatidae,0.6415571320650406
+Sus scrofa → Homo sapiens vs Aves → Spatula clypeata,0.509470417412036
+Homo sapiens → Meleagris gallopavo vs Gallus gallus → Meleagris gallopavo,0.561732385261797
+Homo sapiens → Meleagris gallopavo vs Meleagris gallopavo → Numididae,0.8574660633484162
+Homo sapiens → Meleagris gallopavo vs Mareca americana → Anas carolinensis,0.856394379614194
+Homo sapiens → Meleagris gallopavo vs Sus scrofa → Gallus gallus,0.2091952165481577
+Homo sapiens → Meleagris gallopavo vs Cygnus olor → Anatidae,0.10549450549450548
+Homo sapiens → Meleagris gallopavo vs Panthera tigris → Mustela lutreola,0.48260073260073255
+Homo sapiens → Meleagris gallopavo vs Anas platyrhynchos → Gallus gallus,0.6153846153846153
+Homo sapiens → Meleagris gallopavo vs Gallus gallus → Suricata suricatta,0.9127343244990305
+Homo sapiens → Meleagris gallopavo vs Homo sapiens → Anas platyrhynchos,0.8291855203619909
+Homo sapiens → Meleagris gallopavo vs Mustela lutreola → Panthera tigris,0.6101325145442792
+Homo sapiens → Meleagris gallopavo vs Homo sapiens → Mustela putorius furo,1
+Homo sapiens → Meleagris gallopavo vs Gallus gallus → Spatula discors,0.9296703296703297
+Homo sapiens → Meleagris gallopavo vs Homo sapiens → Mus musculus,0.9502262443438916
+Homo sapiens → Meleagris gallopavo vs Anas platyrhynchos → Cairina moschata,0.9824175824175823
+Homo sapiens → Meleagris gallopavo vs Gallus gallus → Aves,0.24765675500969617
+Homo sapiens → Meleagris gallopavo vs Aves → Gallus gallus,0.7499191984486102
+Homo sapiens → Meleagris gallopavo vs Gallus gallus → Columbidae,0.759857789269554
+Homo sapiens → Meleagris gallopavo vs Meleagris gallopavo → Anas carolinensis,0.8593406593406594
+Homo sapiens → Meleagris gallopavo vs Aves → Anatidae,0.868131868131868
+Homo sapiens → Meleagris gallopavo vs Aves → Spatula clypeata,0.6732600732600732
+Gallus gallus → Meleagris gallopavo vs Meleagris gallopavo → Numididae,1
+Gallus gallus → Meleagris gallopavo vs Mareca americana → Anas carolinensis,0.5964035964035963
+Gallus gallus → Meleagris gallopavo vs Sus scrofa → Gallus gallus,0.3376623376623376
+Gallus gallus → Meleagris gallopavo vs Cygnus olor → Anatidae,0.18095238095238092
+Gallus gallus → Meleagris gallopavo vs Panthera tigris → Mustela lutreola,0.3181818181818181
+Gallus gallus → Meleagris gallopavo vs Anas platyrhynchos → Gallus gallus,0.35064935064935054
+Gallus gallus → Meleagris gallopavo vs Gallus gallus → Suricata suricatta,0.8961038961038961
+Gallus gallus → Meleagris gallopavo vs Homo sapiens → Anas platyrhynchos,0.8441558441558441
+Gallus gallus → Meleagris gallopavo vs Mustela lutreola → Panthera tigris,0.8961038961038961
+Gallus gallus → Meleagris gallopavo vs Homo sapiens → Mustela putorius furo,0.7014985014985013
+Gallus gallus → Meleagris gallopavo vs Gallus gallus → Spatula discors,0.9714285714285713
+Gallus gallus → Meleagris gallopavo vs Homo sapiens → Mus musculus,0.618881118881119
+Gallus gallus → Meleagris gallopavo vs Anas platyrhynchos → Cairina moschata,0.8285714285714286
+Gallus gallus → Meleagris gallopavo vs Gallus gallus → Aves,0.8441558441558441
+Gallus gallus → Meleagris gallopavo vs Aves → Gallus gallus,0.7662337662337662
+Gallus gallus → Meleagris gallopavo vs Gallus gallus → Columbidae,0.8441558441558441
+Gallus gallus → Meleagris gallopavo vs Meleagris gallopavo → Anas carolinensis,0.8285714285714286
+Gallus gallus → Meleagris gallopavo vs Aves → Anatidae,0.8857142857142857
+Gallus gallus → Meleagris gallopavo vs Aves → Spatula clypeata,0.4952380952380952
+Meleagris gallopavo → Numididae vs Mareca americana → Anas carolinensis,0.976023976023976
+Meleagris gallopavo → Numididae vs Sus scrofa → Gallus gallus,0.4155844155844155
+Meleagris gallopavo → Numididae vs Cygnus olor → Anatidae,0.16190476190476188
+Meleagris gallopavo → Numididae vs Panthera tigris → Mustela lutreola,0.7402597402597402
+Meleagris gallopavo → Numididae vs Anas platyrhynchos → Gallus gallus,0.7662337662337663
+Meleagris gallopavo → Numididae vs Gallus gallus → Suricata suricatta,1
+Meleagris gallopavo → Numididae vs Homo sapiens → Anas platyrhynchos,1
+Meleagris gallopavo → Numididae vs Mustela lutreola → Panthera tigris,1
+Meleagris gallopavo → Numididae vs Homo sapiens → Mustela putorius furo,0.9568431568431568
+Meleagris gallopavo → Numididae vs Gallus gallus → Spatula discors,0.9809523809523809
+Meleagris gallopavo → Numididae vs Homo sapiens → Mus musculus,0.944055944055944
+Meleagris gallopavo → Numididae vs Anas platyrhynchos → Cairina moschata,1
+Meleagris gallopavo → Numididae vs Gallus gallus → Aves,0.35064935064935054
+Meleagris gallopavo → Numididae vs Aves → Gallus gallus,0.9307359307359306
+Meleagris gallopavo → Numididae vs Gallus gallus → Columbidae,0.9307359307359306
+Meleagris gallopavo → Numididae vs Meleagris gallopavo → Anas carolinensis,0.8857142857142857
+Meleagris gallopavo → Numididae vs Aves → Anatidae,0.8285714285714286
+Meleagris gallopavo → Numididae vs Aves → Spatula clypeata,0.8285714285714286
+Mareca americana → Anas carolinensis vs Sus scrofa → Gallus gallus,0.7222777222777224
+Mareca americana → Anas carolinensis vs Cygnus olor → Anatidae,0.4323232323232323
+Mareca americana → Anas carolinensis vs Panthera tigris → Mustela lutreola,0.7202797202797202
+Mareca americana → Anas carolinensis vs Anas platyrhynchos → Gallus gallus,0.9813519813519813
+Mareca americana → Anas carolinensis vs Gallus gallus → Suricata suricatta,1
+Mareca americana → Anas carolinensis vs Homo sapiens → Anas platyrhynchos,0.4945054945054944
+Mareca americana → Anas carolinensis vs Mustela lutreola → Panthera tigris,0.6576756576756577
+Mareca americana → Anas carolinensis vs Homo sapiens → Mustela putorius furo,0.8200740436034555
+Mareca americana → Anas carolinensis vs Gallus gallus → Spatula discors,0.9959595959595959
+Mareca americana → Anas carolinensis vs Homo sapiens → Mus musculus,0.9328671328671329
+Mareca americana → Anas carolinensis vs Anas platyrhynchos → Cairina moschata,0.9959595959595959
+Mareca americana → Anas carolinensis vs Gallus gallus → Aves,0.11655011655011653
+Mareca americana → Anas carolinensis vs Aves → Gallus gallus,0.2773892773892773
+Mareca americana → Anas carolinensis vs Gallus gallus → Columbidae,0.5024975024975025
+Mareca americana → Anas carolinensis vs Meleagris gallopavo → Anas carolinensis,0.7636363636363634
+Mareca americana → Anas carolinensis vs Aves → Anatidae,0.8363636363636364
+Mareca americana → Anas carolinensis vs Aves → Spatula clypeata,0.7454545454545454
+Sus scrofa → Gallus gallus vs Cygnus olor → Anatidae,0.5714285714285714
+Sus scrofa → Gallus gallus vs Panthera tigris → Mustela lutreola,0.11255411255411255
+Sus scrofa → Gallus gallus vs Anas platyrhynchos → Gallus gallus,0.46753246753246747
+Sus scrofa → Gallus gallus vs Gallus gallus → Suricata suricatta,0.8961038961038961
+Sus scrofa → Gallus gallus vs Homo sapiens → Anas platyrhynchos,0.8961038961038961
+Sus scrofa → Gallus gallus vs Mustela lutreola → Panthera tigris,0.8441558441558441
+Sus scrofa → Gallus gallus vs Homo sapiens → Mustela putorius furo,0.20999000999000997
+Sus scrofa → Gallus gallus vs Gallus gallus → Spatula discors,0.8285714285714285
+Sus scrofa → Gallus gallus vs Homo sapiens → Mus musculus,0.17948717948717946
+Sus scrofa → Gallus gallus vs Anas platyrhynchos → Cairina moschata,0.2095238095238095
+Sus scrofa → Gallus gallus vs Gallus gallus → Aves,0.01515151515151515
+Sus scrofa → Gallus gallus vs Aves → Gallus gallus,0.08008658008658008
+Sus scrofa → Gallus gallus vs Gallus gallus → Columbidae,0.3181818181818181
+Sus scrofa → Gallus gallus vs Meleagris gallopavo → Anas carolinensis,0.19047619047619047
+Sus scrofa → Gallus gallus vs Aves → Anatidae,0.19047619047619047
+Sus scrofa → Gallus gallus vs Aves → Spatula clypeata,0.19047619047619047
+Cygnus olor → Anatidae vs Panthera tigris → Mustela lutreola,0.07936507936507936
+Cygnus olor → Anatidae vs Anas platyrhynchos → Gallus gallus,0.2857142857142857
+Cygnus olor → Anatidae vs Gallus gallus → Suricata suricatta,0.42857142857142855
+Cygnus olor → Anatidae vs Homo sapiens → Anas platyrhynchos,0.3571428571428571
+Cygnus olor → Anatidae vs Mustela lutreola → Panthera tigris,0.4380952380952381
+Cygnus olor → Anatidae vs Homo sapiens → Mustela putorius furo,0.08811188811188811
+Cygnus olor → Anatidae vs Gallus gallus → Spatula discors,0.7714285714285714
+Cygnus olor → Anatidae vs Homo sapiens → Mus musculus,0.10606060606060605
+Cygnus olor → Anatidae vs Anas platyrhynchos → Cairina moschata,0.22857142857142854
+Cygnus olor → Anatidae vs Gallus gallus → Aves,0.004761904761904762
+Cygnus olor → Anatidae vs Aves → Gallus gallus,0.047619047619047616
+Cygnus olor → Anatidae vs Gallus gallus → Columbidae,0.06666666666666667
+Cygnus olor → Anatidae vs Meleagris gallopavo → Anas carolinensis,0.22857142857142854
+Cygnus olor → Anatidae vs Aves → Anatidae,0.22857142857142854
+Cygnus olor → Anatidae vs Aves → Spatula clypeata,0.22857142857142854
+Panthera tigris → Mustela lutreola vs Anas platyrhynchos → Gallus gallus,0.7142857142857142
+Panthera tigris → Mustela lutreola vs Gallus gallus → Suricata suricatta,0.6103896103896103
+Panthera tigris → Mustela lutreola vs Homo sapiens → Anas platyrhynchos,0.3376623376623376
+Panthera tigris → Mustela lutreola vs Mustela lutreola → Panthera tigris,0.24675324675324672
+Panthera tigris → Mustela lutreola vs Homo sapiens → Mustela putorius furo,0.6748251748251748
+Panthera tigris → Mustela lutreola vs Gallus gallus → Spatula discors,0.9047619047619047
+Panthera tigris → Mustela lutreola vs Homo sapiens → Mus musculus,0.4431818181818181
+Panthera tigris → Mustela lutreola vs Anas platyrhynchos → Cairina moschata,0.9523809523809523
+Panthera tigris → Mustela lutreola vs Gallus gallus → Aves,0.025974025974025976
+Panthera tigris → Mustela lutreola vs Aves → Gallus gallus,0.35064935064935054
+Panthera tigris → Mustela lutreola vs Gallus gallus → Columbidae,0.3376623376623376
+Panthera tigris → Mustela lutreola vs Meleagris gallopavo → Anas carolinensis,0.9523809523809523
+Panthera tigris → Mustela lutreola vs Aves → Anatidae,0.8571428571428572
+Panthera tigris → Mustela lutreola vs Aves → Spatula clypeata,0.8571428571428572
+Anas platyrhynchos → Gallus gallus vs Gallus gallus → Suricata suricatta,0.896103896103896
+Anas platyrhynchos → Gallus gallus vs Homo sapiens → Anas platyrhynchos,0.8441558441558441
+Anas platyrhynchos → Gallus gallus vs Mustela lutreola → Panthera tigris,0.6493506493506493
+Anas platyrhynchos → Gallus gallus vs Homo sapiens → Mustela putorius furo,0.6223776223776224
+Anas platyrhynchos → Gallus gallus vs Gallus gallus → Spatula discors,0.9365079365079365
+Anas platyrhynchos → Gallus gallus vs Homo sapiens → Mus musculus,0.5984848484848484
+Anas platyrhynchos → Gallus gallus vs Anas platyrhynchos → Cairina moschata,0.9047619047619047
+Anas platyrhynchos → Gallus gallus vs Gallus gallus → Aves,0.11255411255411253
+Anas platyrhynchos → Gallus gallus vs Aves → Gallus gallus,0.13419913419913418
+Anas platyrhynchos → Gallus gallus vs Gallus gallus → Columbidae,0.3376623376623376
+Anas platyrhynchos → Gallus gallus vs Meleagris gallopavo → Anas carolinensis,0.6825396825396826
+Anas platyrhynchos → Gallus gallus vs Aves → Anatidae,0.35714285714285715
+Anas platyrhynchos → Gallus gallus vs Aves → Spatula clypeata,0.35714285714285715
+Gallus gallus → Suricata suricatta vs Homo sapiens → Anas platyrhynchos,0.8961038961038961
+Gallus gallus → Suricata suricatta vs Mustela lutreola → Panthera tigris,0.8441558441558441
+Gallus gallus → Suricata suricatta vs Homo sapiens → Mustela putorius furo,0.9968031968031968
+Gallus gallus → Suricata suricatta vs Gallus gallus → Spatula discors,0.9809523809523809
+Gallus gallus → Suricata suricatta vs Homo sapiens → Mus musculus,0.8741258741258742
+Gallus gallus → Suricata suricatta vs Anas platyrhynchos → Cairina moschata,0.9809523809523809
+Gallus gallus → Suricata suricatta vs Gallus gallus → Aves,0.14285714285714285
+Gallus gallus → Suricata suricatta vs Aves → Gallus gallus,0.8961038961038961
+Gallus gallus → Suricata suricatta vs Gallus gallus → Columbidae,0.8441558441558441
+Gallus gallus → Suricata suricatta vs Meleagris gallopavo → Anas carolinensis,0.8857142857142857
+Gallus gallus → Suricata suricatta vs Aves → Anatidae,0.7523809523809524
+Gallus gallus → Suricata suricatta vs Aves → Spatula clypeata,0.5809523809523809
+Homo sapiens → Anas platyrhynchos vs Mustela lutreola → Panthera tigris,1
+Homo sapiens → Anas platyrhynchos vs Homo sapiens → Mustela putorius furo,0.8075924075924076
+Homo sapiens → Anas platyrhynchos vs Gallus gallus → Spatula discors,0.9619047619047619
+Homo sapiens → Anas platyrhynchos vs Homo sapiens → Mus musculus,0.6538461538461539
+Homo sapiens → Anas platyrhynchos vs Anas platyrhynchos → Cairina moschata,0.9619047619047618
+Homo sapiens → Anas platyrhynchos vs Gallus gallus → Aves,0.2207792207792208
+Homo sapiens → Anas platyrhynchos vs Aves → Gallus gallus,0.8961038961038961
+Homo sapiens → Anas platyrhynchos vs Gallus gallus → Columbidae,0.8441558441558441
+Homo sapiens → Anas platyrhynchos vs Meleagris gallopavo → Anas carolinensis,0.7142857142857142
+Homo sapiens → Anas platyrhynchos vs Aves → Anatidae,0.7142857142857142
+Homo sapiens → Anas platyrhynchos vs Aves → Spatula clypeata,0.37142857142857144
+Mustela lutreola → Panthera tigris vs Homo sapiens → Mustela putorius furo,0.8111888111888113
+Mustela lutreola → Panthera tigris vs Gallus gallus → Spatula discors,0.9714285714285714
+Mustela lutreola → Panthera tigris vs Homo sapiens → Mus musculus,0.9370629370629371
+Mustela lutreola → Panthera tigris vs Anas platyrhynchos → Cairina moschata,0.9571428571428571
+Mustela lutreola → Panthera tigris vs Gallus gallus → Aves,0.4155844155844155
+Mustela lutreola → Panthera tigris vs Aves → Gallus gallus,0.47402597402597396
+Mustela lutreola → Panthera tigris vs Gallus gallus → Columbidae,0.4155844155844155
+Mustela lutreola → Panthera tigris vs Meleagris gallopavo → Anas carolinensis,0.5523809523809523
+Mustela lutreola → Panthera tigris vs Aves → Anatidae,0.5523809523809523
+Mustela lutreola → Panthera tigris vs Aves → Spatula clypeata,0.5238095238095238
+Homo sapiens → Mustela putorius furo vs Gallus gallus → Spatula discors,0.9244755244755245
+Homo sapiens → Mustela putorius furo vs Homo sapiens → Mus musculus,0.9874125874125873
+Homo sapiens → Mustela putorius furo vs Anas platyrhynchos → Cairina moschata,0.9888111888111888
+Homo sapiens → Mustela putorius furo vs Gallus gallus → Aves,0.22677322677322675
+Homo sapiens → Mustela putorius furo vs Aves → Gallus gallus,0.8705294705294705
+Homo sapiens → Mustela putorius furo vs Gallus gallus → Columbidae,0.9376623376623376
+Homo sapiens → Mustela putorius furo vs Meleagris gallopavo → Anas carolinensis,0.9832167832167832
+Homo sapiens → Mustela putorius furo vs Aves → Anatidae,0.9832167832167832
+Homo sapiens → Mustela putorius furo vs Aves → Spatula clypeata,0.6937062937062937
+Gallus gallus → Spatula discors vs Homo sapiens → Mus musculus,0.9030303030303031
+Gallus gallus → Spatula discors vs Anas platyrhynchos → Cairina moschata,1
+Gallus gallus → Spatula discors vs Gallus gallus → Aves,0.2952380952380952
+Gallus gallus → Spatula discors vs Aves → Gallus gallus,0.6571428571428571
+Gallus gallus → Spatula discors vs Gallus gallus → Columbidae,0.6190476190476191
+Gallus gallus → Spatula discors vs Meleagris gallopavo → Anas carolinensis,1
+Gallus gallus → Spatula discors vs Aves → Anatidae,1
+Gallus gallus → Spatula discors vs Aves → Spatula clypeata,1
+Homo sapiens → Mus musculus vs Anas platyrhynchos → Cairina moschata,1
+Homo sapiens → Mus musculus vs Gallus gallus → Aves,0.3006993006993007
+Homo sapiens → Mus musculus vs Aves → Gallus gallus,0.8111888111888111
+Homo sapiens → Mus musculus vs Gallus gallus → Columbidae,0.8414918414918415
+Homo sapiens → Mus musculus vs Meleagris gallopavo → Anas carolinensis,0.90303030303030285
+Homo sapiens → Mus musculus vs Aves → Anatidae,0.8909090909090909
+Homo sapiens → Mus musculus vs Aves → Spatula clypeata,0.5818181818181818
+Anas platyrhynchos → Cairina moschata vs Gallus gallus → Aves,0.2952380952380952
+Anas platyrhynchos → Cairina moschata vs Aves → Gallus gallus,0.6952380952380952
+Anas platyrhynchos → Cairina moschata vs Gallus gallus → Columbidae,0.6571428571428571
+Anas platyrhynchos → Cairina moschata vs Meleagris gallopavo → Anas carolinensis,1
+Anas platyrhynchos → Cairina moschata vs Aves → Anatidae,1
+Anas platyrhynchos → Cairina moschata vs Aves → Spatula clypeata,1
+Gallus gallus → Aves vs Aves → Gallus gallus,0.3376623376623376
+Gallus gallus → Aves vs Gallus gallus → Columbidae,0.8441558441558441
+Gallus gallus → Aves vs Meleagris gallopavo → Anas carolinensis,0.2952380952380952
+Gallus gallus → Aves vs Aves → Anatidae,0.2952380952380952
+Gallus gallus → Aves vs Aves → Spatula clypeata,0.047619047619047616
+Aves → Gallus gallus vs Gallus gallus → Columbidae,1
+Aves → Gallus gallus vs Meleagris gallopavo → Anas carolinensis,0.6952380952380952
+Aves → Gallus gallus vs Aves → Anatidae,1
+Aves → Gallus gallus vs Aves → Spatula clypeata,0.7333333333333334
+Gallus gallus → Columbidae vs Meleagris gallopavo → Anas carolinensis,0.6142857142857142
+Gallus gallus → Columbidae vs Aves → Anatidae,0.9714285714285713
+Gallus gallus → Columbidae vs Aves → Spatula clypeata,0.4714285714285714
+Meleagris gallopavo → Anas carolinensis vs Aves → Anatidae,1
+Meleagris gallopavo → Anas carolinensis vs Aves → Spatula clypeata,1
+Aves → Anatidae vs Aves → Spatula clypeata,1
